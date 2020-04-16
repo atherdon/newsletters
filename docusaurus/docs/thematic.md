@@ -1,24 +1,20 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: thematic
+title: Thematic
+sidebar_label: Thematic
 ---
 
 Thematic
 2019
-* [Black Friday Sponsorship Blast.html](/html/Thematic/2019/)
-* [Blockchain Newsletter 08-03.html](/html/Thematic/2019/)
+* [Black Friday Sponsorship Blast.html](/html/Thematic/2019/Black%20Friday%20Sponsorship%20Blast.html)
+* [Blockchain Newsletter 08-03.html](/html/Thematic/2019/Blockchain%20Newsletter%2008-03.html)
 * [Blockchain Newsletter 08-09.html](/html/Thematic/2019/)
 * [Blockchain Newsletter 09-02.html](/html/Thematic/2019/)
 * [CircleCI - 15th Jan.html](/html/Thematic/2019/)
 * [Comet.Ml - 16th Dec.html](/html/Thematic/2019/)
 * [cometml-18-dec.html](/html/Thematic/2019/)
-* [cometml-18-dec.zip
-Comet.Ml - 6th Dec.html](/html/Thematic/2019/)
+* [Comet.Ml - 6th Dec.html](/html/Thematic/2019/)
 * [Crowdfunding & HN Reader Survey Result V1.html](/html/Thematic/2019/)
-* [December
-BeSeen - 13th December.html](/html/Thematic/2019/)
-* [BeSeen - 26th December.html](/html/Thematic/2019/)
 * [Google - 23rd Nov.html](/html/Thematic/2019/)
 * [Google - 24th Nov.html](/html/Thematic/2019/)
 * [Google - 26th Nov.html](/html/Thematic/2019/)
@@ -30,11 +26,7 @@ BeSeen - 13th December.html](/html/Thematic/2019/)
 * [Noon Dev Weekly (Copy 01).html](/html/Thematic/2019/)
 * [Noon Dev Weekly.html](/html/Thematic/2019/)
 * [Noonies Winners Announcement.html](/html/Thematic/2019/)
-* [November
-Bybit - 25th Nov.html](/html/Thematic/2019/)
-* [Bybit - 27th Nov.html](/html/Thematic/2019/)
-* [Bybit - 28th Nov.html](/html/Thematic/2019/)
-* [* [Product] Dark Mode For Christmas.html](/html/Thematic/2019/)
+* [[Product] Dark Mode For Christmas.html](/html/Thematic/2019/)
 * [Radix - Tech Newsletter 15th Oct.html](/html/Thematic/2019/)
 * [Radix - Tech Newsletter 29th Nov.html](/html/Thematic/2019/)
 * [Range - 11th Nov.html](/html/Thematic/2019/)
@@ -57,10 +49,23 @@ Bybit - 25th Nov.html](/html/Thematic/2019/)
 * [Transifex - 20th Nov.html](/html/Thematic/2019/)
 * [Unsplash + Hacker Noon.html](/html/Thematic/2019/)
 * [Your Words Matter AND Belong To You.html](/html/Thematic/2019/)
-* [2020
+
+
+December
+
+* [BeSeen - 13th December.html](/html/Thematic/2019/)
+* [BeSeen - 26th December.html](/html/Thematic/2019/)
+
+November
+
+* [Bybit - 25th Nov.html](/html/Thematic/2019/)
+* [Bybit - 27th Nov.html](/html/Thematic/2019/)
+* [Bybit - 28th Nov.html](/html/Thematic/2019/)
+
+2020
 January
-Comet.Ml - Jan 13th.html](/html/Thematic/2019/)
+
+* [Comet.Ml - Jan 13th.html](/html/Thematic/2019/)
 * [Comet.Ml - Jan 21th.html](/html/Thematic/2019/)
 * [Transifex - 22nd January.html](/html/Thematic/2019/)
 * [Vettery - January 10th.html](/html/Thematic/2019/)
-* [
