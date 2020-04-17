@@ -38,7 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'thematic', label: 'Docs'},
+    {doc: 'thematic/thematic', label: 'Docs'},
   ],
 
   // If you have users set above, you add it here:
