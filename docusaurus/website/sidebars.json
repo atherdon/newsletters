@@ -2,10 +2,13 @@
   "docs": {
     "Thematic": [
       "thematic/thematic",
-        "thematic/2019/thematic2019",
-          "thematic/2019/thematic-november",
-          "thematic/2019/thematic-december",
-        "thematic/2020/thematic-january"
+      "thematic/2019/thematic2019",
+      "thematic/2019/thematic-november",
+      "thematic/2019/thematic-december",
+      "thematic/2020/thematic-january"
+    ],
+    "Noonifications": [
+      "noonifications/noonifications"
     ]
   }
 }
