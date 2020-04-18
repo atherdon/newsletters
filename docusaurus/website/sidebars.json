@@ -8,7 +8,11 @@
       "thematic/2020/thematic-january"
     ],
     "Noonifications": [
-      "noonifications/noonifications"
+      "noonifications/noonifications",
+      "noonifications/noonifications-april",
+      "noonifications/noonifications-february",
+      "noonifications/noonifications-march",
+      "noonifications/noonifications-unsorted"
     ]
   }
 }
