@@ -4,8 +4,6 @@ title: Noonifications 2020 Unsorted
 sidebar_label: Noonifications 2020 Unsorted
 ---
 
-
-unsorted
 * [The Noon Notification - 01](/newsletters/html/Noonifications/2020/unsorted/The%20Noon%20Notification%20-%2001.html)
 * [The Noon Notification - 02](/newsletters/html/Noonifications/2020/unsorted/The%20Noon%20Notification%20-%2002.html)
 * [The Noon Notification - 03](/newsletters/html/Noonifications/2020/unsorted/The%20Noon%20Notification%20-%2003.html)
