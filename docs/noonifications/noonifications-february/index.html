@@ -1,0 +1,79 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Noonifications 2020 February · Test Site</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="* [The Noon Notification - Ably - Feb 20](/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Ably%20-%20Feb%2020.html)"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Noonifications 2020 February · Test Site"/><meta property="og:type" content="website"/><meta property="og:url" content="https://atherdon.github.io/newsletters/"/><meta property="og:description" content="* [The Noon Notification - Ably - Feb 20](/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Ably%20-%20Feb%2020.html)"/><meta property="og:image" content="https://atherdon.github.io/newsletters/img/undraw_online.svg"/><meta name="twitter:card" content="summary"/><meta name="twitter:image" content="https://atherdon.github.io/newsletters/img/undraw_tweetstorm.svg"/><link rel="shortcut icon" href="/newsletters/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/newsletters/js/scrollSpy.js"></script><link rel="stylesheet" href="/newsletters/css/main.css"/><script src="/newsletters/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/newsletters/"><img class="logo" src="/newsletters/img/favicon.ico" alt="Test Site"/><h2 class="headerTitleWithLogo">Test Site</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class="siteNavGroupActive"><a href="/newsletters/docs/thematic/thematic" target="_self">Docs</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Noonifications</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Thematic</h3><ul class=""><li class="navListItem"><a class="navItem" href="/newsletters/docs/thematic/thematic">Thematic</a></li><li class="navListItem"><a class="navItem" href="/newsletters/docs/thematic/2019/thematic2019">Thematic 2019</a></li><li class="navListItem"><a class="navItem" href="/newsletters/docs/thematic/2019/thematic-november">Thematic 2019 November</a></li><li class="navListItem"><a class="navItem" href="/newsletters/docs/thematic/2019/thematic-december">Thematic 2019 December</a></li><li class="navListItem"><a class="navItem" href="/newsletters/docs/thematic/2020/thematic2020">Thematic 2020</a></li><li class="navListItem"><a class="navItem" href="/newsletters/docs/thematic/2020/thematic-january">Thematic 2020 January</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Noonifications</h3><ul class=""><li class="navListItem"><a class="navItem" href="/newsletters/docs/noonifications/noonifications">Noonifications</a></li><li class="navListItem"><a class="navItem" href="/newsletters/docs/noonifications/noonifications-january">Noonifications 2020 January</a></li><li class="navListItem"><a class="navItem" href="/newsletters/docs/noonifications/noonifications-april">Noonifications 2020 April</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/newsletters/docs/noonifications/noonifications-february">Noonifications 2020 February</a></li><li class="navListItem"><a class="navItem" href="/newsletters/docs/noonifications/noonifications-march">Noonifications 2020 March</a></li><li class="navListItem"><a class="navItem" href="/newsletters/docs/noonifications/noonifications-unsorted">Noonifications 2020 Unsorted</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">Noonifications 2020 February</h1></header><article><div><span><ul>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Ably%20-%20Feb%2020.html">The Noon Notification - Ably - Feb 20</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Amazon%20Hackernoon%20-%20Feb%2021.html">The Noon Notification - Amazon Hackernoon - Feb 21</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Amazon%20Hackernoon%20-%20Feb%2022.html">The Noon Notification - Amazon Hackernoon - Feb 22</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Amazon%20Hackernoon%20-%20Feb%2023.html">The Noon Notification - Amazon Hackernoon - Feb 23</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Amazon%20Hackernoon%20-%20Feb%2024.html">The Noon Notification - Amazon Hackernoon - Feb 24</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Amazon%20Hackernoon%20-%20Feb%2025.html">The Noon Notification - Amazon Hackernoon - Feb 25</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Brave%20-%20Feb%2012.html">The Noon Notification - Brave - Feb 12</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Brave%20-%20Feb%2013.html">The Noon Notification - Brave - Feb 13</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Brave%20-%20Feb%2014.html">The Noon Notification - Brave - Feb 14</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Brave%20-%20Feb%2015.html">The Noon Notification - Brave - Feb 15</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Brave%20-%20Feb%2016.html">The Noon Notification - Brave - Feb 16</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Brave%20-%20Feb%2017.html">The Noon Notification - Brave - Feb 17</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Brave%20-%20Feb%2019.html">The Noon Notification - Brave - Feb 19</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Fairspin%20-%20Feb%2028.html">The Noon Notification - Fairspin - Feb 28</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Hackernoon%20AMA%20-%20Francis%20Lacoste%20-%20Feb%2029.html">The Noon Notification - Hackernoon AMA - Francis Lacoste - Feb 29</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Hackernoon%20SDR%20-%20Feb%2026.html">The Noon Notification - Hackernoon SDR - Feb 26</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Hackernoon%20SDR%20-%20Feb%2027.html">The Noon Notification - Hackernoon SDR - Feb 27</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Radix%20.tech%20-%20Feb%2018.html">The Noon Notification - Radix .tech - Feb 18</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20VP%20Sponsor%20-%20Feb%2010.html">The Noon Notification - VP Sponsor - Feb 10</a></li>
+<li><a href="/newsletters/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20VP%20Sponsor%20-%20Feb%2011.html">The Noon Notification - VP Sponsor - Feb 11</a></li>
+</ul>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/newsletters/docs/noonifications/noonifications-april"><span class="arrow-prev">← </span><span>Noonifications 2020 April</span></a><a class="docs-next button" href="/newsletters/docs/noonifications/noonifications-march"><span>Noonifications 2020 March</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/newsletters/" class="nav-home"><img src="/newsletters/img/favicon.ico" alt="Test Site" width="66" height="58"/></a><div><h5>Docs</h5><a href="/newsletters/docs/en/doc1.html">Getting Started (or other categories)</a><a href="/newsletters/docs/en/doc2.html">Guides (or other categories)</a><a href="/newsletters/docs/en/doc3.html">API Reference (or other categories)</a></div><div><h5>Community</h5><a href="/newsletters/en/users.html">User Showcase</a><a href="https://stackoverflow.com/questions/tagged/" target="_blank" rel="noreferrer noopener">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a><a href="https://twitter.com/" target="_blank" rel="noreferrer noopener">Twitter</a></div><div><h5>More</h5><a href="/newsletters/blog">Blog</a><a href="https://github.com/">GitHub</a><a class="github-button" data-icon="octicon-star" data-count-href="/facebook/docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><a href="https://opensource.facebook.com/" target="_blank" rel="noreferrer noopener" class="fbOpenSource"><img src="/newsletters/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyright © 2020 Your Name or Your Company Name</section></footer></div></body></html>
