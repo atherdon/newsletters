@@ -68,7 +68,7 @@ P.S. Did you know that Hacker Noon offers 3 FREE <a href="https://sponsor.hacker
 </span></span></div>
 
 
-text-decoration: underline;
+style="text-decoration: underline;"
 text-decoration: underline;
 text-decoration: underline;
 
