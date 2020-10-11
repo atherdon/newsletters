@@ -22,20 +22,6 @@ Conversion notes:
 
 ----->
 
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 5.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # How Data Quality Issues Separate You From Your Perfect Data
 
 Did you know that 80% of all digital data is incorrect according to Observe Point? Indeed, with data becoming a major buzzword, data quality has been a point of interest for most data specialists. Superior-quality data is the ultimate driver of [revenue for modern businesses](https://hackernoon.com/how-the-heck-did-robinhood-become-so-popular-a-data-driven-analysis-3rj3u2y). Good data quality can generate unprecedented lead conversion rates, account-based success, and closed-won deals. Poor quality, on the contrary, can significantly drop the ROI of a company’s CRM and marketing automation investment.
@@ -44,10 +30,7 @@ With that being said, let us take you through the biggest reasons why [bad data]
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.gif "image_tooltip")
+![alt_text](https://raw.githubusercontent.com/atherdon/newsletters/master/archive/img/memes/october/6/31.gif "image_tooltip")
 
 
 
@@ -66,10 +49,8 @@ But who is to blame for data duplication? There are a few guilty parties:
 
 ##
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](https://raw.githubusercontent.com/atherdon/newsletters/master/archive/img/memes/october/6/31.gif "image_tooltip")
 
 
 
@@ -78,11 +59,7 @@ But who is to blame for data duplication? There are a few guilty parties:
 Inconsistent data formatting is another issue that [haunts most organizations](https://hackernoon.com/creating-a-dataset-sucks-heres-what-ive-learned-to-make-it-a-little-bit-easier-5av3ed1). If the data is saved in inconsistent formats, the systems used to analyze the information may not interpret it as needed. If the company [collects](https://hackernoon.com/how-to-segment-shopify-customer-base-with-google-sheets-and-google-data-studio-3mv3wm4) the database of their consumers, then the format for basic data pieces should be specified. It may be especially challenging for systems to differentiate the U.S and European-style dates and phone numbers, especially when some have area codes and others don't.
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.gif "image_tooltip")
+![alt_text](https://raw.githubusercontent.com/atherdon/newsletters/master/archive/img/memes/october/6/31.gif "image_tooltip")
 
 
 
@@ -91,11 +68,7 @@ Inconsistent data formatting is another issue that [haunts most organizations](h
 Finally, it is pointless to carry out data analysis or interacting with users based on data that is just wrong. Genius, right? But don’t be so quick to roll your eyes. If it were an uncommon pain, this issue wouldn’t make it to our list. Inaccurate data is generated for a number of reasons. This could be your customers providing erroneous information to a human operator. This could be details ending up in the wrong field. Incorrect data is especially tricky to detect, since entering an incorrect but valid phone number that conforms to the general formatting is almost impossible to detect.
 
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.jpg "image_tooltip")
+![alt_text](https://raw.githubusercontent.com/atherdon/newsletters/master/archive/img/memes/october/6/31.gif "image_tooltip")
 
 
 
@@ -110,8 +83,4 @@ On a similar note, we’d like to thank [Flatfile.io](https://bit.ly/3kPloFW) fo
 [Got a tech story to share with our readers?](http://auth.hackernoon.com/) Everything you've ever wanted to know about how to get published on Hacker Noon - [get it here](https://hackernoon.com/how-to-get-published-on-hacker-noon-a-step-by-step-guide-zcp36rz).
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.gif "image_tooltip")
+![alt_text](https://raw.githubusercontent.com/atherdon/newsletters/master/archive/img/memes/october/6/31.gif "image_tooltip")
