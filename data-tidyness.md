@@ -21,13 +21,6 @@ Conversion notes:
 * Tables are currently converted to HTML tables.
 ----->
 
-
-New AD Copy: Ship the data importer you always dreamed of.
-
-Top link: [https://bit.ly/30AWyC4](https://bit.ly/30AWyC4)
-
-Bottom link: [https://bit.ly/3notFmn](https://bit.ly/3notFmn)
-
 **Can We Make Data Tidy?**
 
 Imagine: You are going to sit down with a newly-fetched [data set](https://hackernoon.com/rare-datasets-for-computer-vision-every-machine-learning-expert-must-work-with-2ddaf52ad862), excited about the insights it will bring you and then you find out it is no use. If you’ve been there, then you know for sure what an [untidy dataset](https://hackernoon.com/tagged/dataset) is.
