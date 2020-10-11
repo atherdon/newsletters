@@ -34,9 +34,6 @@ It goes without saying that data is the cornerstone of any data analysis. As for
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](https://github.com/atherdon/newsletters/blob/master/archive/img/memes/october/4/7.jpg "image_tooltip")
 
 
@@ -49,9 +46,6 @@ Essentially, data cleaning or cleansing refers to the process of pinpointing and
 
 Although it may sound intimidating, it is not that painful in reality. After you master a few techniques, it will go off without a hitch.
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](https://github.com/atherdon/newsletters/blob/master/archive/img/memes/october/4/7.jpg "image_tooltip")
@@ -68,10 +62,6 @@ And by little, we mean thorough and profound planning. You didn’t [think](http
 
 Instead of focusing on the final objective at the very beginning, chart out an actual plan. It should include the necessary degree of precision, formatting, and the relevance of data itself. If it is still debatable, go for a pilot study first. Once you’ve outlined the phases of your study, you can anticipate the result you are getting (remember that guy-tapping-head meme?)
 
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](https://github.com/atherdon/newsletters/blob/master/archive/img/memes/october/4/7.jpg "image_tooltip")
@@ -115,10 +105,6 @@ Once your [data cleanup](https://hackernoon.com/the-essential-data-cleansing-che
 Although these questions may seem plain as the nose on your face, most people don’t stop to mull over them.
 
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](https://github.com/atherdon/newsletters/blob/master/archive/img/memes/october/4/7.jpg "image_tooltip")
 
 
@@ -133,9 +119,6 @@ For the finale, shout out to our cool sponsor - [Flat File.io.](https://bit.ly/3
 
 [Got a tech story to share with our readers?](http://auth.hackernoon.com/) Everything you've ever wanted to know about how to get published on Hacker Noon - [get it here](https://hackernoon.com/how-to-get-published-on-hacker-noon-a-step-by-step-guide-zcp36rz).
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](https://github.com/atherdon/newsletters/blob/master/archive/img/memes/october/4/7.jpg "image_tooltip")
