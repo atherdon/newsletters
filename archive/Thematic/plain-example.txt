@@ -1,0 +1,89 @@
+*|MC_PREVIEW_TEXT|*
+
+http://www.hackernoon.com
+http://bit.ly/37ociZJ
+
+About the Cloud: the pros and cons of the various cloud strategies. Listen now. (http://bit.ly/37ociZJ)
+
+
+** T
+------------------------------------------------------------
+Today I want to explain how you can simplify your dev processes and save time without growing a new colony of bugs. Everybody knows that unique and custom "something" requires a lot of hard work and costs a lot. This is why many years ago, only rich people had the opportunity to access some cool products.
+
+The industrial revolution has changed it. Simplified processes made it more organized and created a set of rules for work, as well as reduced human error margins. This is why goods, products, and tools are better, cheaper, and mass-produced now.
+Web development costs less than it used to five years ago.
+Mmm, I remember jQuery 3.2.1, jQuery UI, and all these sliders, combo boxes, that always broke on Internet Explorer. And even at those dark times, there was a trend for optimization and simple improvements.
+
+Plugins were getting popularity. They solve problems and make your website fancier. But they have led to new challenges as well. You do 95% of work, and then you should go from the beginning because this is not a plugin that you are looking for.
+
+Even now, great developers struggle with date-pickers.
+Thanks to cool plugins that can't ideally fit into custom cases I was able to learn JS from professionals. I opened the source code and read it. I know it works fantastically, and the code looks very cool too. And I tried to tweak it. No, it was not auto-updated at that time. The main goal was not to break things. It might look hard back then, but it was a different requirement.
+
+
+Now you should be an air fighter, even if you will only water cornfields.
+Imagine a custom "Upload File" button; in some cases, it will work on Flash (OK, Boomer), and after that, you'll need to duplicate this file on different sizes and upload on S3.
+
+
+
+Later, Twitter Bootstrap was born, and it was a good time for me. As a developer, I understand that with current preparations, all layouts will look amazing. But everyone was arguing with me—especially 'PSD to HTML' people. They know they can create a layout that was designed using fewer lines of code. But they always forget that design !=  a real project. And with Bootstrap and Sass, I was able to do it without their work at all :)
+
+
+
+By using great battle-testing modular structure, that I understand pretty well, I have solved a lot of problems in my projects. I don't need to run to the next room and beg HTML markuper for help when she has some spare time.
+
+I think that creating something from scratch and on-the-go  -  is just a black hole for money and energy. Yeah, there are a lot of such situations.
+[gif no]
+
+But more often, playing without a proper plan will result in wasted money for project stakeholders.
+
+Each project can be split into parts, then into modules, and then into 'atoms'.  And your project is huge and complex (usually). It means working under high pressure. So why are you trying to make things worse and generate more work for yourself?
+Split it into parts and work separately on functionality, it will help you a lot.
+Especially if your project IS VERY AGILE.
+
+The same goes for big payment systems with proper funding using blocks/templates and default page layouts. Because when you are simplifying everything, it's hard to break it later.
+
+
+
+Let's think about this:
+* you can break the wooden branch by hands;
+* you can even try to destroy it and make it very small pieces of wood;
+* you can use a knife and separate wood into cellulose fiber
+
+But you can't break molecular bounds, do you?
+
+Or even split an atom? This is why it rocks. So trust in physics and do your frontend work professionally.
+
+
+Don't upset me, OK?
+
+OK, Back to the Internet!
+
+Working from home? Same here :)
+
+
+Building products today related to working with cloud and cloud service providers. "Localhost" doesn't work anymore. I'm not a pro here, so it's better to hear an opinion and insights from the best experts.
+
+Welcome Heroku (http://bit.ly/37ociZJ) , today`s newsletter sponsor. Heroku Code[ish] (http://bit.ly/37ociZJ) is a podcast where real developers talk (http://bit.ly/37ociZJ) about different aspects of their work and life, even behind the laptop screen (http://bit.ly/37ociZJ) . So, jump into Code[ish] podcast (http://bit.ly/37ociZJ) , where Robert Blumen (http://bit.ly/37ociZJ)  (Lead DevOps Engineer) talks to Giorgio Regmi (http://bit.ly/37ociZJ)  (CTO, Scality) about incorporating cloud strategies (http://bit.ly/37ociZJ) into product development.
+
+Got a tech story to share (http://auth.hackernoon.com) with our audience of 4M+ monthly readers? Everything you've ever wanted to know about how to get published on Hacker Noon - get it here (https://hackernoon.com/how-to-get-published-on-hacker-noon-a-step-by-step-guide-zcp36rz) .
+
+http://bit.ly/37ociZJ
+
+About the Cloud: the pros and cons of the various cloud strategies. Listen now. (http://bit.ly/37ociZJ)
+
+https://hackernoon.com/
+
+============================================================
+** Twitter (https://twitter.com/hackernoon)
+** Facebook (https://www.facebook.com/hackernoon)
+** Instagram (https://instagram.com/hackernoon/)
+** Website (http://hackernoon.com)
+** YouTube (https://www.youtube.com/channel/UChu5YILgrOYOfkfRlTB-D-g)
+** Email (mailto:stories@hackernoon.com)
+Copyright © 2019 Hacker Noon. All rights reserved.
+
+Our mailing address is:
+PO Box 2206, Edwards CO, 81632, U.S.A.
+
+** unsubscribe (*|UNSUB|*)
+** Click Here To Sponsor A Newsletter by Hacker Noon (https://sponsor.hackernoon.com/#newsletter)
