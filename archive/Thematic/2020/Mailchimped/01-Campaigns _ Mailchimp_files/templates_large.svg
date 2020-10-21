@@ -1,0 +1,14 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="7" y="7" width="22" height="22" rx="3" stroke="#716B67" stroke-width="2"/>
+<mask id="path-3-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 0H5V5H0V22C0 24.2091 1.79086 26 4 26H22C24.2091 26 26 24.2091 26 22V4C26 1.79086 24.2091 0 22 0Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 0H5V5H0V22C0 24.2091 1.79086 26 4 26H22C24.2091 26 26 24.2091 26 22V4C26 1.79086 24.2091 0 22 0Z" fill="white"/>
+<path d="M5 0V-2H3V0H5ZM5 5V7H7V5H5ZM0 5V3H-2V5H0ZM5 2H22V-2H5V2ZM3 0V5H7V0H3ZM5 3H0V7H5V3ZM2 22V5H-2V22H2ZM4 24C2.89543 24 2 23.1046 2 22H-2C-2 25.3137 0.686291 28 4 28V24ZM22 24H4V28H22V24ZM24 22C24 23.1046 23.1046 24 22 24V28C25.3137 28 28 25.3137 28 22H24ZM24 4V22H28V4H24ZM22 2C23.1046 2 24 2.89543 24 4H28C28 0.686292 25.3137 -2 22 -2V2Z" fill="#716B67" mask="url(#path-3-inside-1)"/>
+<mask id="path-5-inside-2" fill="white">
+<rect x="5" y="10" width="16" height="5" rx="1"/>
+</mask>
+<rect x="5" y="10" width="16" height="5" rx="1" stroke="#716B67" stroke-width="4" mask="url(#path-5-inside-2)"/>
+<rect x="5" y="17" width="16" height="2" rx="1" fill="#716B67"/>
+<path d="M2.5 2.5L5 0V5H0L2.5 2.5Z" fill="#716B67"/>
+</svg>
