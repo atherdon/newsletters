@@ -1,0 +1,1 @@
+Moved into this place: https://github.com/atherdon/markdown-to-email
