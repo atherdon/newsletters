@@ -3,3 +3,5 @@
 # newsletters
 
 layout https://thegrind.news/
+
+https://pjrvs.com/articles
