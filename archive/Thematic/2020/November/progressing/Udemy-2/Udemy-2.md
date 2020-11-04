@@ -3,7 +3,7 @@
 
 Many people are [learning online](https://hackernoon.com/5-ways-edtech-startups-are-setting-classroom-innovation-trends-o05p3y4z), and I [understand that](https://hackernoon.com/tagged/future). Scroll to see reasons and memes(below).
 
-![](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/20.11/four.gif)
+![](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/21.11/three.png)
 
 # Flexibility
 
@@ -13,15 +13,15 @@ Plus, I always hate when [teachers start to separate kids in my classroom](https
 
 So let’s say, one child is a teacher’s pet because he always does homework on time. Another child is considered dumb, so the teacher doesn’t even bother to give him or her an advanced task. And the third student just needs to catch up on some material, but nobody would wait for him or her. I switch between school and places that I call home a lot, so it's a pretty common thing.
 
-![](./0006-✈ xxx_files/50997fa4-7b38-4d3f-aa34-714af92cf5a6.jpg")
+![](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/21.11/five.jpg)
 
 **2 Learn from** [top experts](https://hackernoon.com/episode-30-opening-the-css-box-and-practices-41858d77479f) (you can't just afford to purchase the same amount of quality from local teachers or you just can’t afford to be mentored offline)
 
-![](./0006-✈ xxx_files/969310f4-049b-40e4-a139-38ca5e09ca95.jpg)
+![](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/21.11/six.jpg)
 
 3  **Online content is accessible**. But only if you have the internet. There are still many places that don’t have the luxury of using the Internet. But it definitely better than [it was before](https://hackernoon.com/the-online-tech-teaching-hustle-w-udemy-bdad05e49d02), like 15 years ago. Still, I will be happy to see how everything will change when another 2 billion people join us. They will make it a better place, for sure.
 
-![](./0006-✈ xxx_files/4d80eaee-9133-4b6b-8cb9-2874581331a1.jpg)  
+![](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/21.11/two.jpg)
 
 4 You can work and still be able to learn in your spare time. 
 
@@ -29,7 +29,7 @@ Offline [teachers are humans](https://hackernoon.com/the-online-tech-teaching-hu
 
 But our geoid Earth includes different time zones, so you are reachable for people from another country.
 
-![](./0006-✈ xxx_files/145da945-5f4d-4f3e-a0cf-b752c74c568a.jpeg)  
+![](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/21.11/four.jpeg)
 
 5 Resources of efficiency
 
@@ -43,11 +43,11 @@ But it was my first step. I broke the wall of a scare, and even having low energ
 
 **Working from home? Same here :)**
 
-![](./0006-✈ xxx_files/56c87379-d50a-4eb8-8f89-5e0d65d810d9.jpeg)
+![](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/21.11/one.jpeg)
 
 *Welcome Udemy, today`s newsletter sponsor.*
 
-![](./0006-✈ xxx_files/c0d5e544-5b47-4f59-80ff-9fe297c89d8b.jpg) 
+![](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/21.11/seven.jpg) 
 
 [Got a tech story to share? Everything you've ever wanted to know about how to get published on Hacker Noon - get it here.](https://hackernoon.com/how-to-get-published-on-hacker-noon-a-step-by-step-guide-zcp36rz) 
  
