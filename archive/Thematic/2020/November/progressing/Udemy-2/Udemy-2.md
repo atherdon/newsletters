@@ -1,7 +1,7 @@
 
 # Investment in knowledge pays the best interest [part tres]
 
-Many people are [learning online](h), and I [understand that](https://hackernoon.com/tagged/future). Scroll to see reasons and memes(below).
+Many people are [learning online](https://hackernoon.com/5-ways-edtech-startups-are-setting-classroom-innovation-trends-o05p3y4z), and I [understand that](https://hackernoon.com/tagged/future). Scroll to see reasons and memes(below).
 
 ![](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/21.11/three.png)
 
