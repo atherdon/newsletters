@@ -16,6 +16,14 @@ Alright, these were the blemishes of the centralized system. What about IPFS? Ar
 As you see, IPFS is a relatively new notion. Since most people aren’t familiar with it, it hasn’t gained much popularity. However, as the flaws of the current system are now more obvious than ever, the need for a change is definitely pressing.
 
 
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/logos/thematic/2020/November/udemy-logo.png
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/20.11/two.gif
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/20.11/three.gif
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/20.11/six.gif
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/20.11/seven.gif
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/20.11/one.gif
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/20.11/four.gif
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/20.11/five.jpg
 
 
 

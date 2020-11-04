@@ -3,7 +3,7 @@
 
 Many people are [learning online](https://hackernoon.com/5-ways-edtech-startups-are-setting-classroom-innovation-trends-o05p3y4z), and I [understand that](https://hackernoon.com/tagged/future). Scroll to see reasons and memes(below).
 
-![](./0006-✈ xxx_files/57fc2229-0ab4-4c49-b81f-e4ef80ceea25.png)
+![](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/20.11/four.gif)
 
 # Flexibility
 
