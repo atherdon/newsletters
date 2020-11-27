@@ -19,9 +19,7 @@ However, this sounds too good to be true. Still, the challenges of remote work a
 
 
 
-https://hackernoon.com/tagged/hackernoon-top-story
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/1.gif
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/1.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
 
 ## The Evolution Of Cybersecurity Threats During The Pandemic
 
@@ -31,9 +29,9 @@ While the world is fighting the global health threats posed by COVID-19, cybercr
 
 
 
- https://hackernoon.com/tagged/hackernoon-top-story
- https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/2.gif
 
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/2.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
 
 
 According to [research](https://www.preprints.org/manuscript/202009.0630/v1/download), since April, the total number of spam messages has almost reached 1 mln, whereas the overall quantity of malware attack and malicious links has ramped up to 737 and 48k respectively.
@@ -43,9 +41,10 @@ The first wake-up call grabbed headlines on April 21<sup>st</sup>, 2020. The [cy
 
 
 
-![alt_text](images/image1.png "image_tooltip")
-Source: https://www.preprints.org/manuscript/202009.0630/v1/download
-
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/image1.png
+Source:
+https://www.preprints.org/manuscript/202009.0630/v1/download
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/image1.png][https://www.preprints.org/manuscript/202009.0630/v1/download][alt text]
 
 
 ## Not By Phishing Only
@@ -63,7 +62,7 @@ According to the data provided by global agencies, the key cybersecurity threats
 
 https://hackernoon.com/tagged/hackernoon-top-story
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/3.gif
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/3.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
 
 *   **Remote Desktop Protocol (RDP) Targeting** – McAfee report has demonstrated a surge in the number of attacks targeting RDP. This spurt led to a growing number of dark web markets selling RDP credentials. While your personnel have to log into systems remotely, limited and secure access by VPN can reduce the scale of the disaster.
 
@@ -71,7 +70,7 @@ https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/novem
 https://hackernoon.com/tagged/hackernoon-top-story
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/4.gif
 
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/4.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
 
 _Join us to welcome today’s newsletter sponsor, the OG NordVPN. It offers top-notch security features, a strict no-log policy, fast speeds, and a LOT of servers. It protects your devices so you don't have to. Buy NordVPN today at [68% off with 3 months FREE](https://bit.ly/3pGj1Zq) to maintain your privacy._
 
@@ -79,7 +78,7 @@ _Join us to welcome today’s newsletter sponsor, the OG NordVPN. It offers top-
 https://hackernoon.com/tagged/hackernoon-top-story
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/5.gif
 
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/5.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
 
 ## The Final Word
 
@@ -88,3 +87,4 @@ With lockdowns and social distancing measures rolling into a new round, companie
 
 https://hackernoon.com/tagged/hackernoon-top-story
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/6.gif
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/6.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
