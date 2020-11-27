@@ -41,11 +41,8 @@ The first wake-up call grabbed headlines on April 21<sup>st</sup>, 2020. The [cy
 
 
 
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/image1.png
-Source:
-https://www.preprints.org/manuscript/202009.0630/v1/download
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/image1.png][https://www.preprints.org/manuscript/202009.0630/v1/download][alt text]
-
+Source: https://www.preprints.org/manuscript/202009.0630/v1/download
 
 ## Not By Phishing Only
 
@@ -60,31 +57,25 @@ According to the data provided by global agencies, the key cybersecurity threats
 
 *   **Ransomware** – COVID-19 has also created a ripe environment for ransomware infection. In most cases, it featured information about vaccines, government assistance, free downloads for conferencing platforms, and critical updates. Sometimes, cyber thieves were more creative using double extortion and encrypting all your data. While sabotaging ransomware attacks is the best solution, being all set with backups is the next best.
 
-https://hackernoon.com/tagged/hackernoon-top-story
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/3.gif
+
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/3.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
 
 *   **Remote Desktop Protocol (RDP) Targeting** – McAfee report has demonstrated a surge in the number of attacks targeting RDP. This spurt led to a growing number of dark web markets selling RDP credentials. While your personnel have to log into systems remotely, limited and secure access by VPN can reduce the scale of the disaster.
 
 
-https://hackernoon.com/tagged/hackernoon-top-story
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/4.gif
 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/4.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
 
 _Join us to welcome today’s newsletter sponsor, the OG NordVPN. It offers top-notch security features, a strict no-log policy, fast speeds, and a LOT of servers. It protects your devices so you don't have to. Buy NordVPN today at [68% off with 3 months FREE](https://bit.ly/3pGj1Zq) to maintain your privacy._
 
 
-https://hackernoon.com/tagged/hackernoon-top-story
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/5.gif
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/6.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/5.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
 
 ## The Final Word
 
 With lockdowns and social distancing measures rolling into a new round, companies have to amplify distributed workforce cybersecurity as remote work continues into the future. Therefore, along with reassessing productivity tools, business leaders must re-examine the elements of their cybersecurity stacks to ramp up remote business continuity. As for the remote workers, cyber hygiene and increased vigilance are the best policies against thwarting most cyber attacks. That’s when NordVPN comes on stage. It doubles the protection while ensuring fast and stable speeds all around.
 
 
-https://hackernoon.com/tagged/hackernoon-top-story
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/6.gif
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/6.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/29.11/5.gif][https://hackernoon.com/tagged/hackernoon-top-story][alt text]
