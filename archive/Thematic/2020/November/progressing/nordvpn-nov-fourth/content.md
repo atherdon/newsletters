@@ -1,49 +1,4 @@
-<!-- Copy and paste the converted output. -->
 
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 1.115 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Sun Nov 29 2020 23:59:27 GMT-0800 (PST)
-* Source doc: NordVPN Newletter#4: Top Sectors Prone To Cyber Threats During The Pandemic
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
-
-WARNING:
-You have 2 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 8.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-# NordVPN4
 
 
 # Top Sectors Prone To Cyber Threats During The Pandemic
@@ -53,8 +8,6 @@ When the coronavirus pandemic burst out, corporate functions shifted priorities 
 However, as a [remote job](https://hackernoon.com/tagged/remote) situation becomes the new normal for businesses across the world, it is time to face the truth. Rapid responses to the coronavirus pandemic [have left organizations vulnerable](https://hackernoon.com/how-to-prevent-data-theft-with-cybersecurity-bjn3w8g) to [security](https://hackernoon.com/6-cybersecurity-tools-youll-need-to-know-about-in-2019-6232eeb1c9ca) breaches. As of May 2nd, the FBI [reported an 800% increase](https://securityboulevard.com/2020/08/the-massive-shift-to-cyber-crime/) in cyber crimes with COVID-themed [malware](https://hackernoon.com/zooms-security-issues-now-endanger-the-online-privacy-of-minors-and-teachers-7ti2320f) being the absolute winners among all.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image1.gif "image_tooltip")
@@ -68,13 +21,13 @@ With that being said, let us give you a [rundown on the industries](https://hack
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image2.gif "image_tooltip")
 
 
 https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE
+
 
 
 ## [Cyberattacks](https://hackernoon.com/most-popular-types-of-cyber-attacks-against-individual-users-part-ii-e75067161aaf) During The Pandemic
@@ -87,7 +40,8 @@ According to the [INTERPOL report](https://www.interpol.int/News-and-Events/News
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 
 
 ![alt_text](images/image3.gif "image_tooltip")
@@ -103,13 +57,16 @@ They masquerade malicious files as [government](https://hackernoon.com/an-introd
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/image4.gif "image_tooltip")
 
 
 https://giphy.com/gifs/comics-swipe-dating-MeD5aQGCC2Asg94lWF
+
+
+
 
 ### 3. Banking
 
@@ -119,7 +76,9 @@ We are leaning on online banking so much that this dependence has created a bree
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+
 
 
 ![alt_text](images/image5.gif "image_tooltip")
@@ -127,13 +86,18 @@ We are leaning on online banking so much that this dependence has created a bree
 
 [https://giphy.com/gifs/mask-superhero-chloe-grace-moretz-SwTZOgvEEis3C](https://giphy.com/gifs/mask-superhero-chloe-grace-moretz-SwTZOgvEEis3C)
 
+
+
+
+
+
 ### 4. E-commerce
 
 Although [most businesses](https://hackernoon.com/effects-a-data-breach-can-have-on-your-business-in-the-long-term-au6n3ytt) have seen a reduced footfall this year, e-commerce and online shopping are rare success stories. COVID-19 has shaped the way people shop with an unprecedented amount of shoppers making purchases online. However, this has also put online retail at risk, [creating a secondary issue](https://hackernoon.com/3-impressive-cyberattacks-of-2020-what-we-can-learn-from-them-ag2z3z61). A report by Sophos Labs suggests that over [42,000 websites](https://news.sophos.com/en-us/2020/03/24/covidmalware/) have been created with domains that are named after ‘COVID.’ As you can see, opportunistic [cybercriminals](https://hackernoon.com/a-guide-to-becoming-a-cyber-security-analyst-5b311be52f29) ‘shop’ online as well.
 
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/image6.gif "image_tooltip")
@@ -142,13 +106,15 @@ Although [most businesses](https://hackernoon.com/effects-a-data-breach-can-have
 https://giphy.com/gifs/cat-crazy-out-l3nSFXpI4HhK4zJtu
 
 
+
+
 ### Shield Yourself From Cyberattacks in Times of Pandemic
 
 Most of the aforementioned incidents could have been avoided if we had left our security to chance. Despite significant cybersecurity [exposures](https://hackernoon.com/is-whatsapp-safe-4b1f3tjm), we still believe that [we’re in the clear](https://hackernoon.com/4-simple-steps-to-avoid-falling-victim-to-all-too-frequent-data-breaches-o01g328u). But even if you don’t have the resources to bring in an outside expert to test your computer systems, do your best to [implement cybersecurity practices](https://hackernoon.com/how-to-prepare-for-a-cybersecurity-manager-job-interview-nt153w8t). You don’t need to go far - [NordVPN is an iron-clad](https://hackernoon.com/vpn-and-cybersecurity-threats-how-to-be-safe-online-70av36mp) defense mechanism that won’t let your [data get compromised](https://hackernoon.com/compliance-is-not-a-guarantee-against-data-breach-embp32af). It’s an encryption powerhouse that will guard your cybersecurity well-being in these dire times. Most importantly, NordVPN ensures secure [remote access](https://hackernoon.com/working-from-home-and-cybersecurity-in-the-time-of-the-coronavirus-4vc1322c) to keep businesses, organizations and individuals productive at all times.
 
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/image7.gif "image_tooltip")
@@ -157,13 +123,16 @@ Most of the aforementioned incidents could have been avoided if we had left our 
 https://giphy.com/gifs/eating-panda-r7Nbr97FsXxXG
 
 
+
+
+
 ## The Bottom Line
 
 The COVID pandemic presents a [record-breaking challenge](https://hackernoon.com/how-the-legal-system-interacts-with-big-tech-and-data-breach-3c32f554ffc4) to the world in a bad way. While some people have shown courage and fortitude in the dark times, crime groups are exploiting the fear and uncertainty to [target individuals and businesses](https://hackernoon.com/data-breaches-how-they-affect-people-and-what-can-we-do-to-fight-them-859b902ed330). As [threat campaigns](https://hackernoon.com/iot-cyber-threats-are-we-safe-from-attack-79324b032f31) become more sophisticated, businesses will [need to practice robust cybersecurity hygiene](https://hackernoon.com/how-executives-can-better-prevent-data-breaches-in-our-digital-day-and-age-833f7a53bee0) to keep hackers at bay. A strong security posture and endurance are the needs of the hour. Stay safe and cyber secure. And don’t forget a mask.
 
 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/image8.gif "image_tooltip")
