@@ -1,4 +1,31 @@
 
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image1.gif
+
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif
+
+
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image3.gif
+
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image4.gif
+
+
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image5.gif
+
+
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image6.gif
+
+
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image7.gif
+
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image8.gif
+
 
 
 # Top Sectors Prone To Cyber Threats During The Pandemic
@@ -10,10 +37,9 @@ However, as a [remote job](https://hackernoon.com/tagged/remote) situation becom
 
 
 
-![alt_text](images/image1.gif "image_tooltip")
 
+![git][https://giphy.com/gifs/love-sexy-girl-10pYFd2glOy6XK][alt text]
 
-https://giphy.com/gifs/love-sexy-girl-10pYFd2glOy6XK
 
 As time went by, CISOs pivoted from handling routine tasks and made all efforts to establish [secure connections](https://hackernoon.com/lessons-from-3-big-data-breaches-of-2017-6d2dd33305d5) for newly-minted remote [workforces](https://hackernoon.com/talent-in-the-age-of-commodity-bl143vk9). However, despite bolstering business operations, there are some business areas that have had it a lot harder than other industries in terms of [cybersecurity](https://hackernoon.com/cybersecurity-at-every-level-how-it-consultants-can-benefit-your-business-84283trw).
 
@@ -23,11 +49,7 @@ With that being said, let us give you a [rundown on the industries](https://hack
 
 
 
-![alt_text](images/image2.gif "image_tooltip")
-
-
-https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE
-
+![git][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
 
 
 ## [Cyberattacks](https://hackernoon.com/most-popular-types-of-cyber-attacks-against-individual-users-part-ii-e75067161aaf) During The Pandemic
@@ -43,11 +65,8 @@ According to the [INTERPOL report](https://www.interpol.int/News-and-Events/News
 
 
 
+![git][https://giphy.com/gifs/cat-walk-box-2zlSwREmLmiQw][alt text]
 
-![alt_text](images/image3.gif "image_tooltip")
-
-
-https://giphy.com/gifs/cat-walk-box-2zlSwREmLmiQw
 
 ### 2. Private sector
 
@@ -59,11 +78,7 @@ They masquerade malicious files as [government](https://hackernoon.com/an-introd
 
 
 
-
-![alt_text](images/image4.gif "image_tooltip")
-
-
-https://giphy.com/gifs/comics-swipe-dating-MeD5aQGCC2Asg94lWF
+![git][https://giphy.com/gifs/comics-swipe-dating-MeD5aQGCC2Asg94lWF][alt text]
 
 
 
@@ -81,11 +96,9 @@ We are leaning on online banking so much that this dependence has created a bree
 
 
 
-![alt_text](images/image5.gif "image_tooltip")
 
 
-[https://giphy.com/gifs/mask-superhero-chloe-grace-moretz-SwTZOgvEEis3C](https://giphy.com/gifs/mask-superhero-chloe-grace-moretz-SwTZOgvEEis3C)
-
+![git][https://giphy.com/gifs/mask-superhero-chloe-grace-moretz-SwTZOgvEEis3C][alt text]
 
 
 
@@ -100,10 +113,7 @@ Although [most businesses](https://hackernoon.com/effects-a-data-breach-can-have
 
 
 
-![alt_text](images/image6.gif "image_tooltip")
-
-
-https://giphy.com/gifs/cat-crazy-out-l3nSFXpI4HhK4zJtu
+![git][https://giphy.com/gifs/cat-crazy-out-l3nSFXpI4HhK4zJtu][alt text]
 
 
 
@@ -116,12 +126,7 @@ Most of the aforementioned incidents could have been avoided if we had left our 
 
 
 
-
-![alt_text](images/image7.gif "image_tooltip")
-
-
-https://giphy.com/gifs/eating-panda-r7Nbr97FsXxXG
-
+![git][https://giphy.com/gifs/eating-panda-r7Nbr97FsXxXG][alt text]
 
 
 
@@ -135,7 +140,5 @@ The COVID pandemic presents a [record-breaking challenge](https://hackernoon.com
 
 
 
-![alt_text](images/image8.gif "image_tooltip")
 
-
-https://giphy.com/gifs/face-mask-masks-facemask-p4myX5dTQsyxDN1DIS
+![git][https://giphy.com/gifs/face-mask-masks-facemask-p4myX5dTQsyxDN1DIS][alt text]
