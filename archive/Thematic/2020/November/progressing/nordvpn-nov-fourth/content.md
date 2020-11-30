@@ -38,9 +38,9 @@ However, as a [remote job](https://hackernoon.com/tagged/remote) situation becom
 
 
 
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image1.gif
 
-![git][https://giphy.com/gifs/love-sexy-girl-10pYFd2glOy6XK][alt text]
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image1.gif][https://giphy.com/gifs/love-sexy-girl-10pYFd2glOy6XK][alt text]
 
 
 As time went by, CISOs pivoted from handling routine tasks and made all efforts to establish [secure connections](https://hackernoon.com/lessons-from-3-big-data-breaches-of-2017-6d2dd33305d5) for newly-minted remote [workforces](https://hackernoon.com/talent-in-the-age-of-commodity-bl143vk9). However, despite bolstering business operations, there are some business areas that have had it a lot harder than other industries in terms of [cybersecurity](https://hackernoon.com/cybersecurity-at-every-level-how-it-consultants-can-benefit-your-business-84283trw).
@@ -50,10 +50,10 @@ With that being said, let us give you a [rundown on the industries](https://hack
 
 
 
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif
 
 
-![git][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
 
 
 ## [Cyberattacks](https://hackernoon.com/most-popular-types-of-cyber-attacks-against-individual-users-part-ii-e75067161aaf) During The Pandemic
@@ -69,10 +69,10 @@ According to the [INTERPOL report](https://www.interpol.int/News-and-Events/News
 
 
 
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image3.gif
 
 
-![git][https://giphy.com/gifs/cat-walk-box-2zlSwREmLmiQw][alt text]
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image3.gif][https://giphy.com/gifs/cat-walk-box-2zlSwREmLmiQw][alt text]
 
 
 ### 2. Private sector
@@ -85,11 +85,11 @@ They masquerade malicious files as [government](https://hackernoon.com/an-introd
 
 
 
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image4.gif
 
 
 
-![git][https://giphy.com/gifs/comics-swipe-dating-MeD5aQGCC2Asg94lWF][alt text]
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image4.gif][https://giphy.com/gifs/comics-swipe-dating-MeD5aQGCC2Asg94lWF][alt text]
 
 
 
@@ -106,13 +106,13 @@ We are leaning on online banking so much that this dependence has created a bree
 
 
 
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image5.gif
 
 
 
 
 
-![git][https://giphy.com/gifs/mask-superhero-chloe-grace-moretz-SwTZOgvEEis3C][alt text]
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image5.gif][https://giphy.com/gifs/mask-superhero-chloe-grace-moretz-SwTZOgvEEis3C][alt text]
 
 
 
@@ -126,11 +126,11 @@ Although [most businesses](https://hackernoon.com/effects-a-data-breach-can-have
 
 
 
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image6.gif
 
 
 
-![git][https://giphy.com/gifs/cat-crazy-out-l3nSFXpI4HhK4zJtu][alt text]
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image6.gif][https://giphy.com/gifs/cat-crazy-out-l3nSFXpI4HhK4zJtu][alt text]
 
 
 
@@ -142,10 +142,10 @@ Most of the aforementioned incidents could have been avoided if we had left our 
 
 
 
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image7.gif
 
 
-![git][https://giphy.com/gifs/eating-panda-r7Nbr97FsXxXG][alt text]
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image7.gif][https://giphy.com/gifs/eating-panda-r7Nbr97FsXxXG][alt text]
 
 
 
@@ -158,9 +158,9 @@ The COVID pandemic presents a [record-breaking challenge](https://hackernoon.com
 
 
 
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image8.gif
 
 
 
 
-![git][https://giphy.com/gifs/face-mask-masks-facemask-p4myX5dTQsyxDN1DIS][alt text]
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image8.gif][https://giphy.com/gifs/face-mask-masks-facemask-p4myX5dTQsyxDN1DIS][alt text]
