@@ -38,6 +38,8 @@ However, as a [remote job](https://hackernoon.com/tagged/remote) situation becom
 
 
 
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image1.gif
+
 ![git][https://giphy.com/gifs/love-sexy-girl-10pYFd2glOy6XK][alt text]
 
 
@@ -47,6 +49,8 @@ With that being said, let us give you a [rundown on the industries](https://hack
 
 
 
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif
 
 
 ![git][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
@@ -65,6 +69,9 @@ According to the [INTERPOL report](https://www.interpol.int/News-and-Events/News
 
 
 
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image3.gif
+
+
 ![git][https://giphy.com/gifs/cat-walk-box-2zlSwREmLmiQw][alt text]
 
 
@@ -75,6 +82,10 @@ The pandemic has caused a spike in [phishing](https://hackernoon.com/tagged/inte
 They masquerade malicious files as [government](https://hackernoon.com/an-introduction-to-code-signing-architectures-and-techniques-jy5p340z) announcements or associate the emails with the Centers for Disease Control (CDC) and the World Health Organization (WHO). So next time you’ll get an email with a subject line that sounds like ‘updated cases of the coronavirus near you’, [think twice](https://hackernoon.com/the-social-linked-data-solid-project-of-tim-berners-lee-an-organizational-take-m94u3z74) before opening this [phishing postcard](https://hackernoon.com/3-cybersecurity-priorities-for-2021-threat-fatigue-remote-work-budget-m02m3wao).
 
 
+
+
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image4.gif
 
 
 
@@ -95,6 +106,9 @@ We are leaning on online banking so much that this dependence has created a bree
 
 
 
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image5.gif
+
+
 
 
 
@@ -112,6 +126,9 @@ Although [most businesses](https://hackernoon.com/effects-a-data-breach-can-have
 
 
 
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image6.gif
+
+
 
 ![git][https://giphy.com/gifs/cat-crazy-out-l3nSFXpI4HhK4zJtu][alt text]
 
@@ -125,6 +142,8 @@ Most of the aforementioned incidents could have been avoided if we had left our 
 
 
 
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image7.gif
+
 
 ![git][https://giphy.com/gifs/eating-panda-r7Nbr97FsXxXG][alt text]
 
@@ -137,6 +156,9 @@ The COVID pandemic presents a [record-breaking challenge](https://hackernoon.com
 
 
 
+
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image8.gif
 
 
 
