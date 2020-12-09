@@ -33,6 +33,7 @@ So if your company’s New Year’s Resolution is to [amplify data security](htt
 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/l2YWBjFXMOWMiLvyw/giphy.gif][alt text]
 
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/08.12/image1.gif
 
 ### **Stick to the essentials**
 
@@ -42,6 +43,8 @@ To [mitigate possible risks](https://hackernoon.com/women-in-information-securit
 
 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/pyrhB2YU8dvHPhO4in/giphy.gif][alt text]
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/08.12/image6.gif
 
 
 ### **Create a data fortress**
@@ -66,12 +69,17 @@ Unfortunately, [email security](https://hackernoon.com/the-essential-guide-to-em
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/3otO6zntMrmhpvaYX6/giphy.gif][alt text]
 
 
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/08.12/image3.gif
+
 Therefore, cyber literacy is crucial for organizations with sensitive information. As the [Advanced Computing Systems Association (USENIX)](https://www.usenix.org/system/files/soups2020-reinheimer_0.pdf) suggests, the ideal training cadence occurs [every 4-6 months](https://hackernoon.com/phishing-top-threat-to-our-online-security-88t3uhg) with recurrent “live fire” training exercises and constant reminders.
 
 By [investing in regular cybersecurity](https://hackernoon.com/whats-a-spear-phishing-attack-and-to-protect-yourself-from-it-2g2p3zm7) training and making it part of the onboarding process, companies make sure they don’t find themselves in the headlines.
 
 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/VhK5Wmso8LJAWreQdZ/giphy.gif][alt text]
+
+
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/08.12/image4.gif
 
 Along the same lines, we'd like to express our thanks to [Flatfile](https://bit.ly/3mEwSgP) for sponsoring this newsletter. [Flatfile Concierge](https://bit.ly/3mEwSgP) seamlessly migrates customer data using a secure, collaborative, no-code environment.
 
@@ -80,6 +88,7 @@ Ready to solve data chaos in minutes?
 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/HUkOv6BNWc1HO/giphy.gif][alt text]
 
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/08.12/image5.gif
 
 ## To Sum It Up
 
@@ -90,6 +99,6 @@ Although there’s no silver bullet on [best cybersecurity tips](https://hackern
 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/ld1RKulOqeeaI/giphy.gif][alt text]
 
-
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/08.12/image2.gif
 
 ~[No-code, collaborative workspaces built for data migrations][https://bit.ly/3oxXMI3][https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/logos/thematic/2020/November/flatfile-logo-black-small-vertical.png]
