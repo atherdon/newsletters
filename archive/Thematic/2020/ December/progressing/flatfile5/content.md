@@ -7,6 +7,13 @@ AD URL:
 - Bottom: https://bit.ly/3oxXMI3
 
 
+#~ this is bridgeCrue
+~[The security-as-code solution for developers][https://bit.ly/3n9CgbE][https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/logos/thematic/2020/October/Bridgecrew_stacked.jpg]
+
+
+
+
+
 # Top 3 Security Practices that Protect Your Business Data
 
 Being the [lifeblood of your business, data](https://hackernoon.com/the-importance-of-monitoring-big-data-analytics-pipelines-hd3i3uja) is inevitably weaved in all your operational processes. Whether we’re talking about a [huge corporation](https://hackernoon.com/3-industries-harnessing-the-power-of-big-data-healthcare-law-and-retail-fs14s3wwp) or a [promising start-up](https://hackernoon.com/visualization-of-hypothesis-on-meteorological-data-9j153wmy), [information security](https://hackernoon.com/5-big-data-trends-for-the-post-pandemic-future-zmx3ux6) can make or break your business.
