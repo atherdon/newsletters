@@ -99,6 +99,12 @@ Even with emerging technologies and tightening [cyber regulations](https://hacke
 Although there’s no silver bullet on [best cybersecurity tips](https://hackernoon.com/phishing-my-company-an-infosec-lesson-for-businesses-ca69ab4ea906), such [essential practices](https://hackernoon.com/a-breakdown-of-todays-phishing-epidemic-f72e323m) as storing only the necessities, [using firewalls](https://hackernoon.com/browser-isolation-is-the-future-of-cybersecurity-but-how-can-you-cost-effectively-isolate-your-26bf5247d81f), and the U2F key, as well as raising awareness can [save your companies from backfire](https://hackernoon.com/online-brand-protection-how-monitoring-and-user-education-can-help-with-phishing-c52i32wc).
 
 
+***
+
+[Got a tech story to share with our readers?](http://auth.hackernoon.com/) Everything you've ever wanted to know about how to get published on Hacker Noon - [get it here](https://hackernoon.com/how-to-get-published-on-hacker-noon-a-step-by-step-guide-zcp36rz).
+
+
+
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/08.12/image2.gif][https://media.giphy.com/media/ld1RKulOqeeaI/giphy.gif][alt text]
 
 
