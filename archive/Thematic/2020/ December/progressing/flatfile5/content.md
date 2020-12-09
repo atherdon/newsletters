@@ -17,19 +17,6 @@ AD URL:
 
 
 
-
-
-# flat5
-
-AD Copy:
-
-AD URL:
-
-- Top: https://bit.ly/3mEwSgP
-
-- Bottom: https://bit.ly/3oxXMI3
-
-
 # Top 3 Security Practices that Protect Your Business Data
 
 Being the [lifeblood of your business, data](https://hackernoon.com/the-importance-of-monitoring-big-data-analytics-pipelines-hd3i3uja) is inevitably weaved in all your operational processes. Whether we’re talking about a [huge corporation](https://hackernoon.com/3-industries-harnessing-the-power-of-big-data-healthcare-law-and-retail-fs14s3wwp) or a [promising start-up](https://hackernoon.com/visualization-of-hypothesis-on-meteorological-data-9j153wmy), [information security](https://hackernoon.com/5-big-data-trends-for-the-post-pandemic-future-zmx3ux6) can make or break your business.
@@ -47,11 +34,7 @@ So if your company’s New Year’s Resolution is to [amplify data security](htt
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
-
-
-Link: https://media.giphy.com/media/l2YWBjFXMOWMiLvyw/giphy.gif
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/l2YWBjFXMOWMiLvyw/giphy.gif][alt text]
 
 
 
@@ -66,11 +49,8 @@ To [mitigate possible risks](https://hackernoon.com/women-in-information-securit
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/pyrhB2YU8dvHPhO4in/giphy.gif][alt text]
 
-
-
-Link: https://media.giphy.com/media/pyrhB2YU8dvHPhO4in/giphy.gif
 
 
 
@@ -97,11 +77,8 @@ Unfortunately, [email security](https://hackernoon.com/the-essential-guide-to-em
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/3otO6zntMrmhpvaYX6/giphy.gif][alt text]
 
-
-
-Link: https://media.giphy.com/media/3otO6zntMrmhpvaYX6/giphy.gif
 
 
 
@@ -115,11 +92,10 @@ By [investing in regular cybersecurity](https://hackernoon.com/whats-a-spear-phi
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/VhK5Wmso8LJAWreQdZ/giphy.gif][alt text]
 
 
 
-[https://media.giphy.com/media/VhK5Wmso8LJAWreQdZ/giphy.gif](https://media.giphy.com/media/VhK5Wmso8LJAWreQdZ/giphy.gif)
 
 Along the same lines, we'd like to express our thanks to [Flatfile](https://bit.ly/3mEwSgP) for sponsoring this newsletter. [Flatfile Concierge](https://bit.ly/3mEwSgP) seamlessly migrates customer data using a secure, collaborative, no-code environment.
 
@@ -130,10 +106,9 @@ Ready to solve data chaos in minutes?
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/HUkOv6BNWc1HO/giphy.gif][alt text]
 
 
-https://media.giphy.com/media/HUkOv6BNWc1HO/giphy.gif
 
 
 ## To Sum It Up
@@ -146,16 +121,7 @@ Although there’s no silver bullet on [best cybersecurity tips](https://hackern
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
-
-
-
-Link: https://media.giphy.com/media/ld1RKulOqeeaI/giphy.gif
-
-
-
-
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://media.giphy.com/media/ld1RKulOqeeaI/giphy.gif][alt text]
 
 
 
