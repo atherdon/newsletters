@@ -1,4 +1,4 @@
-AD Copy: Solve complex data migrations with #nocode
+AD Copy: No-code, collaborative workspaces built for data migrations
 
 AD URL:
 
@@ -7,8 +7,8 @@ AD URL:
 - Bottom: https://bit.ly/3oxXMI3
 
 
-#~ this is bridgeCrue
-~[The security-as-code solution for developers][https://bit.ly/3n9CgbE][https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/logos/thematic/2020/October/Bridgecrew_stacked.jpg]
+
+~[No-code, collaborative workspaces built for data migrations][https://bit.ly/3mEwSgP][https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/logos/thematic/2020/October/Bridgecrew_stacked.jpg]
 
 
 
