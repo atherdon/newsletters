@@ -1,46 +1,4 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 2.226 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Wed Dec 09 2020 09:02:24 GMT-0800 (PST)
-* Source doc: Flatfile.io Newsletter #5: Top security practices to keep your business data safe
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
-
-WARNING:
-You have 2 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 3.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-# flat5
-
-AD Copy:
+AD Copy: Solve complex data migrations with #nocode
 
 AD URL:
 
@@ -64,11 +22,8 @@ So if your company’s New Year’s Resolution is to [amplify data security](htt
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image1.gif "image_tooltip")
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
 
 Link: https://media.giphy.com/media/l2YWBjFXMOWMiLvyw/giphy.gif
 
@@ -81,11 +36,8 @@ To [mitigate possible risks](https://hackernoon.com/women-in-information-securit
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image2.gif "image_tooltip")
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
 
 Link: https://media.giphy.com/media/pyrhB2YU8dvHPhO4in/giphy.gif
 
@@ -109,13 +61,14 @@ Unfortunately, [email security](https://hackernoon.com/the-essential-guide-to-em
 
  
 
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
+
 Link: https://media.giphy.com/media/3otO6zntMrmhpvaYX6/giphy.gif
 
 Therefore, cyber literacy is crucial for organizations with sensitive information. As the [Advanced Computing Systems Association (USENIX)](https://www.usenix.org/system/files/soups2020-reinheimer_0.pdf) suggests, the ideal training cadence occurs [every 4-6 months](https://hackernoon.com/phishing-top-threat-to-our-online-security-88t3uhg) with recurrent “live fire” training exercises and constant reminders.
 
 By [investing in regular cybersecurity](https://hackernoon.com/whats-a-spear-phishing-attack-and-to-protect-yourself-from-it-2g2p3zm7) training and making it part of the onboarding process, companies make sure they don’t find themselves in the headlines.
 
-[sponsor plug?]
 
 For the finale, shout out to our cool sponsor - [Flatfile](https://bit.ly/3mEwSgP). [Flatfile](https://bit.ly/3mEwSgP) Concierge automatically cleans customer data using a secure, collaborative, no code environment. Ready to solve data chaos in minutes?
 
@@ -128,10 +81,6 @@ Although there’s no silver bullet on [best cybersecurity tips](https://hackern
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.gif "image_tooltip")
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
 
 Link: https://media.giphy.com/media/ld1RKulOqeeaI/giphy.gif
