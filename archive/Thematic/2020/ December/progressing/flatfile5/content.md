@@ -11,6 +11,9 @@ AD URL:
 ~[No-code, collaborative workspaces built for data migrations][https://bit.ly/3mEwSgP][https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/logos/thematic/2020/November/flatfile-logo-black-small-vertical.png]
 
 
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/november/30.11/image2.gif][https://giphy.com/gifs/gifburns-illustration-adventure-time-jake-22qp9q7nIh4EE][alt text]
+
+----
 
 
 
