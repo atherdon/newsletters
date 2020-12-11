@@ -1,22 +1,19 @@
 # The Top 20 Hacker Noon Stories Published In 2020
 
-Property: @Nov 30, 2020
-Status: EDITORIAL Projects
-assignee/s: Natasha Nel, Arthur Tka
 
 The hottest things to write about on Hacker Noon in 2020 were *— pretty much both by story submission volume and traffic generated —* **[coronavirus](https://hackernoon.com/tagged/coronavirus); [coding](https://hackernoon.com/tagged/coding), [programming](https://hackernoon.com/tagged/programming), [javascript](https://hackernoon.com/tagged/javascript); [cryptocurrency](https://hackernoon.com/tagged/cryptocurrency); [python](https://hackernoon.com/tagged/python), [blockchain](https://hackernoon.com/tagged/blockchain), [startups](https://hackernoon.com/tagged/startups), [artificial intelligence](https://hackernoon.com/tagged/artificial-intelligence) ([AI](https://hackernoon.com/tagged/ai)),** and **[software development](https://hackernoon.com/tagged/software-development).**
 
 **[Tech career advice](https://hackernoon.com/tagged/careers)** and **[personal stories of self-improvement](https://hackernoon.com/tagged/self-improvement)** remain wildly popular, as do **[developer tools](https://hackernoon.com/tagged/developer-tools)** and **[programming language comparisons](https://hackernoon.com/tagged/programming-languages).**
 
-A lot of people love **[Hacker Noon](https://hackernoon.com/)** for DIY **[learning to code](https://hackernoon.com/tagged/learning-to-code)** content covering **[c++](https://hackernoon.com/tagged/c++)**; **[javascript](https://hackernoon.com/tagged/javascript)**; **[nodejs](https://hackernoon.com/tagged/nodejs)**; **[php](https://hackernoon.com/tagged/php)**; **[react](https://hackernoon.com/tagged/react)**, and so much more. 
+A lot of people love **[Hacker Noon](https://hackernoon.com/)** for DIY **[learning to code](https://hackernoon.com/tagged/learning-to-code)** content covering **[c++](https://hackernoon.com/tagged/c++)**; **[javascript](https://hackernoon.com/tagged/javascript)**; **[nodejs](https://hackernoon.com/tagged/nodejs)**; **[php](https://hackernoon.com/tagged/php)**; **[react](https://hackernoon.com/tagged/react)**, and so much more.
 
-We get great firsthand accounts from the frontlines of **[software development](https://hackernoon.com/tagged/software-development)** and **[software architecture](https://hackernoon.com/tagged/software-architecture)** adjacent industries like **[data science](https://hackernoon.com/tagged/data-science); [machine learning;](https://hackernoon.com/tagged/machine-learning) [automation](https://hackernoon.com/tagged/automation)**; **[open source](http://hackernoon.com/tagged/open-source)** and **[cybersecurity](http://hackernoon.com/tagged/cybersecurity).** 
+We get great firsthand accounts from the frontlines of **[software development](https://hackernoon.com/tagged/software-development)** and **[software architecture](https://hackernoon.com/tagged/software-architecture)** adjacent industries like **[data science](https://hackernoon.com/tagged/data-science); [machine learning;](https://hackernoon.com/tagged/machine-learning) [automation](https://hackernoon.com/tagged/automation)**; **[open source](http://hackernoon.com/tagged/open-source)** and **[cybersecurity](http://hackernoon.com/tagged/cybersecurity).**
 
 This year, we've also attracted huge amounts of **[fintech](http://fintech/)** and **[bitcoin](http://hackernoon.com/tagged/bitcoin)** news and analysis writers, as well as some incredible stories on **[entrepreneurship](https://hackernoon.com/tagged/entrepreneurship)**; **[business](http://hackernoon.com/tagged/business)** and **[startups](https://hackernoon.com/tagged/startups)** — incl. **[founder stories](https://hackernoon.com/tagged/founders)**, **[marketing hacks](https://hackernoon.com/tagged/marketing)**, **[growth hacking](https://hackernoon.com/tagged/growth-hacking)**, **[funding](https://hackernoon.com/tagged/funding)**, and **[venture capital](https://hackernoon.com/tagged/venture-capital).**
 
 ## Oh Hey, Are You Getting Hacker Noon's Weekly **Tech Brief?**
 
-Take 🖐️ to create a Hacker Noon account ➡️ start getting a weekly email round-up of **[the top stories published on Hacker Noon](https://mc.sendgrid.com/dynamic-templates/d-b0dc6c775d0e428fb07e978ce7089b98/version/a9a19665-1313-482d-8383-3c4b9cea326b/editor/preview)** ➡️ curated according to your interests in ✌️ easy steps:
+Take 🖐️ to create a Hacker Noon account ➡️ start getting a weekly email round-up of **[the top stories published on Hacker Noon](https://gitlab.com/hackernoon/creative/-/raw/master/Emails/Templates/Tech%20Brief/Customize-Your-Weekly-Tech-Brief-_%EF%B8%8F__%EF%B8%8F.png)** ➡️ curated according to your interests in ✌️ easy steps:
 
 **1. [Check out ALL the top tag pages on Hacker Noon](https://hackernoon.com/tagged), and**
 
