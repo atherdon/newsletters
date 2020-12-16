@@ -21,11 +21,6 @@ Today, when the tendency to automation and no code is gaining momentum, we are c
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image5.gif][https://media.giphy.com/media/3o6ZtdCeyBpLQ1J2aA/giphy.gif][alt text]
 
 
-![alt_text](images/image1.gif "image_tooltip")
-
-
-https://media.giphy.com/media/3o6ZtdCeyBpLQ1J2aA/giphy.gif
-
 
 ## A Short Primer on No code for Data
 
@@ -42,11 +37,6 @@ Overall, no-code platforms support many different use cases from automation and 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image9.gif][https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif][alt text]
 
 
-
-![alt_text](images/image2.gif "image_tooltip")
-
-
-https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif
 
 Beside guided platforms, [no-code data science](https://hackernoon.com/building-my-own-data-set-and-insights-here-is-what-i-learned-6ef7a93b0d59), or the ‘augmented’ [data science](https://hackernoon.com/top-20-image-datasets-for-machine-learning-and-computer-vision-rq3w3zxo), offers some other magic toolkits, including:
 
@@ -67,11 +57,6 @@ This list describes the developmental milestones for the [no-code approach](http
 
 
 
-![alt_text](images/image3.gif "image_tooltip")
-
-
-https://media.giphy.com/media/Qw4X3FDRolaUzXnPLNK/giphy.gif
-
 
 ### Why traditional integration approaches suck
 
@@ -87,11 +72,6 @@ Besides, most teams accountable for building integration flows are not heavily e
 
 
 
-
-![alt_text](images/image4.gif "image_tooltip")
-
-
-https://media.giphy.com/media/mBpLPLP3MVL0vAIWS8/giphy.gif
 
 Although it's not panacea, the no-code approach may [be your magic pill](https://hackernoon.com/the-secret-mindset-of-the-successful-entrepreneurs-2rvx2wsp) that will cure [tech complexity](https://hackernoon.com/coding-like-a-pro-t81lg38j1). [Automated features](https://hackernoon.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analyis-wt6p32qz) for integration [help business owners](https://hackernoon.com/top-10-ways-business-owners-can-benefit-from-artificial-intelligence-ai-7z1r32ud) to integrate technologies and processes in an intricate and distributed tech environment.
 
@@ -109,11 +89,6 @@ Although it's not panacea, the no-code approach may [be your magic pill](https:/
 
 
 
-![alt_text](images/image5.gif "image_tooltip")
-
-
-https://media.giphy.com/media/cMALqIjmb7ygw/giphy-downsized.gif
-
 
 
 *   Choose your perfect integration technology: First and foremost, businesses should search for an all-inclusive enterprise [integration tool](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f) that includes [no-code integration](https://hackernoon.com/no-code-is-eating-the-world-nrn3udw) features. With the perfect tool in their hands, business users will be able to automate workflows, establish [connections](https://hackernoon.com/fabio-manganiello-on-home-made-computer-vision-iot-automation-ai-4f7a3t79), and scale them for profiting from [b2b systems](https://hackernoon.com/7-b2b-storytelling-marketing-strategies-with-examples-sg2r3w9d).
@@ -129,12 +104,6 @@ https://media.giphy.com/media/cMALqIjmb7ygw/giphy-downsized.gif
 
 
 
-![alt_text](images/image6.gif "image_tooltip")
-
-
-
-    https://media.giphy.com/media/7A1g8fe3vlymY/giphy.gif
-
 
 _Along the same lines, we'd like to express our thanks to [Flatfile](https://bit.ly/3mI52QU) for sponsoring this newsletter. [Flatfile Concierge](https://bit.ly/36C5Lh2) seamlessly migrates customer data using a secure, collaborative, no-code environment._
 
@@ -148,11 +117,6 @@ _Ready to [solve data chaos](https://bit.ly/36C5Lh2) in minutes?_
 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image4.gif][https://media.giphy.com/media/5z0cCCGooBQUtejM4v/giphy-downsized.gif][alt text]
 
-
-![alt_text](images/image7.gif "image_tooltip")
-
-
-[https://media.giphy.com/media/5z0cCCGooBQUtejM4v/giphy-downsized.gif](https://media.giphy.com/media/5z0cCCGooBQUtejM4v/giphy-downsized.gif)
 
 
 ## The Bottom Line
@@ -168,11 +132,6 @@ No matter how much your business is data-driven, if you store petabytes of data 
 
 
 
-![alt_text](images/image8.gif "image_tooltip")
-
-
-[https://media.giphy.com/media/tYligZtoDB6N2/giphy-downsized.gif](https://media.giphy.com/media/tYligZtoDB6N2/giphy-downsized.gif)
-
 ***
 
 
@@ -180,10 +139,3 @@ No matter how much your business is data-driven, if you store petabytes of data 
 
 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image1.gif][https://media.giphy.com/media/I1nwVpCaB4k36/giphy.gif][alt text]
-
-
-
-![alt_text](images/image9.gif "image_tooltip")
-
-
-https://media.giphy.com/media/I1nwVpCaB4k36/giphy.gif
