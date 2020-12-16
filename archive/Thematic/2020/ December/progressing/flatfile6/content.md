@@ -16,7 +16,9 @@ Today, when the tendency to automation and no code is gaining momentum, we are c
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image5.gif][https://media.giphy.com/media/3o6ZtdCeyBpLQ1J2aA/giphy.gif][alt text]
 
 
 ![alt_text](images/image1.gif "image_tooltip")
@@ -35,7 +37,10 @@ Overall, no-code platforms support many different use cases from automation and 
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image9.gif][https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif][alt text]
+
 
 
 ![alt_text](images/image2.gif "image_tooltip")
@@ -54,7 +59,12 @@ This list describes the developmental milestones for the [no-code approach](http
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image6.gif][https://media.giphy.com/media/Qw4X3FDRolaUzXnPLNK/giphy.gif][alt text]
+
+
 
 
 ![alt_text](images/image3.gif "image_tooltip")
@@ -71,7 +81,11 @@ Besides, most teams accountable for building integration flows are not heavily e
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image7.gif][https://media.giphy.com/media/mBpLPLP3MVL0vAIWS8/giphy.gif][alt text]
+
+
 
 
 ![alt_text](images/image4.gif "image_tooltip")
@@ -86,7 +100,13 @@ Although it's not panacea, the no-code approach may [be your magic pill](https:/
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image8.gif][https://media.giphy.com/media/cMALqIjmb7ygw/giphy-downsized.gif][alt text]
+
 
 
 ![alt_text](images/image5.gif "image_tooltip")
@@ -102,7 +122,11 @@ https://media.giphy.com/media/cMALqIjmb7ygw/giphy-downsized.gif
 
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image3.gif][https://media.giphy.com/media/7A1g8fe3vlymY/giphy.gif][alt text]
+
+
 
 
 ![alt_text](images/image6.gif "image_tooltip")
@@ -118,7 +142,11 @@ _Ready to [solve data chaos](https://bit.ly/36C5Lh2) in minutes?_
 
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image4.gif][https://media.giphy.com/media/5z0cCCGooBQUtejM4v/giphy-downsized.gif][alt text]
 
 
 ![alt_text](images/image7.gif "image_tooltip")
@@ -133,7 +161,11 @@ No matter how much your business is data-driven, if you store petabytes of data 
 
 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image2.gif][https://media.giphy.com/media/tYligZtoDB6N2/giphy-downsized.gif][alt text]
+
 
 
 ![alt_text](images/image8.gif "image_tooltip")
@@ -145,7 +177,10 @@ No matter how much your business is data-driven, if you store petabytes of data 
 
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/15.12/image1.gif][https://media.giphy.com/media/I1nwVpCaB4k36/giphy.gif][alt text]
+
 
 
 ![alt_text](images/image9.gif "image_tooltip")
