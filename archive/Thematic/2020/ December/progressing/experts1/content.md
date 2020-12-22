@@ -3,7 +3,7 @@
 Hello, would you like to book a call with technology experts? We started a marketplace for [on demand video calls with experts](https://experts.hackernoon.com/?ref=hackernoon.com) in programming, cryptocurrency, ux remote work, outer space, startups, and futurism.
 
 
-
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png
 
 
 ![alt_text](images/image1.png "image_tooltip")
@@ -15,7 +15,7 @@ I built [Hacker Noon Experts](https://experts.hackernoon.com/?ref=hackernoon.com
 
 
 
-
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image2.png
 
 ![alt_text](images/image2.png "image_tooltip")
 
@@ -24,7 +24,7 @@ Then [Dane](https://hackernoon.com/u/Dane?ref=hackernoon.com) integrated "Book a
 
 
 
-
+https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image3.jpg
 
 ![alt_text](images/image3.jpg "image_tooltip")
 
@@ -35,6 +35,7 @@ If interested in becoming a **Hacker Noon Expert** and receiving leads for paid 
 
 Hope you enjoy meeting the person on the other side of the story!
 
+We also launched on [Product Hunt](https://www.producthunt.com/posts/tech-expert-video-calls). Feel free to give us you love ;)
 
 
 David Smooke, 
