@@ -19,7 +19,7 @@ I built [Hacker Noon Experts](https://experts.hackernoon.com/?ref=hackernoon.com
 ![x][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image2.png
 
-![alt_text](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image2.jpg "image_tooltip")
+![alt_text](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image2x.jpg "image_tooltip")
 
 
 Then [Dane](https://hackernoon.com/u/Dane?ref=hackernoon.com) integrated "Book a Call With @Username" into the Hacker Noon content management system, surfacing the button on the story and profile page. We'll continue to iterate on the design and flow.
