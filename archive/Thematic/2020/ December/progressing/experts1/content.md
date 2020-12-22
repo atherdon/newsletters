@@ -1,12 +1,9 @@
 ## Introducing: [Experts.HackerNoon.com](https://experts.hackernoon.com/?ref=noonifications.tech)
 
-
-
 Hello, would you like to book a call with technology experts? We started a marketplace for [on demand video calls with experts](https://experts.hackernoon.com/?ref=hackernoon.com) in programming, cryptocurrency, ux remote work, outer space, startups, and futurism.
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image1.png "image_tooltip")
@@ -18,7 +15,6 @@ I built [Hacker Noon Experts](https://experts.hackernoon.com/?ref=hackernoon.com
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image2.png "image_tooltip")
@@ -28,7 +24,6 @@ Then [Dane](https://hackernoon.com/u/Dane?ref=hackernoon.com) integrated "Book a
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image3.jpg "image_tooltip")
@@ -41,12 +36,8 @@ If interested in becoming a **Hacker Noon Expert** and receiving leads for paid 
 Hope you enjoy meeting the person on the other side of the story!
 
 
-```
 
+David Smooke, 
+Founder & CEO of Hacker Noon
 
-### David Smooke, 
-### Founder & CEO of Hacker Noon
-
-
-```
 [Book a call with @David](https://superpeer.com/smooke)
