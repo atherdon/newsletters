@@ -1,8 +1,10 @@
-## Introducing: [Experts.HackerNoon.com](https://experts.hackernoon.com/?ref=noonifications.tech)
+
+# Introducing: [Experts.HackerNoon.com](https://experts.hackernoon.com/?ref=noonifications.tech)
 
 Hello, would you like to book a call with technology experts? We started a marketplace for [on demand video calls with experts](https://experts.hackernoon.com/?ref=hackernoon.com) in programming, cryptocurrency, ux remote work, outer space, startups, and futurism.
 
 
+![x][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png
 
 
@@ -14,7 +16,7 @@ The functions of the app are search, filter by expertise, sort by price, profile
 I built [Hacker Noon Experts](https://experts.hackernoon.com/?ref=hackernoon.com) with a no code tool, [Glide](https://glideapps.com/r/clEMkcNnlfkguQ3wRYqB?ref=hackernoon.com), using Google Sheets as the database. Was fun to learn this no code platform. 
 
 
-
+![x][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image2.png
 
 ![alt_text](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image2.jpg "image_tooltip")
@@ -23,7 +25,7 @@ https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/Decem
 Then [Dane](https://hackernoon.com/u/Dane?ref=hackernoon.com) integrated "Book a Call With @Username" into the Hacker Noon content management system, surfacing the button on the story and profile page. We'll continue to iterate on the design and flow.
 
 
-
+![x][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image3.jpg
 
 ![alt_text](https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image3.jpg "image_tooltip")
@@ -42,3 +44,6 @@ David Smooke,
 Founder & CEO of Hacker Noon
 
 [Book a call with @David](https://superpeer.com/smooke)
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image4.gif][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
