@@ -37,7 +37,7 @@ If interested in becoming a **Hacker Noon Expert** and receiving leads for paid 
 
 Hope you enjoy meeting the person on the other side of the story!
 
-We also launched on [Product Hunt](https://www.producthunt.com/posts/tech-expert-video-calls). Feel free to give us you love ;)
+We also launched on [Product Hunt](https://www.producthunt.com/posts/tech-expert-video-calls). Feel free to give us your love ;)
 
 
 David Smooke, 
