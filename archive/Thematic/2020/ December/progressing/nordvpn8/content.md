@@ -17,39 +17,11 @@ Everyone knows that.
 
 On the Internet, the tables are turned, like the dystopian inverted entropy of Tenet.
 
-
-
-
-
-
-
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/25.12/image1.gif][https://media.giphy.com/media/Vd8hid07SWUiXq6J8g/giphy.gif][alt text]
-
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.gif "image_tooltip")
-
-
-GIF 1: https://media.giphy.com/media/Vd8hid07SWUiXq6J8g/giphy.gif
-
-
-
-
-
-
-
-
-
 
 Here, if you’re good (in the way the tech czars want you to be), you’re the one getting lumps of coal - not just for Christmas, but, every day.
 
 You see, on the Internet, you’re not a person. You’re a data point. A small player in a grand A/B testing experiment of an intricate user journey.
-
-
 
 *   _Are you browsing for flight tickets to Hawaii_?  You’re shown ads of the hotels that paid the most money for those ads - not necessarily in your best interests
 *   _Are you looking to buy that new 4K tv_? Your YouTube ads are now ads of 4K televisions to help sway your decision, instead of helping you make an informed decision
@@ -57,81 +29,17 @@ You see, on the Internet, you’re not a person. You’re a data point. A small 
 
 Sounds familiar?
 
-
-
-
-
-
-
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/25.12/image2.gif][https://media.giphy.com/media/XfT1Xb2O2ShHy/giphy.gif][alt text]
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.gif "image_tooltip")
-
-
-GIF 2: https://media.giphy.com/media/XfT1Xb2O2ShHy/giphy.gif
-
-
-
-
-
-
 
 It does because it happens on a massive scale and pervades all aspects of our digital lives. So much so that a growing number of people (technologists, mind you) believe that our gadgets are listening to our conversations and using that data to serve us more personalized ads.
 
 Facebook’s Mark Zuckerberg uses scotch tape to cover his webcam to protect his privacy. Meanwhile, his company served as the vehicle for reducing us ~~users~~ suckers into a whopping total of 700 data points to serve us _content_, not ads that shaped our opinions by locking us in our own personal echo chambers.
 
-
-
-
-
-
-
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/25.12/image3.jpg][https://qph.fs.quoracdn.net/main-qimg-2d91e98f00c288591737b25fdde97ff6][alt text]
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.jpg "image_tooltip")
-
-
-Image Link: https://qph.fs.quoracdn.net/main-qimg-2d91e98f00c288591737b25fdde97ff6
-
-
-
-
-
-
 
 Thus, if you engaged with ‘immigrants-are-our-enemies’ kinda posts, Facebook (and to a significant extent, Twitter) served you more such content with a broken fact-checking mechanism.
 
-
-
-
-
-
-
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/25.12/image4or5.jpg][https://jordimorgan.files.wordpress.com/2016/01/torches.jpg?w=364][alt text]
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-![alt_text](images/image4.jpg "image_tooltip")
-
-
-Image Link: [https://jordimorgan.files.wordpress.com/2016/01/torches.jpg?w=364](https://jordimorgan.files.wordpress.com/2016/01/torches.jpg?w=364)
-
-
-
-
-
-
 
 ## How Can You Stop Being A Data Point and Reclaim your Humanity?
 
@@ -156,17 +64,7 @@ Check out our top #privacy stories published here:
 *   [Why Google Entering The VPN Marketplace Means it’s Time to Take Mob…](https://hackernoon.com/why-google-entering-the-vpn-marketplace-means-its-time-to-take-mobile-security-seriously-3qw31ln) by [@peter-jobes](https://hackernoon.com/u/peter-jobes)
 *   [Deciphering Pesticide Resistance in the Digital Currency Space](https://hackernoon.com/deciphering-pesticide-resistance-in-the-digital-currency-space-q01g3zl7) by [@evdmitriev](https://hackernoon.com/u/evdmitriev)
 
-
-
-
-
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/25.12/image6.jpg][http://bit.ly/38pAZWl][alt text]
-
-
-
-
-
-
 
 ## Coming Full Circle to Christmas
 
