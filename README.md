@@ -9,3 +9,6 @@ https://www.techrepublic.com/newsletters/
 https://pjrvs.com/articles
 
 https://upscri.be/hackernoon
+
+
+https://newslettercollector.com/inbox/
