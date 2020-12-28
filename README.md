@@ -7,3 +7,5 @@ layout https://thegrind.news/
 https://www.techrepublic.com/newsletters/
 
 https://pjrvs.com/articles
+
+https://upscri.be/hackernoon
