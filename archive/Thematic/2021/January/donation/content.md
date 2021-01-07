@@ -7,6 +7,9 @@
 
 
 
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+
+
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image1.jpg
 
 
@@ -40,6 +43,9 @@ These nonprofit organizations and open source projects work towards economically
 
 
 
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+
+
 
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image2.jpg
 
@@ -55,6 +61,9 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+
+
 
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image3.jpg
 
@@ -66,6 +75,9 @@ https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/0
 **[EFF](https://supporters.eff.org/donate/year-end-challenge--S). **Electronic freedom blurs governance laws. Digital privacy, free speech and innovation are rights worth protecting. Matching courtesy brings this donation up to $2k total.
 
 
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
 
 
 
@@ -81,6 +93,9 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
 
 
 
@@ -99,6 +114,9 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+
+
 
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image6.jpg
 
@@ -114,6 +132,9 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
 
 
 
@@ -135,6 +156,9 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+
+
 
 
 https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image8.jpg
@@ -150,6 +174,9 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 **[Feross Aboukhadijeh's Open Source Initiatives](https://feross.org/) **(donated in BTC). He is a self-confessed 'mad scientist' whose npm packages are downloaded 500M+ times _every month_. Tim's contributions help make Hacker Noon possible.
 
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
 
 
 
