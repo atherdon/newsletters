@@ -7,13 +7,13 @@
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image1.jpg][https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms][alt text]
 
 
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image1.jpg
 
 
-https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
+
+
 ![alt_text](images/image1.jpg "image_tooltip")
 
 
@@ -43,7 +43,7 @@ These nonprofit organizations and open source projects work towards economically
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+![https://gitlab.coge1.png][https://exp.tech][alt text]
 
 
 
@@ -61,7 +61,7 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+![https://gitlab.com/hars/memes/2020/December/22.12/image1.png][https://experts.hacech][alt text]
 
 
 
@@ -77,7 +77,7 @@ https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/0
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+![https://gitlab020/December/22.12/image1.png][https://experts.hackernoon.ch][alt text]
 
 
 
@@ -95,7 +95,7 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+![https://gitlab.20/December/22.12/image1.png][https://experts.hackernoon.ch][alt text]
 
 
 
@@ -114,7 +114,7 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+![https://gitlab.ccember/22.12/image1.png][https://experts.hackernoon.comch][alt text]
 
 
 
@@ -134,7 +134,7 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+![https://gitlab.cember/22.12/image1.png][https://experts.hackernoon.coh][alt text]
 
 
 
@@ -156,7 +156,7 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+![https://gitlab.ember/22.12/image1.png][https://experts.hackernoon.comh][alt text]
 
 
 
@@ -176,7 +176,7 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2020/December/22.12/image1.png][https://experts.hackernoon.com/?ref=noonifications.tech][alt text]
+![https://gitlab.ember/22.12/image1.png][https://experts.hackernoon.comch][alt text]
 
 
 
