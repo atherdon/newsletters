@@ -5,17 +5,7 @@
 
 # $10k Back to the Internet Donation
 
-
-
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image1.jpg][https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms][alt text]
-
-
-
-
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
 
 2020 was a worldwide shitshow. The pandemic displaced team members, placed stress on families, and redefined what and where the day to day even is.
 
@@ -43,32 +33,12 @@ These nonprofit organizations and open source projects work towards economically
 
 
 
-![https://gitlab.coge1.png][https://exp.tech][alt text]
-
-
-
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image2.jpg
-
-
-https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
-![alt_text](images/image2.jpg "image_tooltip")
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image2.jpg][https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms][alt text]
 
 **[FreeCodeCamp](https://www.freecodecamp.org/donate/)** (donated[ in BTC](https://www.blockchain.com/btc/tx/be9e7349167e856c7356914615cda99add02f4556abb93d23791dad58bb4b9ca)). Learning to code can transform someone's economic potential. It's as close to digital literacy as one can get. FreeCodeCamp is very efficient when it comes to reducing the cost it takes to learn to code.
 
 
-
-
-
-
-![https://gitlab.com/hars/memes/2020/December/22.12/image1.png][https://experts.hacech][alt text]
-
-
-
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image3.jpg
-
-![alt_text](images/image3.jpg "image_tooltip")
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image3.jpg][https://www.blockchain.com/btc/tx/be9e7349167e856c7356914615cda99add02f4556abb93d23791dad58bb4b9ca][alt text]
 
 ([Link](https://www.blockchain.com/btc/tx/be9e7349167e856c7356914615cda99add02f4556abb93d23791dad58bb4b9ca))
 
@@ -77,16 +47,8 @@ https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/0
 
 
 
-![https://gitlab020/December/22.12/image1.png][https://experts.hackernoon.ch][alt text]
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image4.jpg][https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms][alt text]
 
-
-
-
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image4.jpg
-
-
-https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
-![alt_text](images/image4.jpg "image_tooltip")
 
 
 **[KidsTek](https://kidstek.org/)**. We are based in Colorado and improving digital literacy and technology acumen is core to the internet industry. KidsTek promotes digital literacy for high needs Colorado schools through technology education
@@ -95,34 +57,15 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
-![https://gitlab.20/December/22.12/image1.png][https://experts.hackernoon.ch][alt text]
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image5.jpg][https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms][alt text]
 
-
-
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image5.jpg
-
-
-https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
-![alt_text](images/image5.jpg "image_tooltip")
 
 
 **[BitGive Foundation](https://www.bitgivefoundation.org/) **(donated[ in BTC](https://bitpay.com/insight/#/BTC/mainnet/tx/0b18160e4472c3195b00d5c2248d8a5bfca4953add1c03edd77164587751bd4e)). Leverages the power of Bitcoin and Blockchain technology to create lasting social impact. We are bullish on low transaction fees via crypto could become an engine for good.
 
 
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image6.jpg][https://bitpay.com/insight/#/BTC/mainnet/tx/0b18160e4472c3195b00d5c2248d8a5bfca4953add1c03edd77164587751bd4e][alt text]
 
-
-
-
-
-![https://gitlab.ccember/22.12/image1.png][https://experts.hackernoon.comch][alt text]
-
-
-
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image6.jpg
-
-
-https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
-![alt_text](images/image6.jpg "image_tooltip")
 
 
 ([Link](https://bitpay.com/insight/#/BTC/mainnet/tx/0b18160e4472c3195b00d5c2248d8a5bfca4953add1c03edd77164587751bd4e))
@@ -130,43 +73,13 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 **[GiveCrypto](https://www.givecrypto.org/)** (donated[ in BTC](https://commerce.coinbase.com/receipts/EWM7Z5TN)). They distribute your cryptocurrency to impact communities and help drive the real-world utility of crypto. Good to see an organization leveraging crypto in the global fight against poverty and hunger.
 
 
-
-
-
-
-![https://gitlab.cember/22.12/image1.png][https://experts.hackernoon.coh][alt text]
-
-
-
-
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image7.jpg
-
-
-https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
-![alt_text](images/image7.jpg "image_tooltip")
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image7.jpg][https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms][alt text]
 
 ([Link](https://commerce.coinbase.com/receipts/EWM7Z5TN))
 
 **[Black Girls Code](https://www.blackgirlscode.com/). **They increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
 
-
-
-
-
-
-
-![https://gitlab.ember/22.12/image1.png][https://experts.hackernoon.comh][alt text]
-
-
-
-
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image8.jpg
-
-
-https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
-![alt_text](images/image8.jpg "image_tooltip")
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image8.jpg][https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms][alt text]
 
 **[Kat Marchán's Open Source Initiatives](https://github.com/sponsors/zkat)** (donated via Venmo). Her work on npm@5, npx, npm ci, and WeAreAllJS changed the game. Kat's contributions help make Hacker Noon possible.
 
@@ -176,15 +89,7 @@ https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
 
 
 
-![https://gitlab.ember/22.12/image1.png][https://experts.hackernoon.comch][alt text]
-
-
-
-https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image9.jpg
-
-
-https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms
-![alt_text](images/image9.jpg "image_tooltip")
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/06.01/image9.jpg][https://hackernoon.com/dollar10k-back-to-the-internet-donation-155234ms][alt text]
 
 
 ([Link](https://www.blockchain.com/btc/tx/be9e7349167e856c7356914615cda99add02f4556abb93d23791dad58bb4b9ca))
