@@ -12,19 +12,9 @@ Disclaimer: The information about each company is taken from 3rd party APIs whic
 
 **[2Checkout Company News Page](https://hackernoon.com/company/2checkout)**:
 Founded in 2000, 2Checkout has 84 employees and is ranked 11641st at Alexa global ranking.
- 
- 
-**[360 SECURITY Company News Page](https://hackernoon.com/company/360security)**:
-Founded in 2005, 360 SECURITY has 1005 employees and is ranked 21st at Alexa global ranking.
-
-
-**[3M Company News Page](https://hackernoon.com/company/3m)**:
-Founded in 1902, 3M has 10K+ employees and is ranked 15093rd at Alexa global ranking.
-
 
 **[9 to 5 Mac Company News Page](https://hackernoon.com/company/9to5mac)**:
 Founded in 2007, 9 to 5 Mac has 11 employees and is ranked 4566th at Alexa global ranking.
-
 
 **[ACCENTURE PLC Company News Page](https://hackernoon.com/company/accentureplc)**:
 Founded in 1989, ACCENTURE PLC has 10K+ employees and is ranked 2229th at Alexa global ranking.
@@ -32,17 +22,11 @@ Founded in 1989, ACCENTURE PLC has 10K+ employees and is ranked 2229th at Alexa 
 **[Activision Blizzard Company News Page](https://hackernoon.com/company/activisionblizzard)**:
 Founded in 1990, Activision Blizzard has 9080 employees and is ranked 246708th at Alexa global ranking.
 
-
-
 **[Adobe Company News Page](https://hackernoon.com/company/adobe)**:
 Founded in 1982, Adobe has 10K+ employees and is ranked 64th at Alexa global ranking.
 
-
 **[Advanced Micro Devices Company News Page](https://hackernoon.com/company/advancedmicrodevices)**:
 Founded in 1969, Advanced Micro Devices has 10K+ employees and is ranked 1827th at Alexa global ranking.
-
-**[AES Company News Page](https://hackernoon.com/company/aes)**:
-Founded in 1981, AES has 8000 employees and is ranked 561795th at Alexa global ranking.
 
 **[AirBnB Company News Page](https://hackernoon.com/company/airbnb)**:
 Founded in 2008, AirBnB has 6300 employees and is ranked 234th at Alexa global ranking.
@@ -59,23 +43,14 @@ Founded in 1930, American Airlines Group has 107400 employees and is ranked 1006
 **[American Electric Power Company News Page](https://hackernoon.com/company/americanelectricpower)**:
 Founded in 1906, American Electric Power has 17408 employees and is ranked 115831st at Alexa global ranking.
 
-
-
 **[American Express Company News Page](https://hackernoon.com/company/americanexpress)**:
 Founded in 1850, American Express has 64000 employees and is ranked 331st at Alexa global ranking.
-
-
-
 
 **[Apache Company News Page](https://hackernoon.com/company/apache)**:
 Founded in 1954, Apache has 3163 employees and is ranked 517673rd at Alexa global ranking.
 
-
 **[Apple Company News Page](https://hackernoon.com/company/apple)**:
 Founded in 1976, Apple has 137000 employees and is ranked 432770th at Alexa global ranking.
-
-
-
 
 **[Asana Company News Page](https://hackernoon.com/company/asana)**:
 Founded in 2009, Asana has 244 employees and is ranked 621st at Alexa global ranking.
@@ -92,34 +67,11 @@ Founded in 1996, Authorize.Net has 31 employees and is ranked 6943rd at Alexa gl
 **[AUTODESK Company News Page](https://hackernoon.com/company/autodesk)**:
 Founded in 1982, AUTODESK has 10100 employees and is ranked 584th at Alexa global ranking.
 
-**[Badoo Company News Page](https://hackernoon.com/company/badoo)**:
-Founded in 2006, Badoo has 501 employees and is ranked 1115th at Alexa global ranking.
-
-**[Bank of America Company News Page](https://hackernoon.com/company/bankofamerica)**:
-Founded in 1968, Bank of America has 213000 employees and is ranked 208th at Alexa global ranking.
-
-**[Bank of New York Mellon Company News Page](https://hackernoon.com/company/bankofnewyorkmellon)**:
-Founded in 1784, Bank of New York Mellon has 48300 employees and is ranked 55735th at Alexa global ranking.
-
-**[Best Buy Company News Page](https://hackernoon.com/company/bestbuy)**:
-Founded in 1966, Best Buy has 10K+ employees and is ranked 286th at Alexa global ranking.
-
-**[Bitnami Company News Page](https://hackernoon.com/company/bitnami)**:
-Founded in 2011, Bitnami has 53 employees and is ranked 9732nd at Alexa global ranking.
-
-
 **[Boeing Company News Page](https://hackernoon.com/company/boeing)**:
 Founded in 1916, Boeing has 161100 employees and is ranked 2295991st at Alexa global ranking.
 
-
-
-**[Braintree Company News Page](https://hackernoon.com/company/braintree)**:
-Founded in 2007, Braintree has 391 employees and is ranked 43984th at Alexa global ranking.
-
-
 **[Canon Company News Page](https://hackernoon.com/company/canon)**:
 Founded in 1937, Canon has 3001 employees and is ranked 5959th at Alexa global ranking.
-
 
 **[Caterpillar Company News Page](https://hackernoon.com/company/caterpillar)**:
 Founded in 1925, Caterpillar has 102300 employees and is ranked 101008th at Alexa global ranking.
@@ -142,7 +94,6 @@ Founded in 1984, Cisco Systems has 10K+ employees and is ranked 50107th at Alexa
 **[Citigroup Company News Page](https://hackernoon.com/company/citigroup)**:
 Founded in 1812, Citigroup has 204000 employees and is ranked 22302nd at Alexa global ranking.
 
-
 **[Coca-Cola Company News Page](https://hackernoon.com/company/coca-cola)**:
 Founded in 1892, Coca-Cola has 86200 employees and is ranked 36271st at Alexa global ranking.
 
@@ -161,18 +112,14 @@ Founded in 2007, Credit Karma has 457 employees and is ranked 854th at Alexa glo
 **[DAILY MAIL & GENERAL TRUST PLC Company News Page](https://hackernoon.com/company/dailymailgeneraltrustplc)**:
 Founded in 1922, DAILY MAIL & GENERAL TRUST PLC has 5950 employees and is ranked 1053959th at Alexa global ranking.
 
-
 **[Dell Technologies Company News Page](https://hackernoon.com/company/delltechnologies)**:
 Founded in 2016, Dell Technologies has 7501 employees and is ranked 109963rd at Alexa global ranking.
-
 
 **[Eastman Chemical Company News Page](https://hackernoon.com/company/eastmanchemical)**:
 Founded in 1920, Eastman Chemical has 14500 employees and is ranked 179616th at Alexa global ranking.
 
 **[eBay Company News Page](https://hackernoon.com/company/ebay)**:
 Founded in 1995, eBay has 21 employees and is ranked 40th at Alexa global ranking.
-
-
 
 **[Enigma.io Company News Page](https://hackernoon.com/company/enigmaio)**:
 Founded in 2011, Enigma.io has 126 employees and is ranked 8549047th at Alexa global ranking.
@@ -183,45 +130,32 @@ Founded in 1989, Energy Transfer has 6 employees and is ranked 319119th at Alexa
 **[Engadget Company News Page](https://hackernoon.com/company/engadget)**:
 Founded in 2004, Engadget has 104 employees and is ranked 637th at Alexa global ranking.
 
-
-
 **[Expedia Group Company News Page](https://hackernoon.com/company/expediagroup)**:
 Founded in 1996, Expedia Group has 25400 employees and is ranked 187660th at Alexa global ranking.
-
 
 **[Exxon Mobil Company News Page](https://hackernoon.com/company/exxonmobil)**:
 Founded in 1999, Exxon Mobil has 74900 employees and is ranked 30282nd at Alexa global ranking.
 
-
 **[Facebook Company News Page](https://hackernoon.com/company/facebook)**:
 Founded in 2004, Facebook has 10K+ employees and is ranked 3rd at Alexa global ranking.
-
 
 **[FedEx Company News Page](https://hackernoon.com/company/fedex)**:
 Founded in 1973, FedEx has 10K+ employees and is ranked 407th at Alexa global ranking.
 
-
-
 **[Ford Motor Company News Page](https://hackernoon.com/company/fordmotor)**:
 Founded in 1903, Ford Motor has 10K+ employees and is ranked 3500th at Alexa global ranking.
-
 
 **[Fortune Tech Company News Page](https://hackernoon.com/company/fortunetech)**:
 Founded in 1930, Fortune Tech has 163 employees and is ranked 4620th at Alexa global ranking.
 
-
 **[FreshWorks Studio Company News Page](https://hackernoon.com/company/freshworksstudio)**:
 Founded in 2014, FreshWorks Studio has 126 employees and is ranked 1877434th at Alexa global ranking.
-
 
 **[Fujitsu Company News Page](https://hackernoon.com/company/fujitsu)**:
 Founded in 1935, Fujitsu has 129071 employees and is ranked 6602nd at Alexa global ranking.
 
-
 **[Gap Company News Page](https://hackernoon.com/company/gap)**:
 Founded in 1969, Gap has 129000 employees and is ranked 63482nd at Alexa global ranking.
-
-
 
 **[General Motors Company News Page](https://hackernoon.com/company/generalmotors)**:
 Founded in 1908, General Motors has 164000 employees and is ranked 11488th at Alexa global ranking.
@@ -229,26 +163,17 @@ Founded in 1908, General Motors has 164000 employees and is ranked 11488th at Al
 **[Genuine Parts Company News Page](https://hackernoon.com/company/genuineparts)**:
 Founded in 1928, Genuine Parts has 55000 employees and is ranked 200704th at Alexa global ranking.
 
-
-
 **[Google Company News Page](https://hackernoon.com/company/google)**:
 Founded in 1998, Google has 10K+ employees and is ranked 1st at Alexa global ranking.
-
-
 
 **[Guardian Life Ins. Co. of America Company News Page](https://hackernoon.com/company/guardianlifeinscoofamerica)**:
 Founded in 1860, Guardian Life Ins. Co. of America has 7501 employees and is ranked 135392nd at Alexa global ranking.
 
-
 **[Harley-Davidson Company News Page](https://hackernoon.com/company/harley-davidson)**:
 Founded in 1903, Harley-Davidson has 5600 employees and is ranked 12851st at Alexa global ranking.
 
-
-
-
 **[Hewlett Packard Enterprise Company News Page](https://hackernoon.com/company/hewlettpackardenterprise)**:
 Founded in 1939, Hewlett Packard Enterprise has 10K+ employees and is ranked 4334th at Alexa global ranking.
-
 
 **[Houston Chronicle Company News Page](https://hackernoon.com/company/houstonchronicle)**:
 Founded in 1901, Houston Chronicle has 31 employees and is ranked 849th at Alexa global ranking.
@@ -274,28 +199,14 @@ Founded in 2010, Instagram has 3001 employees and is ranked 13th at Alexa global
 **[Intel Company News Page](https://hackernoon.com/company/intel)**:
 Founded in 1968, Intel has 110 employees and is ranked 689th at Alexa global ranking.
 
-
-
 **[Intuit Company News Page](https://hackernoon.com/company/intuit)**:
 Founded in 1983, Intuit has 10K+ employees and is ranked 287th at Alexa global ranking.
-
-
-
-**[J.M. Smucker Company News Page](https://hackernoon.com/company/jmsmucker)**:
-Founded in 1897, J.M. Smucker has 7000 employees and is ranked 524638th at Alexa global ranking.
-
-
-
 
 **[KeyCorp Company News Page](https://hackernoon.com/company/keycorp)**:
 Founded in 1849, KeyCorp has 16587 employees and is ranked 7982nd at Alexa global ranking.
 
-
-
-
 **[LENOVO GROUP Company News Page](https://hackernoon.com/company/lenovogroup)**:
 Founded in 2005, LENOVO GROUP has 63000 employees and is ranked 722nd at Alexa global ranking.
-
 
 **[Levi Strauss Company News Page](https://hackernoon.com/company/levistrauss)**:
 Founded in 1853, Levi Strauss has 5433 employees and is ranked 182709th at Alexa global ranking.
@@ -303,72 +214,44 @@ Founded in 1853, Levi Strauss has 5433 employees and is ranked 182709th at Alexa
 **[LG Corp. Company News Page](https://hackernoon.com/company/lgcorp)**:
 Founded in 1947, LG Corp. has 351 employees and is ranked 1414576th at Alexa global ranking.
 
-
-
 **[Lockheed Martin Company News Page](https://hackernoon.com/company/lockheedmartin)**:
 Founded in 1912, Lockheed Martin has 110000 employees and is ranked 50107th at Alexa global ranking.
-
 
 **[LOGITECH INTERNATIONAL S.A. Company News Page](https://hackernoon.com/company/logitechinternationalsa)**:
 Founded in 1981, LOGITECH INTERNATIONAL S.A. has 6600 employees and is ranked 2820th at Alexa global ranking.
 
-
-
-
 **[Lyft Company News Page](https://hackernoon.com/company/lyft)**:
 Founded in 2012, Lyft has 10K+ employees and is ranked 7080th at Alexa global ranking.
-
-
-
-**[Marathon Petroleum Company News Page](https://hackernoon.com/company/marathonpetroleum)**:
-Founded in 2014, Marathon Petroleum has 7501 employees and is ranked 265428th at Alexa global ranking.
-
 
 **[Mashable Company News Page](https://hackernoon.com/company/mashable)**:
 Founded in 2005, Mashable has 330 employees and is ranked 1428th at Alexa global ranking.
 
-
 **[Mastercard Company News Page](https://hackernoon.com/company/mastercard)**:
 Founded in 1966, Mastercard has 18600 employees and is ranked 18052nd at Alexa global ranking.
-
-
 
 **[McDonald's Company News Page](https://hackernoon.com/company/mcdonald's)**:
 Founded in 1955, McDonald's has 205000 employees and is ranked 5402nd at Alexa global ranking.
 
-
-
-
 **[Microsoft Company News Page](https://hackernoon.com/company/microsoft)**:
 Founded in 1975, Microsoft has 163000 employees and is ranked 33rd at Alexa global ranking.
-
 
 **[Morgan Stanley Company News Page](https://hackernoon.com/company/morganstanley)**:
 Founded in 1935, Morgan Stanley has 10K+ employees and is ranked 12614th at Alexa global ranking.
 
-
 **[Motorola Solutions Company News Page](https://hackernoon.com/company/motorolasolutions)**:
 Founded in 1928, Motorola Solutions has 17000 employees and is ranked 37012th at Alexa global ranking.
-
-
 
 **[Netflix Company News Page](https://hackernoon.com/company/netflix)**:
 Founded in 1997, Netflix has 8600 employees and is ranked 24th at Alexa global ranking.
 
-
-
-
 **[New York Post Company News Page](https://hackernoon.com/company/newyorkpost)**:
 Founded in 1801, New York Post has 461 employees and is ranked 801st at Alexa global ranking.
-
 
 **[Nike Company News Page](https://hackernoon.com/company/nike)**:
 Founded in 1972, Nike has 75400 employees and is ranked 456th at Alexa global ranking.
 
-
 **[Northrop Grumman Company News Page](https://hackernoon.com/company/northropgrumman)**:
 Founded in 1939, Northrop Grumman has 90000 employees and is ranked 53469th at Alexa global ranking.
-
 
 **[NVIDIA Company News Page](https://hackernoon.com/company/nvidia)**:
 Founded in 1993, NVIDIA has 13775 employees and is ranked 958th at Alexa global ranking.
@@ -376,33 +259,20 @@ Founded in 1993, NVIDIA has 13775 employees and is ranked 958th at Alexa global 
 **[NVIDIA CORPORATION Company News Page](https://hackernoon.com/company/nvidiacorporation)**:
 Founded in 1993, NVIDIA CORPORATION has 18100 employees and is ranked 75200th at Alexa global ranking.
 
-
-**[Office Depot Company News Page](https://hackernoon.com/company/officedepot)**:
-Founded in 1986, Office Depot has 10K+ employees and is ranked 3831st at Alexa global ranking.
-
-
-
-
 **[Oracle Company News Page](https://hackernoon.com/company/oracle)**:
 Founded in 1977, Oracle has 135000 employees and is ranked 375th at Alexa global ranking.
-
-
 
 **[Palantir Technologies Company News Page](https://hackernoon.com/company/palantirtechnologies)**:
 Founded in 2004, Palantir Technologies has 3001 employees and is ranked 81583rd at Alexa global ranking.
 
-
 **[PANASONIC CORPORATION Company News Page](https://hackernoon.com/company/panasoniccorporation)**:
 Founded in 1918, PANASONIC CORPORATION has 249349 employees and is ranked 4307th at Alexa global ranking.
-
 
 **[PayPal Holdings Company News Page](https://hackernoon.com/company/paypalholdings)**:
 Founded in 1998, PayPal Holdings has 23200 employees and is ranked 55th at Alexa global ranking.
 
-
 **[PepsiCo Company News Page](https://hackernoon.com/company/pepsico)**:
 Founded in 1965, PepsiCo has 10K+ employees and is ranked 57828th at Alexa global ranking.
-
 
 **[PEUGEOT Company News Page](https://hackernoon.com/company/peugeot)**:
 Founded in 1810, PEUGEOT has 10K+ employees and is ranked 26444th at Alexa global ranking.
@@ -425,20 +295,11 @@ Founded in 1985, Qualcomm has 37000 employees and is ranked 8649th at Alexa glob
 **[Ralph Lauren Company News Page](https://hackernoon.com/company/ralphlauren)**:
 Founded in 1968, Ralph Lauren has 13700 employees and is ranked 10550th at Alexa global ranking.
 
-**[Realogy Holdings Company News Page](https://hackernoon.com/company/realogyholdings)**:
-Founded in 2006, Realogy Holdings has 10150 employees and is ranked 248254th at Alexa global ranking.
-
-**[Reinvently Company News Page](https://hackernoon.com/company/reinvently)**:
-Founded in 2016, Reinvently has 29 employees and is ranked 910736th at Alexa global ranking.
-
 **[RENAULT Company News Page](https://hackernoon.com/company/renault)**:
 Founded in 1898, RENAULT has 6 employees and is ranked 60675th at Alexa global ranking.
 
 **[Robinhood Company News Page](https://hackernoon.com/company/robinhood)**:
 Founded in 2012, Robinhood has 159 employees and is ranked 3157th at Alexa global ranking.
-
-**[RubyGarage Company News Page](https://hackernoon.com/company/rubygarage)**:
-Founded in 2011, RubyGarage has 31 employees and is ranked 89940th at Alexa global ranking.
 
 **[salesforce.com Company News Page](https://hackernoon.com/company/salesforcecom)**:
 Founded in 1999, salesforce.com has 10K+ employees and is ranked 118th at Alexa global ranking.
@@ -470,12 +331,6 @@ Founded in 2010, Stripe has 3001 employees and is ranked 2120th at Alexa global 
 **[SUBARU CORPORATION Company News Page](https://hackernoon.com/company/subarucorporation)**:
 Founded in 1953, SUBARU CORPORATION has 35034 employees and is ranked 223963rd at Alexa global ranking.
 
-**[SumoMe Company News Page](https://hackernoon.com/company/sumome)**:
-Founded in 2010, SumoMe has 30 employees and is ranked 22842nd at Alexa global ranking.
-
-**[SYNOPSYS INC Company News Page](https://hackernoon.com/company/synopsysinc)**:
-Founded in 1986, SYNOPSYS INC has 13896 employees and is ranked 26740th at Alexa global ranking.
-
 **[Sysco Company News Page](https://hackernoon.com/company/sysco)**:
 Founded in 1970, Sysco has 57000 employees and is ranked 62075th at Alexa global ranking.
 
@@ -502,18 +357,6 @@ Founded in 2006, The NextWeb has 106 employees and is ranked 6675th at Alexa glo
 
 **[The Verge Company News Page](https://hackernoon.com/company/theverge)**:
 Founded in 2011, The Verge has 58 employees and is ranked 463rd at Alexa global ranking.
-
-**[Thrivent Financial for Lutherans Company News Page](https://hackernoon.com/company/thriventfinancialforlutherans)**:
-Founded in 1902, Thrivent Financial for Lutherans has 3963 employees and is ranked 86770th at Alexa global ranking.
-
-**[TopCoder Company News Page](https://hackernoon.com/company/topcoder)**:
-Founded in 2000, TopCoder has 110 employees and is ranked 34093rd at Alexa global ranking.
-
-**[TJX Company News Page](https://hackernoon.com/company/tjx)**:
-Founded in 1956, TJX has 286000 employees and is ranked 7235th at Alexa global ranking.
-
-**[TowerData Company News Page](https://hackernoon.com/company/towerdata)**:
-Founded in 2001, TowerData has 13 employees and is ranked 168073rd at Alexa global ranking.
 
 **[Trello Company News Page](https://hackernoon.com/company/trello)**:
 Founded in 2011, Trello has 44 employees and is ranked 176th at Alexa global ranking.
