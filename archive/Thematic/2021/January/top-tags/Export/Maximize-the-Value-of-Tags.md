@@ -10,7 +10,14 @@ Tags are the internet's indexing system. When you submit a story to Hacker Noon,
 
 You can [check out all of Hacker Noon's 27,000+ tags here](https://hackernoon.com/tagged), and [manage your Tech Brief Subscriptions here](https://app.hackernoon.com/subscriptions).
 
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image1.png][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-6psu31up.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-6psu31up.jpeg)
+
+
+
+
 
 ## **As a [signed-in Hacker Noon Contributor](https://hackernoon.com/signup):**
 
@@ -20,7 +27,13 @@ Below you'll find a list of **the 22 tag pages that attract the most readers** o
 
 Targeting your content to these pages is as simple as [drafting a new submission](https://app.hackernoon.com/new) and using the tags in **Story Settings** to select your magic eight.
 
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image2.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-bfvs319f.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-bfvs319f.jpeg)
+
+
+
 
 > Pro Writing Hack: Cross reference your targeted tag pages with Hacker Noon's Leaderboard to see which headlines are generating the most engagement in your content category.
 
@@ -30,7 +43,14 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 *"Not a real programming language" since 1995.*
 
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image3.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-9j4l3167.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-9j4l3167.jpeg)
+
+
+
+
 
 👀 [Read **javascript** stories on Hacker Noon](https://hackernoon.com/tagged/javascript).
 
@@ -48,7 +68,14 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 ## **💸 #[cryptocurrency](https://hackernoon.com/tagged/cryptocurrency)**
 
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image4.png][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-eb8j31c9.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-eb8j31c9.jpeg)
+
+
+
+
 
 👀 [Read **cryptocurrency** stories on Hacker Noon](https://hackernoon.com/tagged/cryptocurrency).
 
@@ -74,7 +101,15 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 *Not only the birth of digital currency, Bitcoin is also the mascot of decentralized and reliable digital currency.*
 
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image5.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-vzd7313t.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-vzd7313t.jpeg)
+
+
+
+
 
 👀 [Read **bitcoin** stories on Hacker Noon](https://hackernoon.com/tagged/bitcoin).
 
@@ -92,7 +127,14 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 ## 🔥 **#[react](https://hackernoon.com/tagged/react)**
 
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image6.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-2mft31j3.png](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-2mft31j3.png)
+
+
+
+
 
 👀 [Read **react** stories on Hacker Noon](https://hackernoon.com/tagged/react).
 
@@ -100,13 +142,30 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 *Stories for when it's been 7 hours and you still can't understand your own code...*
 
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image7.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-uthy3172.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-uthy3172.jpeg)
+
+
+
+
 
 👀 [Read **software development** stories on Hacker Noon](https://hackernoon.com/tagged/software-development).
 
 ## **🦾 #[automation](https://hackernoon.com/tagged/automation)**
 
+
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image8.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-4lj931fm.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-4lj931fm.jpeg)
+
+
+
 
 👀 [Read **automation** stories on Hacker Noon](https://hackernoon.com/tagged/automation).
 
@@ -114,13 +173,27 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 *Stories from those who've made it, and/or those who are probably listening to Drake a lot while trying to make it.*
 
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image9.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-jmk631z6.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-jmk631z6.jpeg)
+
+
+
+
 
 👀 [Read **business** stories on Hacker Noon](https://hackernoon.com/tagged/business).
 
 ## 👩‍💼 **#[entrepreneurship](https://hackernoon.com/tagged/entrepreneurship)**
 
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image10.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-t6lk31hx.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-t6lk31hx.jpeg)
+
+
+
 
 👀 [Read **entrepreneurship** stories on Hacker Noon](https://hackernoon.com/tagged/entrepreneurship).
 
@@ -128,7 +201,13 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 *Because* "if you build it, they will come" *has always been bullsh*t.*
 
+
+
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-2zmg31lv.gif](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-2zmg31lv.gif)
+
+
+
 
 👀 [Read **marketing** stories on Hacker Noon](https://hackernoon.com/tagged/marketing).
 
@@ -140,25 +219,51 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 ## ➕ **#[c++](https://hackernoon.com/tagged/c++)**
 
+
+
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-qznj319c.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-qznj319c.jpeg)
+
+
+
+
 
 👀 [Read **c++** stories on Hacker Noon](https://hackernoon.com/tagged/c++).
 
 ## 🏗️ **#[software-architecture](https://hackernoon.com/tagged/software-architecture)**
 
+
+
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-x4o331qu.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-x4o331qu.jpeg)
+
+
+
+
 
 👀 [Read **software architecture** stories on Hacker Noon](https://hackernoon.com/tagged/software-architecture).
 
 ## 🏝️ #**[decentralization](https://hackernoon.com/tagged/decentralization)**
 
+
+
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-ioob3127.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-ioob3127.jpeg)
+
+
+
 
 👀 [Read **decentralization** stories on Hacker Noon](https://hackernoon.com/tagged/decentralization).
 
 ## **🕹️ #[gaming](https://hackernoon.com/tagged/gaming)**
 
+
+
+
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-z6ph31k4.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-z6ph31k4.jpeg)
+
+
+
 
 👀 [Read **gaming** stories on Hacker Noon](https://hackernoon.com/tagged/gaming).
 
