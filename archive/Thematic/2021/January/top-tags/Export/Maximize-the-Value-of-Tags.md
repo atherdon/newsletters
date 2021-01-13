@@ -12,7 +12,7 @@ Tags are the internet's indexing system. When you submit a story to Hacker Noon,
 
 You can [check out all of Hacker Noon's 27,000+ tags here](https://hackernoon.com/tagged), and [manage your Tech Brief Subscriptions here](https://app.hackernoon.com/subscriptions).
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image2.png][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image2.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
 
 ## **As a [signed-in Hacker Noon Contributor](https://hackernoon.com/signup):**
 
@@ -88,7 +88,7 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 ## 🔥 **#[react](https://hackernoon.com/tagged/react)**
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image4.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image4.png][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
 
 👀 [Read **react** stories on Hacker Noon](https://hackernoon.com/tagged/react).
 
@@ -100,7 +100,7 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 ## **🦾 #[automation](https://hackernoon.com/tagged/automation)**
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image5.png][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image5.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
 
 👀 [Read **automation** stories on Hacker Noon](https://hackernoon.com/tagged/automation).
 
