@@ -1,4 +1,6 @@
 
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image1.png][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
 # **Writing Hack: Target the 22 Most Trafficked Tag Pages on Hacker Noon**
 
 Tags are the internet's indexing system. When you submit a story to Hacker Noon, you get not three, not five, but EIGHT tags. Tags work for you, as a writer, in two important ways:
@@ -10,14 +12,7 @@ Tags are the internet's indexing system. When you submit a story to Hacker Noon,
 
 You can [check out all of Hacker Noon's 27,000+ tags here](https://hackernoon.com/tagged), and [manage your Tech Brief Subscriptions here](https://app.hackernoon.com/subscriptions).
 
-
-
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image1.png][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
-![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-6psu31up.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-6psu31up.jpeg)
-
-
-
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image2.png][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
 
 ## **As a [signed-in Hacker Noon Contributor](https://hackernoon.com/signup):**
 
@@ -27,13 +22,7 @@ Below you'll find a list of **the 22 tag pages that attract the most readers** o
 
 Targeting your content to these pages is as simple as [drafting a new submission](https://app.hackernoon.com/new) and using the tags in **Story Settings** to select your magic eight.
 
-
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image2.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
-
-![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-bfvs319f.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-bfvs319f.jpeg)
-
-
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image3.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
 
 > Pro Writing Hack: Cross reference your targeted tag pages with Hacker Noon's Leaderboard to see which headlines are generating the most engagement in your content category.
 
@@ -42,15 +31,6 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 ## 🤿 **#[javascript](https://hackernoon.com/tagged/javascript)**
 
 *"Not a real programming language" since 1995.*
-
-
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image3.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
-
-![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-9j4l3167.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-9j4l3167.jpeg)
-
-
-
-
 
 👀 [Read **javascript** stories on Hacker Noon](https://hackernoon.com/tagged/javascript).
 
@@ -67,15 +47,6 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 👀 [Read **python** stories on Hacker Noon](https://hackernoon.com/tagged/python)**.**
 
 ## **💸 #[cryptocurrency](https://hackernoon.com/tagged/cryptocurrency)**
-
-
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image4.png][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
-
-![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-eb8j31c9.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-eb8j31c9.jpeg)
-
-
-
-
 
 👀 [Read **cryptocurrency** stories on Hacker Noon](https://hackernoon.com/tagged/cryptocurrency).
 
@@ -101,16 +72,6 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 *Not only the birth of digital currency, Bitcoin is also the mascot of decentralized and reliable digital currency.*
 
-
-
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image5.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
-
-![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-vzd7313t.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-vzd7313t.jpeg)
-
-
-
-
-
 👀 [Read **bitcoin** stories on Hacker Noon](https://hackernoon.com/tagged/bitcoin).
 
 ## 🧑‍🔬 **#[data-science](https://hackernoon.com/tagged/data-science)**
@@ -127,14 +88,7 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 ## 🔥 **#[react](https://hackernoon.com/tagged/react)**
 
-
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image6.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
-
-![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-2mft31j3.png](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-2mft31j3.png)
-
-
-
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image4.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
 
 👀 [Read **react** stories on Hacker Noon](https://hackernoon.com/tagged/react).
 
@@ -142,25 +96,30 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 *Stories for when it's been 7 hours and you still can't understand your own code...*
 
-
-
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image7.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
-
-
-![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-uthy3172.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-uthy3172.jpeg)
-
-
-
-
-
 👀 [Read **software development** stories on Hacker Noon](https://hackernoon.com/tagged/software-development).
 
 ## **🦾 #[automation](https://hackernoon.com/tagged/automation)**
 
 
 
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image5.png][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image6.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
+![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-vzd7313t.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-vzd7313t.jpeg)
+
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image7.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image8.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+
+
+![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-uthy3172.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-uthy3172.jpeg)
+
+
+
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image9.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
 
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-4lj931fm.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-4lj931fm.jpeg)
 
@@ -175,7 +134,7 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image9.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image10.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
 
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-jmk631z6.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-jmk631z6.jpeg)
 
@@ -188,7 +147,7 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 ## 👩‍💼 **#[entrepreneurship](https://hackernoon.com/tagged/entrepreneurship)**
 
 
-![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image10.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
+<!-- ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image10.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text] -->
 
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-t6lk31hx.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-t6lk31hx.jpeg)
 
