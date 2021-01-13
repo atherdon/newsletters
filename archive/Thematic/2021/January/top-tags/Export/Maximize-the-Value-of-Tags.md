@@ -138,10 +138,6 @@ Naturally, if you choose to include two or three of the most viewed tag pages on
 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Jan/12.01/image8.jpeg][https://hackernoon.com/writing-hacks-target-the-22-most-trafficked-tag-pages-on-hacker-noon-hc5w323u][alt text]
 
-
-
-
-
 👀 [Read **software architecture** stories on Hacker Noon](https://hackernoon.com/tagged/software-architecture).
 
 ## 🏝️ #**[decentralization](https://hackernoon.com/tagged/decentralization)**
