@@ -1,24 +1,5 @@
-# Maximize the Value of Tags
 
-Tags are short descriptions of content. They are the foundation of organizing and distributing content on the internet. In the below screenshot of the editor story submission workflow, you can see there are 8 tags that have a maximum of 30 characters per tag.
-
-![Maximize%20the%20Value%20of%20Tags%20f0fc9dee8b084f4586a90e91b7f141ba/image1.png](Maximize%20the%20Value%20of%20Tags%20f0fc9dee8b084f4586a90e91b7f141ba/image1.png)
-
-[Previously](https://www.notion.so/One-point-oh-1-0-074d7997a2354a6a94773a438c88f6fa), we operated under a system of 5 tags with a maximum of 25 characters per tag. The grouping of stories is an art and science.
-
-More short writing about the longer writing will create better automated curation and distribution. Each story is linked to by 8 tagged pages.
-
-The order of tags drives curation and distribution. The first tag appears next to the story when it is curated on tagged pages and the homepage.
-
-The first two tags serve as hashtags for the three tweets from the the @HackerNoon twitter account.
-
-Overall, the order of the tags drives the priorities of our curation.
-
-Here’s a version of the tag page:
-
-![Maximize%20the%20Value%20of%20Tags%20f0fc9dee8b084f4586a90e91b7f141ba/Screen_Shot_2020-12-23_at_3.36.27_PM.png](Maximize%20the%20Value%20of%20Tags%20f0fc9dee8b084f4586a90e91b7f141ba/Screen_Shot_2020-12-23_at_3.36.27_PM.png)
-
-## **Writing Hack: Target the 22 Most Trafficked Tag Pages on Hacker Noon**
+# **Writing Hack: Target the 22 Most Trafficked Tag Pages on Hacker Noon**
 
 Tags are the internet's indexing system. When you submit a story to Hacker Noon, you get not three, not five, but EIGHT tags. Tags work for you, as a writer, in two important ways:
 
