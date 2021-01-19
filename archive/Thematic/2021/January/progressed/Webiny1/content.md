@@ -72,7 +72,7 @@ Serverless computing will also [minimize expenses](https://hackernoon.com/6-reas
 
 
 
-Also, d[evelopers who want to build client-heavy applications](https://hackernoon.com/i-chose-serverless-for-my-new-startup-should-you-yp1u3ufq) where most of the logic is handed over to the client will require at least a partially serverless architecture, since it will facilitate moving some processes out of the origin server.
+Also, [developers who want to build client-heavy applications](https://hackernoon.com/i-chose-serverless-for-my-new-startup-should-you-yp1u3ufq) where most of the logic is handed over to the client will require at least a partially serverless architecture, since it will facilitate moving some processes out of the origin server.
 
 
 
