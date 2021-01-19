@@ -1,48 +1,6 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 7.027 seconds.
 
 
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Tue Jan 19 2021 08:46:42 GMT-0800 (PST)
-* Source doc: Webiny 1
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 8.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-SL1: The Good and The Bad of Serverless Architecture
-
-SL2: To Go Serverless Or Not Is The Question
-
-SL3: When (and Why) To Go Serverless
+# When (and Why) To Go Serverless
 
 Technology has been fast enough to help us embrace cloud computing, instead of the traditional on-premise. In particular, the serverless architecture has been grabbing a lot of headlines over the last few years. Already back in 2017, the serverless market was estimated at more than $3B. And as we are rolling into a new decade, this technology is expected to grow up to $20B by 2025.
 
@@ -56,13 +14,7 @@ Let’s get right into it.
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.gif "image_tooltip")
-
-
-https://media.giphy.com/media/UQbDc6dyK6WjpCXMvt/giphy.mp4
+{{IMAGE}}
 
 
 
@@ -77,10 +29,7 @@ With the serverless architecture, [infrastructure management tasks](https://hack
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.gif "image_tooltip")
-
-
-https://media.giphy.com/media/VelhDI6pdStJ4fvAtJ/giphy-downsized.gif
+{{IMAGE}}
 
 
 
@@ -104,13 +53,7 @@ But when is it the [right call to go serverless](https://hackernoon.com/containe
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.gif "image_tooltip")
-
-
-https://media.giphy.com/media/l0IybQ6l8nfKjxQv6/giphy-downsized.gif
+{{IMAGE}}
 
 
 ## Should You Go Serverless?
@@ -122,10 +65,7 @@ https://media.giphy.com/media/l0IybQ6l8nfKjxQv6/giphy-downsized.gif
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image4.gif "image_tooltip")
-
-
-https://media.giphy.com/media/26gJzump2Q03pbOmc/giphy.gif
+{{IMAGE}}
 
 While EC2 scaling usually [presupposes a lot of steps](https://hackernoon.com/how-to-create-serverless-functions-with-openfaas-in-17-steps-u21l3y7m), serverless allows for easy and hassle-free scaling. That is, if your serverless app is [suitable for container size and runtime memory limits](https://hackernoon.com/use-declarative-cloud-functions-in-your-serverless-apps-to-control-size-of-codebase-0r353yet), you are all set for scaling.
 
@@ -134,10 +74,8 @@ While EC2 scaling usually [presupposes a lot of steps](https://hackernoon.com/ho
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image5.gif "image_tooltip")
 
-
-https://media.giphy.com/media/bC8EUWeuy5OIx6o7ul/giphy.gif
+{{IMAGE}}
 
 
 
@@ -148,10 +86,8 @@ Serverless computing will also [minimize expenses](https://hackernoon.com/6-reas
 <p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image6.gif "image_tooltip")
 
-
-https://media.giphy.com/media/oF5oUYTOhvFnO/giphy.gif
+{{IMAGE}}
 
 
 
@@ -176,13 +112,8 @@ Overall, serverless is a [viable option](https://hackernoon.com/how-to-make-a-co
 
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image7.gif "image_tooltip")
-
-
-https://media.giphy.com/media/NSodIu91KDWCs/giphy-downsized.gif
+{{IMAGE}}
 
 
 ## The Takeaway
@@ -195,44 +126,7 @@ However, just like any technology, serverless architecture has its [place and su
 
 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image8.gif "image_tooltip")
+{{IMAGE}}
 
-
-https://media.giphy.com/media/ZW2PzM8s3nlgPQg1M9/giphy.gif
-
-[Next Part and interesting topic to explore deeply]
-
-
-## When Serverless Doesn’t Make Sense
-
-If we look past the hype, it becomes clear that this technology has its drawbacks and limitations. There are some cases when it makes more sense, both from a financial and a technical perspective, to use dedicated servers that are either self-managed or provided as a service.
-
-In particular, using serverless is not your smartest move in the following scenarios:
-
-
-
-*   Low latency apps
-
-A dedicated cloud server has your code all set when an event arrives. As a result, the event can be processed within milliseconds. Serverless architecture slows down the processing time, taking hundreds of milliseconds before the event is attended to.
-
-
-
-*   Memory-intensive applications
-
-Each cloud platform operates with limited CPU, memory, disk, and I/O resources. For example, AWS Lambda functions can go on for a maximum of five minutes and are limited to 1.5 GB of memory.This makes serverless unsuitable for storage-intensive applications.
-
-Moreover, serverless architecture deprives control over server hardware, runtimes, and runtime updates and imposes concurrency. This means that the provider can influence the core characteristics of your software architecture.
-
-For instance, if you go serverless with AWS Lambda, you are tied to two serverless-esque databases which are DynamoDB or Serverless Aurora. So, if you want to avoid vendor lock-in, you should consider other options.
-
-However, you can alleviate some of the serverless disadvantages by applying a mixed approach. It means using a server that will take over ongoing processes while farming out time- and process-consuming tasks to serverless.
-
-
-## The Takeaway
-
-The serverless approach is a boon for both software specialists and product owners. The former can take infrastructure burdens off their shoulders and commit to developing the core product. Product owners, at the same time, reduce server running costs and achieve increased service scalability, speed to market, and scalability.
-
-But like other innovative technologies, serverless is a double-edged sword that can stab your development processes in the back. Therefore, choose wisely based on your application specifics, business needs, and established workflow.
