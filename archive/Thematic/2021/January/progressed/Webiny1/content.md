@@ -26,8 +26,6 @@ With the serverless architecture, [infrastructure management tasks](https://hack
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 {{IMAGE}}
 
@@ -35,11 +33,7 @@ With the serverless architecture, [infrastructure management tasks](https://hack
 
 [Serverless services](https://hackernoon.com/production-ready-serverless-composition-and-orchestration-m04w36nj) like [AWS Lambda](https://hackernoon.com/a-crash-course-on-serverless-with-aws-triggering-lambda-with-sns-messaging-bc17d9f81ca2) also offer [automatic scaling and high availability](https://hackernoon.com/how-to-deploy-a-node-js-application-to-aws-lambda-using-serverless-ae7e7ebe0996) under a value-based payment model.
 
-
-
 Other advantages of [serverless computing](https://hackernoon.com/a-crash-course-on-serverless-with-aws-image-resize-on-the-fly-with-lambda-and-s3-850be95d5833) are:
-
-
 
 *   Better observability
 *   [Faster deployments](https://hackernoon.com/super-easy-forms-introduction-the-easiest-way-to-create-a-serverless-contact-form-u25g3yzq)
@@ -52,7 +46,6 @@ Other advantages of [serverless computing](https://hackernoon.com/a-crash-course
 But when is it the [right call to go serverless](https://hackernoon.com/containers-vs-serverless-from-a-devops-standpoint-d8232bd0f39b) with your software? Let’s find out.
 
 
-
 {{IMAGE}}
 
 
@@ -62,17 +55,9 @@ But when is it the [right call to go serverless](https://hackernoon.com/containe
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 {{IMAGE}}
 
 While EC2 scaling usually [presupposes a lot of steps](https://hackernoon.com/how-to-create-serverless-functions-with-openfaas-in-17-steps-u21l3y7m), serverless allows for easy and hassle-free scaling. That is, if your serverless app is [suitable for container size and runtime memory limits](https://hackernoon.com/use-declarative-cloud-functions-in-your-serverless-apps-to-control-size-of-codebase-0r353yet), you are all set for scaling.
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 
 {{IMAGE}}
@@ -80,10 +65,6 @@ While EC2 scaling usually [presupposes a lot of steps](https://hackernoon.com/ho
 
 
 Serverless computing will also [minimize expenses](https://hackernoon.com/6-reasons-why-you-should-not-connect-expressjs-and-aws-lambda-b71n31st) for applications that [experience irregular operations](https://hackernoon.com/serverless-vs-microservices-architecture-a-deep-dive-lw2u3w0b) with [rush hours](https://hackernoon.com/grasping-serverless-at-scale-is-a-lot-easier-than-you-think-zps3wrs) replacing times of little to no traffic. Most serverless technologies will charge you based on usages like API Calls or Function invocation. It means that the application rest period is not billed, which [lowers the expenses for running a server](https://hackernoon.com/deconstructing-a-serverless-cloud-os-o31d3t3b). On top of it, there are [zero maintenance costs](https://hackernoon.com/top-5-serverless-trends-in-2020-wd1m3t8g).
-
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 
@@ -112,7 +93,6 @@ Overall, serverless is a [viable option](https://hackernoon.com/how-to-make-a-co
 
 
 
-
 {{IMAGE}}
 
 
@@ -123,7 +103,6 @@ The [serverless approach](https://hackernoon.com/what-does-serverless-have-in-co
 
 
 However, just like any technology, serverless architecture has its [place and suitable use cases](https://hackernoon.com/monolithic-and-microservice-architecture-all-you-need-to-know-hk17c32m0). Therefore, before jumping on the serverless bandwagon, analyze whether serverless features will be worthwhile for your workload.
-
 
 
 
