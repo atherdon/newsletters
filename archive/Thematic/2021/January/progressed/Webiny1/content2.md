@@ -202,37 +202,3 @@ However, just like any technology, serverless architecture has its [place and su
 
 
 https://media.giphy.com/media/ZW2PzM8s3nlgPQg1M9/giphy.gif
-
-[Next Part and interesting topic to explore deeply]
-
-
-## When Serverless Doesn’t Make Sense
-
-If we look past the hype, it becomes clear that this technology has its drawbacks and limitations. There are some cases when it makes more sense, both from a financial and a technical perspective, to use dedicated servers that are either self-managed or provided as a service.
-
-In particular, using serverless is not your smartest move in the following scenarios:
-
-
-
-*   Low latency apps
-
-A dedicated cloud server has your code all set when an event arrives. As a result, the event can be processed within milliseconds. Serverless architecture slows down the processing time, taking hundreds of milliseconds before the event is attended to.
-
-
-
-*   Memory-intensive applications
-
-Each cloud platform operates with limited CPU, memory, disk, and I/O resources. For example, AWS Lambda functions can go on for a maximum of five minutes and are limited to 1.5 GB of memory.This makes serverless unsuitable for storage-intensive applications.
-
-Moreover, serverless architecture deprives control over server hardware, runtimes, and runtime updates and imposes concurrency. This means that the provider can influence the core characteristics of your software architecture.
-
-For instance, if you go serverless with AWS Lambda, you are tied to two serverless-esque databases which are DynamoDB or Serverless Aurora. So, if you want to avoid vendor lock-in, you should consider other options.
-
-However, you can alleviate some of the serverless disadvantages by applying a mixed approach. It means using a server that will take over ongoing processes while farming out time- and process-consuming tasks to serverless.
-
-
-## The Takeaway
-
-The serverless approach is a boon for both software specialists and product owners. The former can take infrastructure burdens off their shoulders and commit to developing the core product. Product owners, at the same time, reduce server running costs and achieve increased service scalability, speed to market, and scalability.
-
-But like other innovative technologies, serverless is a double-edged sword that can stab your development processes in the back. Therefore, choose wisely based on your application specifics, business needs, and established workflow.
