@@ -12,3 +12,5 @@ https://upscri.be/hackernoon
 
 
 https://newslettercollector.com/inbox/
+
+https://www.ben-evans.com/newsletter/
