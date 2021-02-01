@@ -1,60 +1,4 @@
-<!-- Copy and paste the converted output. -->
 
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 9.788 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Mon Feb 01 2021 08:15:07 GMT-0800 (PST)
-* Source doc: Newsletter Webiny #2: The Ugly Truth About Serverless Data Security
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 9.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-<table>
-  <tr>
-   <td>
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td><a href="https://bit.ly/3sDQOUK">All you need to build serverless apps</a>
-   </td>
-  </tr>
-</table>
 
 
 
@@ -66,13 +10,9 @@ Managing a [complex infrastructure](https://hackernoon.com/serverless-vs-microse
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+{IMAGE} 
 
-
-![alt_text](images/image2.gif "image_tooltip")
-
-
-https://media.giphy.com/media/H4glhxCUA8aY3ivfym/giphy.gif
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Feb/02.02/image1.gif][https://media.giphy.com/media/H4glhxCUA8aY3ivfym/giphy.gif][alt text]
 
 
 ## Serverless - Malware Just Found A New Home
@@ -86,13 +26,11 @@ This risk takes place when unreliable or [attacker-controlled input](https://hac
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+{IMAGE} 
 
 
-![alt_text](images/image3.gif "image_tooltip")
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Feb/02.02/image2.gif][https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif][alt text]
 
-
-https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif
 
 
 ### Risk 2: Broken Authentication
@@ -101,16 +39,7 @@ Since serverless fosters a [microservices-oriented](https://hackernoon.com/conne
 
 Being intertwined, [these functions](https://hackernoon.com/pipenv-and-requests-libraries-author-kenneth-reitz-talks-about-python-scalability-an-interview-jl2d343v) create overall system logic. However, some functions may disclose public web APIs, while others ingest events from various source types. So [unauthorized access](https://hackernoon.com/a-hacker-intercepted-your-wifi-traffic-stole-your-contacts-passwords-financial-data-heres-how-4fc0df9ff152) is a no-brainer in this case.
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.gif "image_tooltip")
-
-
-https://media.giphy.com/media/daPFsPR6obZR1uRaV1/giphy-downsized.gif
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Feb/02.02/image3.gif][https://media.giphy.com/media/daPFsPR6obZR1uRaV1/giphy-downsized.gif][alt text]
 
 ### Risk 3: Insecure Serverless Deployment Configuration
 
@@ -118,16 +47,7 @@ https://media.giphy.com/media/daPFsPR6obZR1uRaV1/giphy-downsized.gif
 
 Thus, a [popular weak point](https://hackernoon.com/monolithic-and-microservice-architecture-all-you-need-to-know-hk17c32m0) for cloud-based storage is incorrectly configured cloud storage authentication. And if configurations are left unchecked, it may wreak [havoc on your security](https://hackernoon.com/developer-challenges-of-serverless-and-aws-lambda-8b8d5e299a34).
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.gif "image_tooltip")
-
-
-https://media.giphy.com/media/vexp4GOO5r0OI/giphy.gif
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Feb/02.02/image4.gif][https://media.giphy.com/media/vexp4GOO5r0OI/giphy.gif][alt text]
 
 ### Risk 4: Overprivileged Function Permissions and Roles
 
@@ -135,16 +55,7 @@ Serverless functions have access rights, such as the right to access a database.
 
 [But who](https://hackernoon.com/building-serverless-microservices-with-python-84a25c1c6839) has the time to manage a zillion function authorizations? Most often, developers [find a shortcut](https://hackernoon.com/cicd-pipeline-for-nodejs-lambdas-on-aws-using-jest-serverless-framework-github-and-travisci-fl1n3zr4) by applying a "wildcard" permission model. In this case, serverless functions may end up in the [wrong hands](https://hackernoon.com/launched-first-open-source-headless-cms-running-on-aws-serverless-to-cut-hosting-bill-by-60percent-80percent-n1ct30ls) and used for [unplanned operations](https://hackernoon.com/4-elements-of-a-great-serverless-application-deployment-strategy-h5b3zol).
 
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.gif "image_tooltip")
-
-
-https://media.giphy.com/media/Qa4JYD9iCwBT0tSY51/giphy.gif
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Feb/02.02/image5.gif][https://media.giphy.com/media/Qa4JYD9iCwBT0tSY51/giphy.gif][alt text]
 
 ### Risk 5: Inadequate Function Monitoring and Logging
 
@@ -152,16 +63,7 @@ It’s essential to log and [monitor security-relevant events](https://hackernoo
 
 And although many serverless providers supply highly efficient logging capabilities, these logs are in their [basic configuration](https://hackernoon.com/how-to-create-serverless-functions-with-openfaas-in-17-steps-u21l3y7m) and often fall short of delivering a full security event audit trail.
 
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.gif "image_tooltip")
-
-
-https://media.giphy.com/media/hHAsC92GLS4Ni/giphy.gif
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Feb/02.02/image6.gif][https://media.giphy.com/media/hHAsC92GLS4Ni/giphy.gif][alt text]
 
 ## Your Cut’N’Paste Summary
 
@@ -169,29 +71,4 @@ https://media.giphy.com/media/hHAsC92GLS4Ni/giphy.gif
 
 But we are [not spreading fear](https://hackernoon.com/tagged/data-breach) or [slamming serverless](https://hackernoon.com/aws-step-functions-when-they-might-come-in-handy-y0i31x5). Remember that all these risks can be mitigated, [whereas knowing](https://hackernoon.com/top-five-data-breaches-witnessed-in-2020-twitter-marriot-zoom-magellan-health-and-mgm-ou33319m) nothing about them is your [major weakness](https://hackernoon.com/tagged/security-breaches).
 
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.gif "image_tooltip")
-
-
-https://media.giphy.com/media/yCyo0ZZFmpztS/giphy.gif
-
-
-<table>
-  <tr>
-   <td>
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image9.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td><a href="https://bit.ly/3sDQOUK">All you need to build serverless apps</a>
-   </td>
-  </tr>
-</table>
-
+![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Feb/02.02/image7.gif][https://media.giphy.com/media/yCyo0ZZFmpztS/giphy.gif][alt text]
