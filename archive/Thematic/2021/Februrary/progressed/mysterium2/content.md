@@ -1,61 +1,7 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 2.371 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Thu Feb 04 2021 07:44:12 GMT-0800 (PST)
-* Source doc: Copy of Mysterium #2
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 6.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
 
 
-<table>
-  <tr>
-   <td>
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td><a href="https://bit.ly/3pHWkDH">MYST is now on Bittrex</a>
-   </td>
-  </tr>
-</table>
-
-
-
-## When the whole Internet blocks you, where do you turn?
+# When the whole Internet blocks you, where do you turn?
 
 **What a strange time for the Internet.**
 
@@ -76,11 +22,7 @@ Whether it’s [big tech](https://hackernoon.com/the-biggest-mistake-amazon-and-
 Many people (including [Twitter’s own CEO](https://hackernoon.com/my-open-letter-to-jack-dorsey-and-everybody-on-twitter-f2133uwc)) believe that [corporate censorship](https://hackernoon.com/twitter-ceo-jack-dorsey-censors-himself-on-joe-rogan-podcast-b9211ea10dfd) sets a dangerous precedent. Hate speech and inciting violence is inexcusable and intolerable, we can all agree. Yet normalising the behaviour of businesses to set the social standards for freedom of expression is a slippery slope.
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+{IMAGE}
 
 
 [https://twitter.com/jack/status/1349510769268850690?ref_src=twsrc%5Etfw](https://twitter.com/jack/status/1349510769268850690?ref_src=twsrc%5Etfw) 
@@ -95,29 +37,15 @@ We need to [protect the internet](https://hackernoon.com/internet-discoverabilit
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.gif "image_tooltip")
-
-
-https://media.giphy.com/media/ZgSDX7fstahz8kbhzZ/giphy-downsized.gif
+{IMAGE}
 
 This is why Hacker Noon has struck up a strategic partnership with Mysterium Network - a Web 3.0 project making the internet censorship-resistant and more secure. They have a nifty decentralized VPN app, powered by a residential node network, that unblocks the web wherever you are and lets you browse truly anonymously. So you can stream global Netflix _and_ power the decentralized web at the same time. Because not all heroes wear capes. 
 
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.jpg "image_tooltip")
+{IMAGE}
 
 
-Over the course of the next few months, we’ll be: \
-
-
-
-
+Over the course of the next few months, we’ll be: 
 *   putting their claims to the test, 
 *   figuring out how easy is it to use the dVPN and/or set up one’s own nodes, 
 *   how secure is it, 
@@ -129,31 +57,5 @@ On the same note, join us to thank today’s newsletter sponsor - Mysterium Netw
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.gif "image_tooltip")
-
-
-https://media.giphy.com/media/cfrgEcWs2waUE/giphy.gif
-
-***
-
-**[Got a tech story to share with our readers?](https://hackernoon.com/signup)** Everything you've ever wanted to know about how to get published on Hacker Noon - **[get it here](http://publish.hackernoon.com/)**.
-
-
-<table>
-  <tr>
-   <td>
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td><a href="https://bit.ly/3pHWkDH">MYST is now on Bittrex</a>
-   </td>
-  </tr>
-</table>
+{IMAGE}
 
