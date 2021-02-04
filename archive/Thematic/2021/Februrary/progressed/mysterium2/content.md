@@ -25,7 +25,6 @@ Many people (including [Twitter’s own CEO](https://hackernoon.com/my-open-lett
 {IMAGE}
 
 
-[https://twitter.com/jack/status/1349510769268850690?ref_src=twsrc%5Etfw](https://twitter.com/jack/status/1349510769268850690?ref_src=twsrc%5Etfw) 
 
 Traditionally, companies such as [Amazon Web Services](https://hackernoon.com/5-essential-aws-services-for-web-development-ke2a31l1) and Cloudflare [treat the web as a privately owned commodity](https://hackernoon.com/the-aws-outage-downed-slack-zoom-and-notion-among-others-a-multi-cloud-approach-couldve-helped-913h34ry), when in fact, _the internet is public infrastructure. _
 
