@@ -8,13 +8,6 @@ As the [terms and philosophy](https://hackernoon.com/how-can-developers-save-a-f
 With that being said, let's disprove another 5 common DevOps myths that you might have  heard before.
 
 
-
-
-
-
-[https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif) 
-
-
 {IMAGE}
 
 ## **Busting 5 More Myths about DevOps**
@@ -30,13 +23,8 @@ With that being said, let's disprove another 5 common DevOps myths that you migh
     Here’s the harsh truth: Neither [Agile](https://hackernoon.com/safe-a-scaled-agile-framework-in-a-nutshell-b4103170) (Waterfall, Scrum - choose your option) nor DevOps is a panacea. DevOps as an ethos has the ability to uplift the current ailing software practices and is touted as [the key to quality software](https://hackernoon.com/an-introduction-to-agile-practices-why-small-release-in-scrum-fk2m34h9). While this is certainly true, this philosophy can also pose potential risks and minor inconveniences like software feature bloating or narrow team member roles. So don’t expect it to take you from zero to a hero like a Fairy Godmother. Not to mention that it’s not an instant, off-the-shelf solution.
 
 
-    
-
 {IMAGE}
 
-
-
-    [https://media.giphy.com/media/WsM7IXlbKWTzJQRLFg/giphy.gif](https://media.giphy.com/media/WsM7IXlbKWTzJQRLFg/giphy.gif) 
 
 3. **DevOps Uses Only Open-Source Software**
 
@@ -47,13 +35,9 @@ With that being said, let's disprove another 5 common DevOps myths that you migh
     If you still have this delusion after months of lockdown, you need [a good dose of reality](https://hackernoon.com/github-actions-and-go-areyouok-my-url-ao1d33a1). With the right tools and frameworks to promote communication and collaboration along the DevOps lifecycle, [remote workplace culture](https://hackernoon.com/a-solution-to-your-mental-health-worries-think-big-towards-your-future-and-the-rest-will-follow-flbk33gp) can go toe-to-toe with in-office teams. Besides, remote teams usually have greater visibility into what others are working on, which also supports the main idea of DevOps.
 
 
-    
 
 {IMAGE}
 
-
-
-    [https://media.giphy.com/media/eYilisUwipOEM/giphy.gif](https://media.giphy.com/media/eYilisUwipOEM/giphy.gif)
 
 5. **DevOps Guns for ITIL**
 
@@ -66,9 +50,6 @@ With that being said, let's disprove another 5 common DevOps myths that you migh
 With this, we’ve covered some of the most common myths regarding DevOps. While no DevOps playbook can guide you through the adoption process, you can at least develop a holistic understanding of this methodology to avoid bumps. You just need a bit of a perfect combination of [workflow, tools, and potential individuals](https://hackernoon.com/saas-pricing-best-practices-overcoming-challenges-and-paralysis-as7k33qo) to deliver the desired outcomes.
 
 _As with our previous edition on this topic, please join us today to thank our sponsor - [Bridgecrew](http://bit.ly/3abWyOk). [Bridgecrew](http://bit.ly/3abWyOk) is the security solution for developers, delivering both real-time visibility and preventative governance. Enforce security and compliance policies straight from your CI/CD pipeline._
-
-
-
 
 
 {IMAGE}
