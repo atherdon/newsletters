@@ -11,7 +11,7 @@ Hey There Hackers,
 Thank you for joining our Slogging channel! We hope you’ve had a chance to share your thoughts on some active threads and perhaps even started some of your own. 
 
 
-{IMAGE}
+![https://gitlab.com/mikhailnathanielabordo/creative/-/raw/master/newsletters/memes/2021/Feb/13.02/tenor.gif][https://tenor.com/view/well-done-despicable-me-minions-gif-4733480][Well Done!]
 
 
 Slogging was created to help foster a stronger Hacker Noon contributor community, help us learn more about each other, and help each other grow.
