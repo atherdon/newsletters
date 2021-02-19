@@ -4,7 +4,7 @@
 
 
 
-# **How To Build DevOps Pipelines with Open Source Tools: Newbie Edition**
+# **DevOps Pipelines: The Ultimate Cheatsheet**
 
 Two decades after the dawn of the chiliad, software has taken over all spheres of our lives. There is literally [an app for everything](https://hackernoon.com/how-to-get-better-at-solving-programming-problems-cq2b3339) from mimicking an electric shaver to applications that help you avoid dating your cousin.
 
