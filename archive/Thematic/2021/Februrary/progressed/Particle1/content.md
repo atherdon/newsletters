@@ -1,5 +1,5 @@
 
-# Why Light Bulb Is Not Enough For IoT Revolution
+# IoT: Beyond Light Bulbs and Alexa
 
 Welcome to the [Internet of Things](https://hackernoon.com/everything-you-need-to-know-about-the-internet-of-things-ce815339c9f9) world. Another [industrial revolution](https://hackernoon.com/the-growth-of-internet-of-things-effective-technology-opportunities-677f322m) that will surely overshadow all wonders of ages in the coming years. The whole world will get to hear about IoT devices [transforming](https://hackernoon.com/iot-as-a-multi-faceted-game-changer-in-2021-and-beyond-aot3woo) the way we live, drive, and farm animals and crops. However, unlike previous pivotal inventions, like the steam engines, industries won’t have to overhaul time-proven manufacturing systems and products. On the contrary, The [Internet Of Things](https://hackernoon.com/benefits-of-using-iot-and-ai-together-o9263tz0) can be [seamlessly integrated](https://hackernoon.com/how-iot-data-can-help-accelerate-digital-transformation-1y3i3u1s) into already existing processes, thus giving a new cover of data-driven paint.
 
