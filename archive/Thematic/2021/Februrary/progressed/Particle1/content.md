@@ -17,4 +17,8 @@ Among other things, we have to [invent something better](https://hackernoon.com/
 
 Most of the issues mentioned above will be fixed in a couple of years, although we do miss [one puzzle piece](https://hackernoon.com/eco-big-data-applications-in-the-big-city-cleaning-the-metropolis-with-iot-and-ml-si4o3uh8), which is a comprehensive framework and viable business model on how to implement and monetize IoT.
 
+*To work toward IoT success for your company, or you personally; our sponsor for today’s newsletter, [Particle](https://bit.ly/3aAy2Ff), offers a [Free 1-day Master Class in IoT!](https://spectra.particle.io/?utm_medium=display&utm_source=sponsored_display&utm_campaign=hackernoon_q12021)*
+
+*[Register today to join them on 17 March 2021](https://spectra.particle.io/?utm_medium=display&utm_source=sponsored_display&utm_campaign=hackernoon_q12021). Particle offers a whole range of solutions in IoT hardware, platform and offer professional services in both.*
+
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Feb/23.02/image3.gif][https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif][visit hackernoon.com]
