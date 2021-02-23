@@ -1,5 +1,5 @@
 
-# Why Light Bulb Is Not Enough For IoT Revolution
+# IoT: Beyond Light Bulbs and Alexa
 
 Welcome to the [Internet of Things](https://hackernoon.com/everything-you-need-to-know-about-the-internet-of-things-ce815339c9f9) world. Another [industrial revolution](https://hackernoon.com/the-growth-of-internet-of-things-effective-technology-opportunities-677f322m) that will surely overshadow all wonders of ages in the coming years. The whole world will get to hear about IoT devices [transforming](https://hackernoon.com/iot-as-a-multi-faceted-game-changer-in-2021-and-beyond-aot3woo) the way we live, drive, and farm animals and crops. However, unlike previous pivotal inventions, like the steam engines, industries won’t have to overhaul time-proven manufacturing systems and products. On the contrary, The [Internet Of Things](https://hackernoon.com/benefits-of-using-iot-and-ai-together-o9263tz0) can be [seamlessly integrated](https://hackernoon.com/how-iot-data-can-help-accelerate-digital-transformation-1y3i3u1s) into already existing processes, thus giving a new cover of data-driven paint.
 
@@ -16,5 +16,9 @@ Another [choke point](https://hackernoon.com/iot-product-management-4-critical-s
 Among other things, we have to [invent something better](https://hackernoon.com/how-the-iot-landscape-is-changing-with-voice-enabled-technology-sm1j3udb) than smartphones with pathetic battery life. It would help to make a leap if power could be distributed wirelessly to [IoT-powered devices](https://hackernoon.com/mobile-apps-as-iot-core-exploring-the-connection-9fcdc2eefcbe) from a distance, or if [power sources](https://hackernoon.com/lessons-learned-from-evaluating-iota-on-internet-of-things-devices-a44575e606de) could last at least a year. In any case, the IoT is here to stay.
 
 Most of the issues mentioned above will be fixed in a couple of years, although we do miss [one puzzle piece](https://hackernoon.com/eco-big-data-applications-in-the-big-city-cleaning-the-metropolis-with-iot-and-ml-si4o3uh8), which is a comprehensive framework and viable business model on how to implement and monetize IoT.
+
+*To work toward IoT success for your company, or you personally; our sponsor for today’s newsletter, [Particle](https://bit.ly/3aAy2Ff), offers a [Free 1-day Master Class in IoT!](https://spectra.particle.io/?utm_medium=display&utm_source=sponsored_display&utm_campaign=hackernoon_q12021)*
+
+*[Register today to join them on 17 March 2021](https://spectra.particle.io/?utm_medium=display&utm_source=sponsored_display&utm_campaign=hackernoon_q12021). Particle offers a whole range of solutions in IoT hardware, platform and offer professional services in both.*
 
 ![https://gitlab.com/hackernoon/creative/-/raw/master/newsletters/memes/2021/Feb/23.02/image3.gif][https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif][visit hackernoon.com]
