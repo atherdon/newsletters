@@ -2,13 +2,15 @@
 module.exports = {
     title: 'My Site',
     tagline: 'The tagline of my site',
+    // https://docusaurus-newsletter.netlify.app/  preview deploy
+    // https://your-docusaurus-test-site.com  development
     url: 'https://your-docusaurus-test-site.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     organizationName: 'facebook', // Usually your GitHub org/user name.
-    projectName: 'docusaurus', // Usually your repo name.
+    projectName: 'newsletters', // Usually your repo name.
     themeConfig: {
         navbar: {
             title: 'My Site',
@@ -18,7 +20,7 @@ module.exports = {
             },
             items: [
                 {
-                    to: 'docs/',
+                    to: 'docs/Thematic/thematic',
                     activeBasePath: 'docs',
                     label: 'Docs',
                     position: 'right',
@@ -34,11 +36,7 @@ module.exports = {
                         {
                             label: 'Style Guide',
                             to: 'docs/',
-                        },
-                        {
-                            label: 'Second Doc',
-                            to: 'docs/doc2/',
-                        },
+                        }
                     ],
                 },
                 {
@@ -77,9 +75,10 @@ module.exports = {
             {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    // Please change this to your repo.
-                    editUrl:
-                        'https://github.com/facebook/docusaurus/edit/master/website/',
+                    // Please change this to your repo.       
+                    // todo: if we need editUrl, we can return it              
+                    //editUrl:
+                    //'https://github.com/facebook/docusaurus/edit/master/website/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
