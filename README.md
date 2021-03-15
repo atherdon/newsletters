@@ -2,6 +2,10 @@
 
 # newsletters
 
+docu2 preview: https://docusaurus-newsletter.netlify.app/
+
+---
+
 layout https://thegrind.news/
 
 https://www.techrepublic.com/newsletters/
