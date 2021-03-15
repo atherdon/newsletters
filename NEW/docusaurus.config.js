@@ -2,9 +2,7 @@
 module.exports = {
     title: 'My Site',
     tagline: 'The tagline of my site',
-    // https://docusaurus-newsletter.netlify.app/  preview deploy
-    // https://your-docusaurus-test-site.com  development
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://docusaurus-newsletter.netlify.app/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
