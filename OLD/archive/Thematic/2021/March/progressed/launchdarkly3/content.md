@@ -1,7 +1,7 @@
 
 # How DevOps Brings Out The Best In Developers
 
-![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/15.03/image1.gif][https://giphy.com/gifs/recordingacademy-grammys-2020-f6m95SB5KnjCfhjusj][visit hackernoon.com]
+![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/18.03/image1.gif][https://giphy.com/gifs/recordingacademy-grammys-2020-f6m95SB5KnjCfhjusj][visit hackernoon.com]
 
 *Come to the Bright Side. We have a collaborative environment.*
 
@@ -9,11 +9,11 @@
 
 But, [rather than being a nemesis to the traditional approach](https://hackernoon.com/the-difference-between-ci-and-cd-in-devops-bc2z3uae), the DevOps brings the entire application [development life cycle](https://hackernoon.com/why-devops-is-important-during-the-covid-19-pandemic-6u1i3tul) to a whole new level and fosters the [long-needed skills in developers](https://hackernoon.com/7-devops-myths-busted-02p3t1c).
 
-![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/15.03/image2.gif][https://giphy.com/gifs/thegraduation-talent-talented-gifted-W08YzvivoZXZZbChLo][visit hackernoon.com]
+![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/18.03/image2.gif][https://giphy.com/gifs/thegraduation-talent-talented-gifted-W08YzvivoZXZZbChLo][visit hackernoon.com]
 
 ## Educating Developers With DevOps
 
-![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/15.03/image3.gif][https://giphy.com/gifs/themick-kaitlin-olson-the-mick-3ogsjHPK2mjgUUmdag][visit hackernoon.com]
+![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/18.03/image3.gif][https://giphy.com/gifs/themick-kaitlin-olson-the-mick-3ogsjHPK2mjgUUmdag][visit hackernoon.com]
 
 ### DevOps helps developers and programmers to think automation
 
@@ -21,7 +21,7 @@ Before DevOps hit the spotlight, developers had to [commit the code](https://hac
 
 Today, developers can [get a broader view and go beyond everything](https://hackernoon.com/measuring-devops-metrics-a-how-to-guide-ot113ztl) that goes with clicking “Commit.” This also helps tech specialists to [get away from old-school ways](https://hackernoon.com/what-is-devops-and-how-does-it-influence-the-digital-transformation-of-companies-ik2e3wib) of doing everything manually, even if they are not particularly into [automated testing](https://hackernoon.com/adopting-devops-practises-to-bring-certainty-to-these-uncertain-times-i73h3wlp).
 
-![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/15.03/image4.gif][https://giphy.com/gifs/animation-cartoon-scared-4TtTVTmBoXp8txRU0C][visit hackernoon.com]
+![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/18.03/image4.gif][https://giphy.com/gifs/animation-cartoon-scared-4TtTVTmBoXp8txRU0C][visit hackernoon.com]
 
 ### A source of new skills
 
@@ -29,13 +29,13 @@ Back in 2014, the [DevOps model](https://hackernoon.com/the-importance-of-devops
 
 The common picture associated with [DevOps in those times](https://hackernoon.com/how-to-cultivate-a-collaborative-devops-culture-ds1x334q) was an exhausted techie [running around](https://hackernoon.com/containers-vs-serverless-from-a-devops-standpoint-d8232bd0f39b) because he had to dabble in QA / testing, systems administration, database management, and whatever else.
 
-![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/15.03/image5.gif][https://giphy.com/gifs/justin-g-run-away-fast-l0NwF1dnk7GRz3pK0][visit hackernoon.com]
+![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/18.03/image5.gif][https://giphy.com/gifs/justin-g-run-away-fast-l0NwF1dnk7GRz3pK0][visit hackernoon.com]
 
 In reality, the [DevOps model just expands the skill sets](https://hackernoon.com/top-15-basic-devops-interview-questions-2021-edition-d73u3451) that developers had to possess to succeed in their careers. 
 
 Today, [even in companies that haven't leveraged DevOps](https://hackernoon.com/closer-than-you-think-bridging-the-devops-security-gap-st8d33fq), developers are [more accountable](https://hackernoon.com/devops-automation-tools-for-continuous-improvement-xo3w3y8v) than they were a decade ago for code (which is a bummer for unmotivated employees).
 
-![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/15.03/image6.gif][https://giphy.com/gifs/field-of-dreams-if-you-build-it-kevin-costner-gZuxOq7zSL5DO][visit hackernoon.com]
+![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/18.03/image6.gif][https://giphy.com/gifs/field-of-dreams-if-you-build-it-kevin-costner-gZuxOq7zSL5DO][visit hackernoon.com]
 
 ### You build it - you run it
 
@@ -45,13 +45,13 @@ Within the [traditional approach](https://hackernoon.com/devops-fundamentals-you
 
 The [reality is that testing](https://hackernoon.com/devops-principles-culture-vs-tooling-vvac367z) on an [agile DevOps project](https://hackernoon.com/6-virtual-devops-conferences-to-attend-in-2021-qb133357) is performed by all the team members, including devs, testers, and ops people.
 
-![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/15.03/image7.gif][https://giphy.com/gifs/cbc-funny-comedy-xUPGcjQ6dJEjH5uwMw][visit hackernoon.com]
+![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/18.03/image7.gif][https://giphy.com/gifs/cbc-funny-comedy-xUPGcjQ6dJEjH5uwMw][visit hackernoon.com]
 
 ### Collaboration and transparency
 
 In the [traditional developer and operations environment](https://hackernoon.com/the-top-10-books-on-devops-you-need-to-read-fuos312x), a developer writes a piece of code, assigns it to the island of QE, and then dumps it in the operations department. [There is little to no handshake in this lifecycle](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1). And if you mess up something, you can always say that you didn't receive the [ABC instruction](https://hackernoon.com/project-as-code-the-catalyst-devops-needs-atu732wt) that the developers sent you.
 
-![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/15.03/image8.gif][https://giphy.com/gifs/AsmodeeGames-mDAGMirmEQNCqplL3v][visit hackernoon.com]
+![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/18.03/image8.gif][https://giphy.com/gifs/AsmodeeGames-mDAGMirmEQNCqplL3v][visit hackernoon.com]
 
 So it’s like those good old school days when you’re trying to dominate everyone else’s efforts, [in pursuit of your A+](https://hackernoon.com/my-journey-to-achieving-devops-bliss-without-useless-aws-certifications-a7cbf7c539d1).
 
