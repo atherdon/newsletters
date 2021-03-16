@@ -1,4 +1,6 @@
 
+~[ADVERTISING][BITLY][https://creative-images-upld.s3.amazonaws.com/creative/newsletters/logos/thematic/2021/02-February/20.02/lunchdrkly.jpg]
+
 # How DevOps Brings Out The Best In Developers
 
 ![https://creative-images-upld.s3.amazonaws.com/creative/newsletters/memes/2021/03-March/18.03/image1.gif][https://giphy.com/gifs/recordingacademy-grammys-2020-f6m95SB5KnjCfhjusj][visit hackernoon.com]
@@ -60,3 +62,5 @@ On the contrary, the [DevOps approach](https://hackernoon.com/devops-shouldnt-be
 ## The Bottom Line
 
 Love it or hate it, the [DevOps](https://hackernoon.com/self-service-the-key-to-unlock-devops-51d50fd39e1d) approach has caused irrevocable changes in the tech world. And instead of [going against the stream](https://hackernoon.com/can-we-apply-devops-principles-to-project-management-k927j31mw), it’s better to embrace complementary DevOps practices, thus [improving](https://hackernoon.com/what-does-peeling-an-egg-have-to-do-with-devops-e55108a4e83c) operational productivity, quality, and revenues as well.
+
+~[ADVERTISING][BITLY][https://creative-images-upld.s3.amazonaws.com/creative/newsletters/logos/thematic/2021/02-February/20.02/lunchdrkly.jpg]
