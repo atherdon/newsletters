@@ -1,7 +1,7 @@
 ---
 id: noonifications-february
 title: Noonifications 2020 February
-sidebar_label: Noonifications 2020 February
+sidebar_label: February
 ---
 
 -   <a href="/html/Noonifications/2020/February/The%20Noon%20Notification%20-%20Ably%20-%20Feb%2020.html" target="_parent">The Noon Notification - Ably - Feb 20</a>

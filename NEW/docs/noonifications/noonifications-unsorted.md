@@ -1,7 +1,7 @@
 ---
 id: noonifications-unsorted
 title: Noonifications 2020 Unsorted
-sidebar_label: Noonifications 2020 Unsorted
+sidebar_label: Unsorted
 ---
 
 -   <a href="/html/Noonifications/2020/unsorted/The%20Noon%20Notification%20-%2001.html" target="_parent">The Noon Notification - 01</a>
