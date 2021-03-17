@@ -24,6 +24,8 @@ module.exports = {
                     "noonifications/noonifications-unsorted"
                 ]
             },
-        ]
+        ],
+        Podcasts: ["podcasts/podcasts"],
+        Techbrief: ["techbrief/techbrief"]
     },
 };
