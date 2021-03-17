@@ -2,19 +2,19 @@
 
 # newsletters
 
-docu2 preview: https://docusaurus-newsletter.netlify.app/
+docusaurus2 preview: https://docusaurus-newsletter.netlify.app/
 
 ---
 
-layout https://thegrind.news/
+layout 
+- https://thegrind.news/
 
-https://www.techrepublic.com/newsletters/
+- https://www.techrepublic.com/newsletters/
 
-https://pjrvs.com/articles
+- https://pjrvs.com/articles
 
-https://upscri.be/hackernoon
+- https://upscri.be/hackernoon
 
+- https://newslettercollector.com/inbox/
 
-https://newslettercollector.com/inbox/
-
-https://www.ben-evans.com/newsletter/
+- https://www.ben-evans.com/newsletter/
