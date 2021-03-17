@@ -1,6 +1,6 @@
 # newsletters
 
-
+MIGRATING STATIC CONTENT INTO NEW REPOSITORY: https://gitlab.com/hackernoon/newsletters-archive
 
 
 Noon Dev Weekly 
