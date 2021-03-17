@@ -1,7 +1,7 @@
 ---
 id: noonifications-january
 title: Noonifications 2020 January
-sidebar_label: Noonifications 2020 January
+sidebar_label: January
 ---
 
 -   <a href="/html/Noonifications/2020/January/Ably%20-%20The%20Manual%20Noon%20Notification%20-%20Monday%2020%20Jan.html" target="_parent">Ably - The Manual Noon Notification - Monday 20 Jan</a>

@@ -1,7 +1,7 @@
 ---
 id: noonifications-march
 title: Noonifications 2020 March
-sidebar_label: Noonifications 2020 March
+sidebar_label: March
 ---
 
 -   <a href="/html/Noonifications/2020/March/The%20Noon%20Notification%20-%20Covid%2019%20-%20Mar%2025.html" target="_parent">The Noon Notification - Covid 19 - Mar 25</a>

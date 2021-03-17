@@ -1,7 +1,7 @@
 ---
 id: thematic-january
 title: Thematic 2020
-sidebar_label: Thematic 2020 January
+sidebar_label: January
 ---
 
 -   <a href="/html/Thematic/2020/January/Comet.Ml%20-%20Jan%2013th.html" target="_parent">Comet.Ml - Jan 13th</a>
