@@ -28,7 +28,6 @@ sidebar_label: April
 - <a href="/html/Noonifications/2020/April/Tech Domains Apr 19.html" target="_parent">Tech Domains - Apr 19</a>
 - <a href="/html/Noonifications/2020/April/Tech Domains Apr 20.html" target="_parent">Tech Domains - Apr 20</a>
 - <a href="/html/Noonifications/2020/April/Tech Domains Apr 21.html" target="_parent">Tech Domains - Apr 21</a>
-
 - <a href="/html/Noonifications/2020/April/Udacity Apr 22.html" target="_parent">Udacity - Apr 22</a>
 - <a href="/html/Noonifications/2020/April/Udacity Apr 23.html" target="_parent">Udacity - Apr 23</a>
 - <a href="/html/Noonifications/2020/April/Udacity Apr 24.html" target="_parent">Udacity - Apr 24</a>
