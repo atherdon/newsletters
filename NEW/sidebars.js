@@ -21,6 +21,11 @@ module.exports = {
                     "noonifications/noonifications-february",
                     "noonifications/noonifications-march",
                     "noonifications/noonifications-april",
+                    "noonifications/noonifications-may",
+                    "noonifications/noonifications-juny",
+                    "noonifications/noonifications-july",
+                    "noonifications/noonifications-august",
+                    "noonifications/noonifications-september",
                     "noonifications/noonifications-unsorted"
                 ]
             },
