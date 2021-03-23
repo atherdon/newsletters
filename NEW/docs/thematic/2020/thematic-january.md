@@ -1,6 +1,6 @@
 ---
 id: thematic-january
-title: Thematic 2020
+title: Thematic 2020 January
 sidebar_label: January
 ---
 
