@@ -4,6 +4,9 @@
 
 docusaurus2 preview: https://docusaurus-newsletter.netlify.app/
 
+
+easy preiew: https://newslettercollector.com/search/?q=hackernoon
+
 ---
 
 layout 
