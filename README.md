@@ -18,3 +18,9 @@ layout
 - https://newslettercollector.com/inbox/
 
 - https://www.ben-evans.com/newsletter/
+
+
+Explore later:
+- https://css-tricks.com/newsletter/
+- https://www.notion.so/Sponsorship-Possibilities-cb5b33a3f6f64c239220547fe7965d78
+- - 
