@@ -8,12 +8,15 @@ import styles from './styles.module.css';
 
 const features = [
     {
-        title: 'Easy to Use',
+        title: 'GET PUBLISHED ON HACKER NOON',
         imageUrl: 'img/undraw_docusaurus_mountain.svg',
         description: (
             <>
-                Docusaurus was designed from the ground up to be easily installed and
-                used to get your website up and running quickly.
+                Join a global network of over 12,000 devs, builders, founders, makers, VCs, hodlrs, and hackers. Start submitting your tech stories
+
+and tutorials to get published FREE on
+
+Hacker Noon — no pop-ups, no paywalls.
             </>
         ),
     },
