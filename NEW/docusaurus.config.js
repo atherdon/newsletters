@@ -1,13 +1,13 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-    title: 'My Site',
+    title: 'Thematics Newsletter Archive by Hackernoon',
     tagline: 'The tagline of my site',
     url: 'https://docusaurus-newsletter.netlify.app/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'facebook', // Usually your GitHub org/user name.
+    organizationName: 'Hackernoon', // Usually your GitHub org/user name.
     projectName: 'newsletters', // Usually your repo name.
     themeConfig: {
         navbar: {
@@ -29,10 +29,26 @@ module.exports = {
             style: 'dark',
             links: [
                 {
-                    title: 'Docs',
+                    title: 'Archive',
                     items: [
                         {
-                            label: 'Style Guide',
+                            label: 'Thematics',
+                            to: 'docs/',
+                        },
+                        {
+                            label: 'Noonification',
+                            to: 'docs/',
+                        },
+                        {
+                            label: 'TechBrief',
+                            to: 'docs/',
+                        },
+                        {
+                            label: 'Podcasts',
+                            to: 'docs/',
+                        },
+                        {
+                            label: 'Gaming',
                             to: 'docs/',
                         }
                     ],
@@ -41,16 +57,20 @@ module.exports = {
                     title: 'Community',
                     items: [
                         {
-                            label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                            label: 'Hackernoon',
+                            href: 'http://hackernoon.com/',
+                        },
+                        {
+                            label: 'Slogging',
+                            href: 'https://www.slogging.com/',
                         },
                         {
                             label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
+                            href: 'xxx',
                         },
                         {
                             label: 'Twitter',
-                            href: 'https://twitter.com/docusaurus',
+                            href: 'https://twitter.com/hackernoon',
                         },
                     ],
                 },
@@ -59,12 +79,12 @@ module.exports = {
                     items: [
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/facebook/docusaurus',
+                            href: 'https://github.com/hackernoon',
                         },
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Hackernoon. Built with Docusaurus.`,
         },
     },
     presets: [
