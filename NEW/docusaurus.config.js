@@ -81,6 +81,15 @@ module.exports = {
                             label: 'GitHub',
                             href: 'https://github.com/hackernoon',
                         },
+                        {
+                            label: 'Learn how to Advertise with Hacker Noon',
+                            href: 'http://sponsor.hackernoon.com/',
+                        },
+                        {
+                            label: 'Start writing with us >',
+                            href: 'https://hackernoon.com/signup'
+
+                        }
                     ],
                 },
             ],
