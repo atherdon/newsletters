@@ -22,6 +22,7 @@ layout
 
 - https://www.ben-evans.com/newsletter/
 
+- https://www.wsj.com/newsletters?sub=55
 
 Explore later:
 - https://css-tricks.com/newsletter/
