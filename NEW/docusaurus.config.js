@@ -72,6 +72,26 @@ module.exports = {
                             label: 'Twitter',
                             href: 'https://twitter.com/hackernoon',
                         },
+                         {
+                            label: 'Instagram',
+                            href: 'https://www.instagram.com/hackernoon/',
+                        },
+                        {
+                            label: 'LinkedIn',
+                            href: 'https://www.linkedin.com/company/hackernoon/',
+                        },
+                        {
+                            label: 'Facebook',
+                            href: 'https://www.facebook.com/hackernoon/',
+                        },
+                        {
+                            label: 'Pinterest',
+                            href: 'https://www.pinterest.ca/hackernoon/',
+                        },
+                        {
+                            label: 'YouTube',
+                            href: 'https://youtube.com/hackernoon',
+                        }
                     ],
                 },
                 {
