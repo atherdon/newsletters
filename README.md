@@ -24,6 +24,9 @@ layout
 
 - https://www.wsj.com/newsletters?sub=55
 
+everybody beating for this term: https://www.google.com/search?q=tech+newsletter&rlz=1C1GCEA_enUA901UA901&oq=tech+newsletter&aqs=chrome..69i57j69i64l2.2918j0j4&sourceid=chrome&ie=UTF-8
+
+
 Explore later:
 - https://css-tricks.com/newsletter/
 - https://www.notion.so/Sponsorship-Possibilities-cb5b33a3f6f64c239220547fe7965d78
