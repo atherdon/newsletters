@@ -18,22 +18,30 @@ const features = [
         ),
     },
     {
-        title: 'Focus on What Matters',
+        title: 'The Greenest Place for Hackers to Hang Out & Get Published',
         imageUrl: 'img/undraw_docusaurus_tree.svg',
         description: (
             <>
-                Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+                Hacker Noon is where hackers start their afternoons. We’re talking diehards; lurkers; script kiddies; hats all the way through white, grey, green, blue, red and black; plus a few plain old Tim Ferriss fanboy #LifeHackers - the full spectrum, you’ll find ’em here. Hacker Noon is a close-knit community for cat people and single dads who code. A safe place for power women in tech and misunderstood millennials. For gross teenagers and curious retirees. For hodlrs, venture capitalists and anarchists. For entrepreneurs and engineers. For philosophers, product managers, and futurists. 
+
+​
+
+In short, Hacker Noon has space for everybody.
+
+There is only one rule of engagement: We treat our internet friends with respect. 
             </>
         ),
     },
     {
-        title: 'Powered by React',
+        title: "Who's Behind Hacker Noon?",
         imageUrl: 'img/undraw_docusaurus_react.svg',
         description: (
             <>
-                Extend or customize your website layout by reusing React. Docusaurus can
-                be extended while reusing the same header and footer.
+                Hacker Noon is a small, distributed team of 14-ish people* passionate about making the internet a better place by publishing free high quality tech stories - without paywalls, pop-up ads, or a sense of entitlement.
+
+​
+
+*Hacker Noon is also a huge, global team of over 15,000+ writers, founders, makers, thinkers and technologists, plus over 3,000,000+ monthly readers, but unfortunately we didn’t have space to feature them all here.
             </>
         ),
     },
