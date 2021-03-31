@@ -6,21 +6,21 @@ module.exports = {
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'img/favicon.ico',
+    favicon: 'https://hackernoon.com/favicon.ico',
     organizationName: 'Hackernoon', // Usually your GitHub org/user name.
     projectName: 'newsletters', // Usually your repo name.
     themeConfig: {
         navbar: {
-            title: 'My Site',
+            title: 'Home',
             logo: {
                 alt: 'My Site Logo',
-                src: 'img/logo.svg',
+                src: 'https://hackernoon.com/favicon.ico',
             },
             items: [
                 {
                     to: 'docs/index',
                     activeBasePath: 'docs',
-                    label: 'Docs',
+                    label: 'Newsletters',
                     position: 'right',
                 }
             ],
@@ -72,7 +72,7 @@ module.exports = {
                             label: 'Twitter',
                             href: 'https://twitter.com/hackernoon',
                         },
-                         {
+                        {
                             label: 'Instagram',
                             href: 'https://www.instagram.com/hackernoon/',
                         },
