@@ -7,8 +7,8 @@ module.exports = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'https://hackernoon.com/favicon.ico',
-    organizationName: 'Hackernoon', // Usually your GitHub org/user name.
-    projectName: 'newsletters', // Usually your repo name.
+    organizationName: 'Hackernoon',
+    projectName: 'newsletters',
     themeConfig: {
         navbar: {
             title: 'Home',
@@ -33,23 +33,23 @@ module.exports = {
                     items: [
                         {
                             label: 'Thematics',
-                            to: 'docs/',
+                            to: 'docs/thematic/2019/thematic-january',
                         },
                         {
                             label: 'Noonification',
-                            to: 'docs/',
+                            to: 'docs/noonifications/noonifications-january',
                         },
                         {
                             label: 'TechBrief',
-                            to: 'docs/',
+                            to: 'docs/techbrief/techbrief',
                         },
                         {
                             label: 'Podcasts',
-                            to: 'docs/',
+                            to: 'docs/podcasts/podcasts',
                         },
                         {
                             label: 'Gaming',
-                            to: 'docs/',
+                            to: 'docs/index',
                         }
                     ],
                 },
