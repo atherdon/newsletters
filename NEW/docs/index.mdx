@@ -8,13 +8,27 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs
-    defaultValue="apple"
+    defaultValue="thematics"
     values={[
-        {label: 'Apple', value: 'apple'},
-        {label: 'Orange', value: 'orange'},
-        {label: 'Banana', value: 'banana'},
+        {label: 'Thematics', value: 'thematics'},
+        {label: 'Noonifications', value: 'noonifications'},
+        {label: 'Podcasts', value: 'podcasts'},
+        {label: 'Techbrief', value: 'techbrief'},
     ]}>
-    <TabItem value="apple">This is an apple 🍎</TabItem>
-    <TabItem value="orange">This is an orange 🍊</TabItem>
-    <TabItem value="banana">This is a banana 🍌</TabItem>
+    <TabItem value="thematics">
+       <a href="thematic/2019/thematic-january">2019</a>
+       <br/>
+       <a href="thematic/2020/thematic-january">2020</a>
+       <br/>
+       <a href="thematic/2021/thematic-january">2021</a>
+    </TabItem>
+    <TabItem value="noonifications">
+        <a href="noonifications/noonifications-january">2020</a>
+    </TabItem>
+    <TabItem value="podcasts">
+        <a href="podcasts/podcasts">Podcasts</a>
+    </TabItem>
+    <TabItem value="techbrief">
+        <a href="techbrief/techbrief">Techbrief</a>
+    </TabItem>
 </Tabs>
