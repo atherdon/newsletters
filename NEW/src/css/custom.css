@@ -28,9 +28,22 @@
 	}
 }
 
+@media screen and (max-width: 966px) {
+    .footer-gif {
+        display: none;
+    }
+}
+
 .docusaurus-highlight-code-line {
 	background-color: rgb(72, 77, 91);
 	display: block;
 	margin: 0 calc(-1 * var(--ifm-pre-padding));
 	padding: 0 var(--ifm-pre-padding);
+}
+
+.footer-gif {
+    height: 150px; 
+    margin-top: -30px;
+    margin-bottom: -30px;
+    text-align: center;
 }

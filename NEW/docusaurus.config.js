@@ -91,6 +91,16 @@ module.exports = {
                         {
                             label: 'YouTube',
                             href: 'https://youtube.com/hackernoon',
+                        },
+                        {
+                            html: `
+                                <p class="footer-gif">
+                                    <img 
+                                        src="https://media.giphy.com/media/iG9qDbeYfrCYFqQ2OV/giphy.gif"
+                                        style="width: 300px;"
+                                    />
+                                </p>
+                            `
                         }
                     ],
                 },
@@ -108,10 +118,9 @@ module.exports = {
                         {
                             label: 'Start writing with us >',
                             href: 'https://hackernoon.com/signup'
-
                         }
                     ],
-                },
+                }
             ],
             copyright: `Copyright © ${new Date().getFullYear()} Hackernoon. Built with Docusaurus.`,
         },

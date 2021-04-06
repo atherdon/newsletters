@@ -9,20 +9,20 @@ import styles from './styles.module.css';
 const features = [
     {
         title: 'GET PUBLISHED ON HACKER NOON',
-        imageUrl: 'img/undraw_docusaurus_mountain.svg',
+        imageUrl: 'https://media.giphy.com/media/iG9qDbeYfrCYFqQ2OV/giphy.gif',
         description: (
             <>
                 Join a global network of over 12,000 devs, builders, founders, makers, VCs, hodlrs, and hackers. Start submitting your tech stories
 
-and tutorials to get published FREE on
+                and tutorials to get published FREE on
 
-Hacker Noon — no pop-ups, no paywalls.
+                    Hacker Noon — no pop-ups, no paywalls.
             </>
         ),
     },
     {
         title: 'The Greenest Place for Hackers to Hang Out & Get Published',
-        imageUrl: 'img/undraw_docusaurus_tree.svg',
+        imageUrl: 'https://media.giphy.com/media/IdyRdyHKivJcZaJcNI/giphy.gif',
         description: (
             <>
                 Hacker Noon is where hackers start their afternoons. We’re talking diehards; lurkers; script kiddies; hats all the way through white, grey, green, blue, red and black; plus a few plain old Tim Ferriss fanboy #LifeHackers - the full spectrum, you’ll find ’em here. Hacker Noon is a close-knit community for cat people and single dads who code. A safe place for power women in tech and misunderstood millennials. For gross teenagers and curious retirees. For hodlrs, venture capitalists and anarchists. For entrepreneurs and engineers. For philosophers, product managers, and futurists. 
@@ -37,14 +37,14 @@ There is only one rule of engagement: We treat our internet friends with respect
     },
     {
         title: "Who's Behind Hacker Noon?",
-        imageUrl: 'img/undraw_docusaurus_react.svg',
+        imageUrl: 'https://media.giphy.com/media/1NXGVPJ9ZZ5mYQHG26/giphy.gif',
         description: (
             <>
                 Hacker Noon is a small, distributed team of 14-ish people* passionate about making the internet a better place by publishing free high quality tech stories - without paywalls, pop-up ads, or a sense of entitlement.
 
-​
+                
 
-*Hacker Noon is also a huge, global team of over 15,000+ writers, founders, makers, thinkers and technologists, plus over 3,000,000+ monthly readers, but unfortunately we didn’t have space to feature them all here.
+                *Hacker Noon is also a huge, global team of over 15,000+ writers, founders, makers, thinkers and technologists, plus over 3,000,000+ monthly readers, but unfortunately we didn’t have space to feature them all here.
             </>
         ),
     },
