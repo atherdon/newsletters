@@ -1,36 +1,4 @@
-<!-- Output copied to clipboard! -->
 
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.575 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Thu Apr 08 2021 08:30:32 GMT-0700 (PDT)
-* Source doc: Couchbase #1
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 3.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
 
 
@@ -42,13 +10,10 @@ Today, we’re here to find out how a [NoSQL database](https://hackernoon.com/no
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image1.gif "image_tooltip")
 
 
-[https://media.giphy.com/media/Xd1EhywNhOjq5EPn5t/giphy.gif](https://media.giphy.com/media/Xd1EhywNhOjq5EPn5t/giphy.gif) 
+
 
 If you’re just starting [your business journey](https://hackernoon.com/startups-are-thriving-in-la-its-an-entrepreneurial-hot-spot-jp5q355v), your involuntary impulse must be a SQL solution. However, unless you can afford to provision the infrastructure for your relational database, it’s recommended to choose a NoSQL database for your first flight.
 
@@ -60,13 +25,10 @@ Secondly, as your [startup](https://hackernoon.com/tagged/startups) makes headwa
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/image2.gif "image_tooltip")
 
 
-Link: [https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif](https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif) 
 
 Among other things, brand new businesses flock to NoSQL thanks to its simplicity in implementation. The ease-of-use allows for someone with a plain understanding to muddle through a NoSQL instead of grappling with mapping your data structures. Also, a shallow knowledge curve can potentially obviate the need for a specific Database Administrator early on. Ever-budget-constrained startups will surely [appreciate](https://hackernoon.com/couchbase-mobile-the-power-of-nosql-on-the-edge-dkdhx30jl) this paycheck-saving bonus. 
 
@@ -77,10 +39,10 @@ _Startups make a dart for steady growth and new investments every day. They are 
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
+
 ![alt_text](images/image3.gif "image_tooltip")
 
 
-Link: [https://media.giphy.com/media/dIBLtolI6axTGIGopo/giphy.gif](https://media.giphy.com/media/dIBLtolI6axTGIGopo/giphy.gif) 
 
 On the same note, join us today to thank our sponsor, Couchbase. Couchbase is an award-winning distributed NoSQL cloud database. It delivers unmatched versatility, performance, scalability, and financial value across cloud, on-premises, hybrid, distributed cloud, and edge computing deployments.
 
