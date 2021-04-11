@@ -52,7 +52,20 @@ module.exports = {
                 ]
             },
         ],
-        Podcasts: ["podcasts/podcasts"],
+        Podcasts: [
+            {
+                2018: ["podcasts/2018/podcasts-2018"]
+            },
+            {
+                2019: ["podcasts/2019/podcasts-2019"]
+            },
+            {
+                2020: ["podcasts/2020/podcasts-2020"]
+            },
+            {
+                2021: ["podcasts/2021/podcasts-2021"]
+            },
+        ],
         Techbrief: ["techbrief/techbrief"]
     },
 };
