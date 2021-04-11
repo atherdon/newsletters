@@ -1,4 +1,5 @@
 /* stylelint-disable docusaurus/copyright-header */
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -6,26 +7,30 @@
  */
 
 /* You can override the default Infima variables here. */
+
 :root {
-	--ifm-color-primary: #25c2a0;
-	--ifm-color-primary-dark: rgb(33, 175, 144);
-	--ifm-color-primary-darker: rgb(31, 165, 136);
-	--ifm-color-primary-darkest: rgb(26, 136, 112);
-	--ifm-color-primary-light: rgb(70, 203, 174);
-	--ifm-color-primary-lighter: rgb(102, 212, 189);
-	--ifm-color-primary-lightest: rgb(146, 224, 208);
-	--ifm-code-font-size: 95%;
+    --ifm-color-primary: #25c2a0;
+    --ifm-color-primary-dark: rgb(33, 175, 144);
+    --ifm-color-primary-darker: rgb(31, 165, 136);
+    --ifm-color-primary-darkest: rgb(26, 136, 112);
+    --ifm-color-primary-light: rgb(70, 203, 174);
+    --ifm-color-primary-lighter: rgb(102, 212, 189);
+    --ifm-color-primary-lightest: rgb(146, 224, 208);
+    --ifm-code-font-size: 95%;
+}
+
+.main-wrapper>div {
+    justify-content: flex-end;
 }
 
 @media screen and (min-width: 1400px) {
-	.main-wrapper,
-	.navbar__inner {
-		width: 1400px;
-		margin: 0 auto;
-	}
-	.hero {
-		background-color: rgba(51, 162, 27, 0.83);
-	}
+    .main-wrapper, .navbar__inner {
+        width: 1400px;
+        margin: 0 auto;
+    }
+    .hero {
+        background-color: rgba(51, 162, 27, 0.83);
+    }
 }
 
 @media screen and (max-width: 966px) {
@@ -35,14 +40,14 @@
 }
 
 .docusaurus-highlight-code-line {
-	background-color: rgb(72, 77, 91);
-	display: block;
-	margin: 0 calc(-1 * var(--ifm-pre-padding));
-	padding: 0 var(--ifm-pre-padding);
+    background-color: rgb(72, 77, 91);
+    display: block;
+    margin: 0 calc(-1 * var(--ifm-pre-padding));
+    padding: 0 var(--ifm-pre-padding);
 }
 
 .footer-gif {
-    height: 150px; 
+    height: 150px;
     margin-top: -30px;
     margin-bottom: -30px;
     text-align: center;
