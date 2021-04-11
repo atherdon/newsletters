@@ -1,4 +1,4 @@
-## How StackOverflow Changes The Way We Code And Collaborate
+# How StackOverflow Changes The Way We Code And Collaborate
 
 As a developer, you might have dreamed of a [Google](https://hackernoon.com/search?query=google) created specifically for techies. Just imagine, a digital platform brimming with content for coders, including Q&A and job listings. Every question about programming answered. Each inextricable bug is solved. A larger audience of qualified experts come-at-able. [Sounds dreamlike, right?](https://hackernoon.com/key-takeaways-from-jeff-atwoods-ama-on-hackernoon-78abc7501530) 
 
