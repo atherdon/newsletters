@@ -45,7 +45,7 @@ module.exports = {
                         },
                         {
                             label: 'Podcasts',
-                            to: 'docs/podcasts/podcasts',
+                            to: 'docs/podcasts/2018/september/september-2018',
                         },
                         {
                             label: 'Gaming',
