@@ -1,52 +1,14 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 1.322 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Sun Apr 11 2021 09:58:14 GMT-0700 (PDT)
-* Source doc: Untitled document
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 4.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-```
 
 
 # The #Decentralized-Internet Writing Contest
-```
+
 
 
 Hey, good news. The [HackerNoon & Free TON Partnership proposal](https://forum.freeton.org/t/hackernoon-free-ton-partnership-proposal/9131?ref=hackernoon.com) has achieved [majority vote and passed](https://gov.freeton.org/proposal?proposalAddress=0%3Aa48fcfc0eea08b5fe4d068f30942f4e0f1f7b7903e1d5ef93cf30e798b3cc9ec&ref=hackernoon.com). Free TON ([freeton.org](https://freeton.org/?ref=hackernoon.com)) is a blockchain platform created by the developers of the Telegram Open Network (also abbreviated TON), and they well known for [The Declaration of Decentralization](https://freeton.org/dod?ref=hackernoon.com).
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/image1.jpg "image_tooltip")
@@ -63,18 +25,14 @@ While [Free TON](https://freeton.org/?ref=hackernoon.com) is sponsoring this con
 _less dependency on central entities is essential for the internet to mature into a technology that works for the people using it._
 
 
-```
-
 
 ## How to Enter the Decentralized Internet Writing Contest
-```
+
 
 
 _Entering the contest is easy as 1-2-3_
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image2.gif "image_tooltip")
@@ -84,9 +42,6 @@ _Entering the contest is easy as 1-2-3_
 
 **2.** **[Submit the article on Hacker Noon](https://app.hackernoon.com/new?ref=hackernoon.com) with the[ #decentralized-internet tag](https://hackernoon.com/tagged/decentralized-internet) **(then, enter 7 more tags pertaining to your article for better distribution).
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image3.jpg "image_tooltip")
@@ -122,8 +77,6 @@ At Hacker Noon, everyone’s a winner! … except when we have limited prizes to
 
 **Four winners will be selected at the end of each month.** A monthly prize pool of **$3,500 **(fair market value, paid in TON crystals. Get your wallet[ here](https://freeton.house/en/ton-crystal-wallet-free-ton-wallet-from-broxus/)) will be distributed amongst them in the following manner:
 
-
-
 *   Winner for best story gets **$1,500**
 *   First Runner-up gets **$1,000**
 *   Second Runner-up gets **$500**
@@ -146,8 +99,6 @@ Yes. Even if you won a prize in the first month of the contest, feel free to sub
 
 TON is a protocol proposed and developed by Dr. Nikolai Durov. Want to learn more about Free TON? Check out these resources:
 
-
-
 *   [Free TON Telegram](https://t.me/ton_crystal_news)
 *   [TON Surf: Blockchain communicator](https://ton.surf/main)
 *   [Free TON Forum](https://forum.freeton.org/)
@@ -155,9 +106,6 @@ TON is a protocol proposed and developed by Dr. Nikolai Durov. Want to learn mor
 
 If you need some inspiration, [check out the current submissions](https://hackernoon.com/tagged/decentralized-internet) once they start rolling in. We wish you the best of luck in this contest! 
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image4.gif "image_tooltip")
