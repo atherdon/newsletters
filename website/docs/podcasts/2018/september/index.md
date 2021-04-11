@@ -4,4 +4,4 @@ title: September 2018
 sidebar_label: September
 ---
 
-- <a href="podcasts/september" target="_parent">Welcome to the Hacker Noon Podcast!</a>
+- [Welcome to the Hacker Noon Podcast!](podcasts/september-13)
