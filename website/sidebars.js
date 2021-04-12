@@ -57,10 +57,16 @@ module.exports = {
                 2018: [
                     "podcasts/2018/september/september-2018",
                     "podcasts/2018/october/october-2018",
+                    "podcasts/2018/november/november-2018",
+                    "podcasts/2018/december/december-2018",
                 ]
             },
             {
-                2019: ["podcasts/2019/podcasts-2019"]
+                2019: [
+                    "podcasts/2019/january/january-2019",
+                    "podcasts/2019/february/february-2019",
+                    "podcasts/2019/march/march-2019",
+                ]
             },
             {
                 2020: ["podcasts/2020/podcasts-2020"]

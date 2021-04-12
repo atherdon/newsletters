@@ -4,4 +4,4 @@ title: September 2018
 sidebar_label: September
 ---
 
-- [Welcome to the Hacker Noon Podcast!](podcasts/september-13)
+- [Welcome to the Hacker Noon Podcast!](archive/september-13)
