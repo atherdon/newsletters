@@ -81,6 +81,9 @@ module.exports = {
                     "podcasts/2020/march/march-2020",
                     "podcasts/2020/april/april-2020",
                     "podcasts/2020/may/may-2020",
+                    "podcasts/2020/june/june-2020",
+                    "podcasts/2020/july/july-2020",
+                    //"podcasts/2020/august/august-2020",
                 ]
             },
             {
