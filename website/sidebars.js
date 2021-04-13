@@ -68,10 +68,23 @@ module.exports = {
                     "podcasts/2019/march/march-2019",
                     "podcasts/2019/april/april-2019",
                     "podcasts/2019/may/may-2019",
+                    "podcasts/2019/june/june-2019",
+                    "podcasts/2019/july/july-2019",
+                    "podcasts/2019/august/august-2019",
+                    "podcasts/2019/december/december-2019",
                 ]
             },
             {
-                2020: ["podcasts/2020/podcasts-2020"]
+                2020: [
+                    "podcasts/2020/january/january-2020",
+                    "podcasts/2020/february/february-2020",
+                    "podcasts/2020/march/march-2020",
+                    "podcasts/2020/april/april-2020",
+                    "podcasts/2020/may/may-2020",
+                    "podcasts/2020/june/june-2020",
+                    "podcasts/2020/july/july-2020",
+                    //"podcasts/2020/august/august-2020",
+                ]
             },
             {
                 2021: ["podcasts/2021/podcasts-2021"]
