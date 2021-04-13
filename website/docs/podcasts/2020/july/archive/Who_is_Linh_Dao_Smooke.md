@@ -1,0 +1,17 @@
+---
+id: july-8
+title: ' '
+---
+
+<h2><a href="https://podcast.hackernoon.com/e/who-is-linh-dao-smooke-a-conversation-about-entrepreneurship-leadership-and-the-impact-of-technology-and-education-with-the-hacker-noon-coo/">Who is Linh Dao Smooke? A conversation about Entrepreneurship, Leadership and the Impact of Technology and Education with the Hacker Noon COO</a></h2>
+<h4>July 8, 2020</h4>
+
+<p>
+<a href="https://linhdaosmooke.com/">Linh Dao Smooke</a> discusses Entrepreneurship, running <a href="https://hackernoon.com/">Hacker Noon</a>, and the importance of education with <a href="https://www.linkedin.com/in/lethehien/">Henry Le</a> of <a href="https://www.facebook.com/VietnamTechSociety/?__tn__=kCH-R&eid=ARAHWBaW7-LkiHcnl0qlKsVlVLrRIR-K4pGrVoL-tqsv2MyKU0QVnPdrvlRkAIdA6APgwqkJlXb-zDiN&hc_ref=ARQVVj3TqAbTzYeaS4igHD0ifuQzr3twlyCHx9dotxQU7M69TcL4UvPS3B94g1uYCo8&__xts__%5B0%5D=68.ARAfpS2lWdNb6lRTZA4Tfd0YAAkVlV-WDk7vLiWQyPVFQCVBOE1Hp5XjtMgsbPoM7gAl7h9qnNAPROiIEV7b5CZfkYllsJqjBCJWL6t5t50yQkF2h6hxQmQhvPQpLF0CYktJythsDW7gFDvpANMi1Xd7tojTTmLvQn6wQjvWl0ZtM9xXOYaKbYAGNLZkOQKIKTJhMxiIFGKeb6MH5u42zuPmXWdC7wD_lc-yhpA6JDdljaJydDR-DBXKRcyA85Y6DFJ8dLVlPX7av0O8saFS4CYwLbcVQCoQKoMKbJENhUozLvAtWj0xNG5jMiYqbLj7R5ZaeSgwFaJPrRqz4Q5kAl0Zo7V_0za-Wp5cAa6QEEeIeEHdaGWL6wr7r_HJskjpE5mHhXy5oLRRt-2Ja47TTb2jQci4i9XNP_MaFgWxmdvOZsqlC-lSoPT2guIIlmCvS_bI8ODVPzfBNte3qEv30sgb9ZZLwIuSwsOBWrAy1GcwXYl7dQK67ClUIYwx_w">Vietnam Tech Society.</a>
+</p>
+<a href="https://linhdaosmooke.com/">Linh</a> shares how her opportunity to study abroad in India at age 17 has shaped the course of her life forever. Grateful for her scholarships to schools in India and the US, Linh has been creating opportunities for students and young professionals through her various initiatives in education, such as the creation of the Creative Kid Project. 
+<p>
+<a href="https://hackernoon.com/u/linh">Linh</a> discusses <a href="https://hackernoon.com/">Hacker Noon's</a> business model, how the company interacts with its <a href="https://community.hackernoon.com/">community</a> of writers and readers, operations processes and the next big steps Hacker Noon is taking to build a better <a href="https://hackernoon.com/tagged/internet">Internet</a>. Linh also shares insights of Hacker Noon <a href="https://www.youtube.com/watch?v=Hy4Lduu9CKg">break up with Medium</a> and highlights the values of no paywall and free Internet on which Hacker Noon philosophy is built. 
+</p>
+Continue reading about <a href="https://hackernoon.com/tagged/education">education</a>, <a href="https://hackernoon.com/tagged/leadership">leadership</a>, <a href="https://hackernoon.com/tagged/latest-tech-stories">tech stories</a>, and <a href="https://hackernoon.com/tagged/business">business</a> lessons on Hacker Noon.
+Also, keep up <a href="https://hackernoon.com/">Hacker Noon</a> via the <a href="https://hackernoon.us19.list-manage.com/subscribe?u=b48b0ec2173fecf2586c00e80&id=fa796741e6">NOONIFICATION</a>, <a href="https://giphy.com/hackernoon">Giphy</a> (ahem <a href="https://facebook.com/hackernoon">Facebook </a>and/or <a href="https://www.instagram.com/hackernoon/">Instagram</a>), <a href="https://twitter.com/hackernoon">Twitter</a>, <a href="https://chrome.google.com/webstore/detail/tech-stories-tab-by-hacke/cmcgnandlhnjekeccmongfellpljlohh">the Tech Stories Chrome plugin</a>, or just <a href="https://publish.hackernoon.com/">get a technology story published today</a>. P.S. We also are <a href="http://sponsors.hackernoon.com/">accepting new sponsors.</a>
