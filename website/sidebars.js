@@ -83,11 +83,18 @@ module.exports = {
                     "podcasts/2020/may/may-2020",
                     "podcasts/2020/june/june-2020",
                     "podcasts/2020/july/july-2020",
-                    //"podcasts/2020/august/august-2020",
+                    "podcasts/2020/august/august-2020",
+                    "podcasts/2020/september/september-2020",
+                    "podcasts/2020/october/october-2020",
+                    "podcasts/2020/november/november-2020"
                 ]
             },
             {
-                2021: ["podcasts/2021/podcasts-2021"]
+                2021: [
+                    "podcasts/2021/february/february-2021",
+                    "podcasts/2021/march/march-2021",
+                    "podcasts/2021/april/april-2021"
+                ]
             },
         ],
         Techbrief: ["techbrief/techbrief"]
