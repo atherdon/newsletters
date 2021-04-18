@@ -1,12 +1,10 @@
-# content
-
 # 5 Feature Flag Best Practices
 
 As dev teams continue to [improve agility](https://hackernoon.com/tagged/agile), the tools and approaches for building and [delivering software](https://hackernoon.com/the-virtuous-circle-of-software-delivery-to2hr30yd) are making headway. In this mad scramble, [DevOps](https://hackernoon.com/search?query=devops) and [CI/CD practices](https://hackernoon.com/search?query=cicd) assume the role of a solid basis for releasing software with [boosted automation](https://hackernoon.com/docker-and-jfrog-partnership-path-to-limitless-devops-in-the-cloud-4o2u33au) and decreased risk. And one of the sure-fire ways to guarantee that everything that a customer faces is not subject to catastrophe is to leverage feature flagging.
 
 ![https://media.giphy.com/media/1412QM7NaCZMyc/giphy.gif](https://media.giphy.com/media/1412QM7NaCZMyc/giphy.gif)
 
-[https://giphy.com/gifs/lol-quotes-inception-1412QM7NaCZMyc](https://giphy.com/gifs/lol-quotes-inception-1412QM7NaCZMyc)
+https://giphy.com/gifs/lol-quotes-inception-1412QM7NaCZMyc
 
 With that said, let's give you a low-down on top practices for this part of the [software development process](https://hackernoon.com/agile-vs-scrum-differences-and-similarities-the-complete-review-2020-zk3t3u8z).
 
@@ -14,7 +12,7 @@ With that said, let's give you a low-down on top practices for this part of the 
 
 ![https://media.giphy.com/media/l2JefSUnuZRO7mZ7q/giphy.gif](https://media.giphy.com/media/l2JefSUnuZRO7mZ7q/giphy.gif)
 
-[https://giphy.com/gifs/season-13-the-simpsons-13x15-l2JefSUnuZRO7mZ7q](https://giphy.com/gifs/season-13-the-simpsons-13x15-l2JefSUnuZRO7mZ7q)
+https://giphy.com/gifs/season-13-the-simpsons-13x15-l2JefSUnuZRO7mZ7q
 
 Here is the thing. Feature flagging is a lifesaver that can support many novel workflows useful to the [modern methodologies](https://hackernoon.com/how-decentralized-can-we-get-in-the-modern-world-podcast-transcript-zmh337a). However, going overboard with this practice can have the opposite effect. An excessive number of feature toggles means that there is a growing number of code paths. As a result, you end up with increased [code complexity](https://hackernoon.com/how-to-define-and-spend-your-tech-debt-budget-8429z32h2) and complicated testing. To avoid that, turn to this practice only when it seems logical and always repurpose the existing features if possible.
 
@@ -22,7 +20,7 @@ Here is the thing. Feature flagging is a lifesaver that can support many novel w
 
 ![https://media.giphy.com/media/l3fZHnLWcD2jsehs4/giphy.gif](https://media.giphy.com/media/l3fZHnLWcD2jsehs4/giphy.gif)
 
-[https://giphy.com/gifs/starwars-star-wars-return-of-the-jedi-l3fZHnLWcD2jsehs4](https://giphy.com/gifs/starwars-star-wars-return-of-the-jedi-l3fZHnLWcD2jsehs4)
+https://giphy.com/gifs/starwars-star-wars-return-of-the-jedi-l3fZHnLWcD2jsehs4
 
 Feature toggling lets you deploy code fast and with the least disruption. But when your experiment comes to an end, it’s time to wipe the slate clean to [avoid further chaos](https://hackernoon.com/tech-debt-snowball-a-simple-strategy-to-manage-technical-debt-95d8045dbc70). Otherwise, you face the risk of introducing the false feature to the audience. You can consider setting expiration dates for your feature toggles to cut through all that.
 
@@ -30,7 +28,7 @@ Feature toggling lets you deploy code fast and with the least disruption. But wh
 
 ![https://media.giphy.com/media/xyYouRSr7MAbS/giphy.gif](https://media.giphy.com/media/xyYouRSr7MAbS/giphy.gif)
 
-[https://giphy.com/gifs/hair-with-nicolas-xyYouRSr7MAbS](https://giphy.com/gifs/hair-with-nicolas-xyYouRSr7MAbS)
+https://giphy.com/gifs/hair-with-nicolas-xyYouRSr7MAbS
 
 Technically, feature toggles are your best friends, but naming them still helps. To navigate the ocean of feature switches, it is important to [give them a nomenclature](https://hackernoon.com/what-is-variable-naming-you-ask-heres-how-it-could-save-your-life-5y4k31r8). Without [labeling](https://hackernoon.com/the-dirty-code-problem-improve-your-game-with-good-naming-practices-wyds362d) them, it is easy to get lost. Most likely, you will forget about their designated use or use the same name another dozen times. And none of this will give you a leg up.
 
@@ -46,7 +44,7 @@ LaunchDarkly is your **go-to management tool** that goes even beyond feature fla
 
 ![https://media.giphy.com/media/SRMRwuEfe6tdfT6NpE/giphy-downsized.gif](https://media.giphy.com/media/SRMRwuEfe6tdfT6NpE/giphy-downsized.gif)
 
-[https://giphy.com/gifs/justviralnet-funny-mood-new-year-SRMRwuEfe6tdfT6NpE](https://giphy.com/gifs/justviralnet-funny-mood-new-year-SRMRwuEfe6tdfT6NpE)
+https://giphy.com/gifs/justviralnet-funny-mood-new-year-SRMRwuEfe6tdfT6NpE
 
 Finally, feature switches empower software engineers with tools to roll out new features to particular audiences. Thus, instead of reading the tea leaves, you can just show the new functionality to the users and gauge their reaction.
 
@@ -56,4 +54,4 @@ Imagine integrating a “get started” CTA button with different graphics, butt
 
 ![https://media.giphy.com/media/j5ncTQKEIROne/giphy.gif](https://media.giphy.com/media/j5ncTQKEIROne/giphy.gif)
 
-[https://giphy.com/gifs/go-home-j5ncTQKEIROne](https://giphy.com/gifs/go-home-j5ncTQKEIROne)
+https://giphy.com/gifs/go-home-j5ncTQKEIROne
