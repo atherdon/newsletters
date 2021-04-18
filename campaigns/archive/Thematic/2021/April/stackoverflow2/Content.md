@@ -1,4 +1,3 @@
-# Content
 
 # Break The Invisibility Spell As A Developer
 
@@ -13,8 +12,7 @@ Have you ever visited an event full of unknown faces to introduce yourself to th
 *Just kidding.*
 
 ![https://media.giphy.com/media/ygzdQq98HgcLBCacep/giphy.gif](https://media.giphy.com/media/ygzdQq98HgcLBCacep/giphy.gif)
-
-[https://giphy.com/gifs/high-quality-highqualitygifs-ygzdQq98HgcLBCacep/media](https://giphy.com/gifs/high-quality-highqualitygifs-ygzdQq98HgcLBCacep/media)
+https://giphy.com/gifs/high-quality-highqualitygifs-ygzdQq98HgcLBCacep/media
 
 ## Code repository (Github, Bitbucket, etc)
 
@@ -24,7 +22,7 @@ From a professional standpoint, it’s a no-brainer for effective collaboration 
 
 ![https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy-downsized.gif](https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy-downsized.gif)
 
-[https://giphy.com/gifs/david-cava-production-github-staging-cnhpl4IeYgU7MCBdV2](https://giphy.com/gifs/david-cava-production-github-staging-cnhpl4IeYgU7MCBdV2)
+https://giphy.com/gifs/david-cava-production-github-staging-cnhpl4IeYgU7MCBdV2
 
 ## Blog
 
@@ -43,8 +41,7 @@ Online communities like Stack Overflow, Reddit, and [open-source](https://hacker
 Along with getting yourself out there, you can find answers to your toughest coding questions, lap up some coding, and find your next dream job.
 
 ![https://media.giphy.com/media/jljJ9majewZ8C7LD56/giphy-downsized.gif](https://media.giphy.com/media/jljJ9majewZ8C7LD56/giphy-downsized.gif)
-
-[https://giphy.com/gifs/freshinteractive-freaks-and-geeks-agencylife-jljJ9majewZ8C7LD56](https://giphy.com/gifs/freshinteractive-freaks-and-geeks-agencylife-jljJ9majewZ8C7LD56)
+https://giphy.com/gifs/freshinteractive-freaks-and-geeks-agencylife-jljJ9majewZ8C7LD56
 
 *Put Stack Overflow to work - for your [whole team at once](https://bit.ly/2QdzWFp). Create a [free Team today](https://bit.ly/2QdzWFp).*
 
@@ -55,8 +52,7 @@ Since the pandemic hit, most events have been shifted online. So it’s even eas
 Just like online communities, [events](https://hackernoon.com/how-to-organize-defi-events-in-the-online-era-interview-mhw34c2), and meet-ups provide four major boons for new kids on the block: Learning, [Sharing, Networking, and Collaborating](https://hackernoon.com/virtual-corporate-events-and-meetings-as-a-new-trend-in-the-hr-industry-af3c33gm).
 
 ![https://media.giphy.com/media/My6LerZy9kQLwObqWk/giphy.gif](https://media.giphy.com/media/My6LerZy9kQLwObqWk/giphy.gif)
-
-[https://giphy.com/gifs/southpark-south-park-pandemic-special-boom-muted-My6LerZy9kQLwObqWk](https://giphy.com/gifs/southpark-south-park-pandemic-special-boom-muted-My6LerZy9kQLwObqWk)
+https://giphy.com/gifs/southpark-south-park-pandemic-special-boom-muted-My6LerZy9kQLwObqWk
 
 Pro tip: as a freshener, you’re better off looking for events that target a narrow topic, like a particular coding language or a technology. It’s less difficult and more [feasible to raise awareness](https://hackernoon.com/automation-for-girl-scout-events-35v31nm) there than at generic conferences.
 
@@ -68,4 +64,4 @@ Have you established a [visible personal brand](https://hackernoon.com/what-is-p
 
 ![https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif](https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif)
 
-[https://giphy.com/gifs/the-end-thats-all-folks-lD76yTC5zxZPG](https://giphy.com/gifs/the-end-thats-all-folks-lD76yTC5zxZPG)
+https://giphy.com/gifs/the-end-thats-all-folks-lD76yTC5zxZPG
