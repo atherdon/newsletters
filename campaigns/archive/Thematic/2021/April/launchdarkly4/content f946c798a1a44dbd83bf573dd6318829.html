@@ -1,0 +1,634 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>content</title><style>
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.highlight-default {
+}
+.highlight-gray {
+	color: rgb(155,154,151);
+}
+.highlight-brown {
+	color: rgb(100,71,58);
+}
+.highlight-orange {
+	color: rgb(217,115,13);
+}
+.highlight-yellow {
+	color: rgb(223,171,1);
+}
+.highlight-teal {
+	color: rgb(15,123,108);
+}
+.highlight-blue {
+	color: rgb(11,110,153);
+}
+.highlight-purple {
+	color: rgb(105,64,165);
+}
+.highlight-pink {
+	color: rgb(173,26,114);
+}
+.highlight-red {
+	color: rgb(224,62,62);
+}
+.highlight-gray_background {
+	background: rgb(235,236,237);
+}
+.highlight-brown_background {
+	background: rgb(233,229,227);
+}
+.highlight-orange_background {
+	background: rgb(250,235,221);
+}
+.highlight-yellow_background {
+	background: rgb(251,243,219);
+}
+.highlight-teal_background {
+	background: rgb(221,237,234);
+}
+.highlight-blue_background {
+	background: rgb(221,235,241);
+}
+.highlight-purple_background {
+	background: rgb(234,228,242);
+}
+.highlight-pink_background {
+	background: rgb(244,223,235);
+}
+.highlight-red_background {
+	background: rgb(251,228,228);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(55, 53, 47, 0.6);
+	fill: rgba(55, 53, 47, 0.6);
+}
+.block-color-brown {
+	color: rgb(100,71,58);
+	fill: rgb(100,71,58);
+}
+.block-color-orange {
+	color: rgb(217,115,13);
+	fill: rgb(217,115,13);
+}
+.block-color-yellow {
+	color: rgb(223,171,1);
+	fill: rgb(223,171,1);
+}
+.block-color-teal {
+	color: rgb(15,123,108);
+	fill: rgb(15,123,108);
+}
+.block-color-blue {
+	color: rgb(11,110,153);
+	fill: rgb(11,110,153);
+}
+.block-color-purple {
+	color: rgb(105,64,165);
+	fill: rgb(105,64,165);
+}
+.block-color-pink {
+	color: rgb(173,26,114);
+	fill: rgb(173,26,114);
+}
+.block-color-red {
+	color: rgb(224,62,62);
+	fill: rgb(224,62,62);
+}
+.block-color-gray_background {
+	background: rgb(235,236,237);
+}
+.block-color-brown_background {
+	background: rgb(233,229,227);
+}
+.block-color-orange_background {
+	background: rgb(250,235,221);
+}
+.block-color-yellow_background {
+	background: rgb(251,243,219);
+}
+.block-color-teal_background {
+	background: rgb(221,237,234);
+}
+.block-color-blue_background {
+	background: rgb(221,235,241);
+}
+.block-color-purple_background {
+	background: rgb(234,228,242);
+}
+.block-color-pink_background {
+	background: rgb(244,223,235);
+}
+.block-color-red_background {
+	background: rgb(251,228,228);
+}
+.select-value-color-default { background-color: rgba(206,205,202,0.5); }
+.select-value-color-gray { background-color: rgba(155,154,151, 0.4); }
+.select-value-color-brown { background-color: rgba(140,46,0,0.2); }
+.select-value-color-orange { background-color: rgba(245,93,0,0.2); }
+.select-value-color-yellow { background-color: rgba(233,168,0,0.2); }
+.select-value-color-green { background-color: rgba(0,135,107,0.2); }
+.select-value-color-blue { background-color: rgba(0,120,223,0.2); }
+.select-value-color-purple { background-color: rgba(103,36,222,0.2); }
+.select-value-color-pink { background-color: rgba(221,0,129,0.2); }
+.select-value-color-red { background-color: rgba(255,0,26,0.2); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="f946c798-a1a4-4dbd-83bf-573dd6318829" class="page sans"><header><h1 class="page-title">content</h1></header><div class="page-body"><p id="cf165649-4521-4c92-bfcb-96663cb7d850" class="">
+</p><h1 id="f6659aa0-348a-491d-8511-95d52c322a19" class="">5 Feature Flag Best Practices</h1><p id="d2dea667-640e-4f78-bffc-d8648aff3b05" class="">
+</p><p id="b4ebefb7-f3f0-40fd-a043-a3181cc056c8" class="">As dev teams continue to <a href="https://hackernoon.com/tagged/agile">improve agility</a>, the tools and approaches for building and <a href="https://hackernoon.com/the-virtuous-circle-of-software-delivery-to2hr30yd">delivering software</a> are making headway. In this mad scramble, <a href="https://hackernoon.com/search?query=devops">DevOps</a> and <a href="https://hackernoon.com/search?query=cicd">CI/CD practices</a> assume the role of a solid basis for releasing software with <a href="https://hackernoon.com/docker-and-jfrog-partnership-path-to-limitless-devops-in-the-cloud-4o2u33au">boosted automation</a> and decreased risk. And one of the sure-fire ways to guarantee that everything that a customer faces is not subject to catastrophe is to leverage feature flagging.</p><figure id="091a7789-ddda-497f-b475-c8a073ba1409" class="image"><a href="https://media.giphy.com/media/1412QM7NaCZMyc/giphy.gif"><img style="width:240px" src="https://media.giphy.com/media/1412QM7NaCZMyc/giphy.gif"/></a></figure><p id="5f8332b1-5ae9-4b77-8afa-c55c69510685" class=""><a href="https://giphy.com/gifs/lol-quotes-inception-1412QM7NaCZMyc">https://giphy.com/gifs/lol-quotes-inception-1412QM7NaCZMyc</a></p><p id="37f12620-2c64-43a2-a54f-971ee103ee1f" class="">With that said, let&#x27;s give you a low-down on top practices for this part of the <a href="https://hackernoon.com/agile-vs-scrum-differences-and-similarities-the-complete-review-2020-zk3t3u8z">software development process</a>.</p><h2 id="f3c42363-145a-42c1-b337-73b536dfde8d" class="">Less Is More</h2><figure id="0943aa3d-00b8-4494-883b-460e83374e77" class="image"><a href="https://media.giphy.com/media/l2JefSUnuZRO7mZ7q/giphy.gif"><img style="width:240px" src="https://media.giphy.com/media/l2JefSUnuZRO7mZ7q/giphy.gif"/></a></figure><p id="5342b0ac-fd88-4187-8ff2-3258aeacc33f" class=""><a href="https://giphy.com/gifs/season-13-the-simpsons-13x15-l2JefSUnuZRO7mZ7q">https://giphy.com/gifs/season-13-the-simpsons-13x15-l2JefSUnuZRO7mZ7q</a></p><p id="6566234b-fad7-4134-a187-89de9f857ec4" class="">Here is the thing. Feature flagging is a lifesaver that can support many novel workflows useful to the <a href="https://hackernoon.com/how-decentralized-can-we-get-in-the-modern-world-podcast-transcript-zmh337a">modern methodologies</a>. However, going overboard with this practice can have the opposite effect. An excessive number of feature toggles means that there is a growing number of code paths. As a result, you end up with increased <a href="https://hackernoon.com/how-to-define-and-spend-your-tech-debt-budget-8429z32h2">code complexity</a> and complicated testing. To avoid that, turn to this practice only when it seems logical and always repurpose the existing features if possible.</p><h2 id="5f7d3e73-35e2-4d80-a973-8c34cdca6fe5" class="">A Feature Flag Whose Job Is Done Should Sink Into Oblivion</h2><figure id="115f02a1-0332-421d-9f61-bc55dce02747" class="image"><a href="https://media.giphy.com/media/l3fZHnLWcD2jsehs4/giphy.gif"><img style="width:384px" src="https://media.giphy.com/media/l3fZHnLWcD2jsehs4/giphy.gif"/></a></figure><p id="02fa0707-12ea-477b-ada4-ca8a16fe96f1" class=""><a href="https://giphy.com/gifs/starwars-star-wars-return-of-the-jedi-l3fZHnLWcD2jsehs4">https://giphy.com/gifs/starwars-star-wars-return-of-the-jedi-l3fZHnLWcD2jsehs4</a></p><p id="f9a95628-3bc1-436d-8c91-136b693139c8" class="">Feature toggling lets you deploy code fast and with the least disruption. But when your experiment comes to an end, it’s time to wipe the slate clean to <a href="https://hackernoon.com/tech-debt-snowball-a-simple-strategy-to-manage-technical-debt-95d8045dbc70">avoid further chaos</a>. Otherwise, you face the risk of introducing the false feature to the audience. You can consider setting expiration dates for your feature toggles to cut through all that.</p><h2 id="0700dea3-a39e-4b8c-97e5-7cabd722fe70" class="">Know Your Enemy By Name</h2><figure id="5a672af5-517c-4446-a6e5-6c922ca268bd" class="image"><a href="https://media.giphy.com/media/xyYouRSr7MAbS/giphy.gif"><img style="width:240px" src="https://media.giphy.com/media/xyYouRSr7MAbS/giphy.gif"/></a></figure><p id="d1796819-184e-4041-aa3c-7d70a30d55e3" class=""><a href="https://giphy.com/gifs/hair-with-nicolas-xyYouRSr7MAbS">https://giphy.com/gifs/hair-with-nicolas-xyYouRSr7MAbS</a></p><p id="4b7204d0-afe0-460a-adfb-371faf210191" class="">Technically, feature toggles are your best friends, but naming them still helps. To navigate the ocean of feature switches, it is important to <a href="https://hackernoon.com/what-is-variable-naming-you-ask-heres-how-it-could-save-your-life-5y4k31r8">give them a nomenclature</a>. Without <a href="https://hackernoon.com/the-dirty-code-problem-improve-your-game-with-good-naming-practices-wyds362d">labeling</a> them, it is easy to get lost. Most likely, you will forget about their designated use or use the same name another dozen times. And none of this will give you a leg up.</p><p id="812fade3-63c3-498f-8798-1a61ca0467d8" class="">
+</p><p id="82f4ff04-bc34-4756-8576-6491ba5f7b99" class="">Therefore, make sure to have a unified tagging system for better control and <a href="https://hackernoon.com/17-skills-improve-managerial-communication-in-the-workplace-4c2e35le">team communication</a>.</p><h2 id="af33609a-3e64-4542-971e-5761b69cea82" class="">Use a Feature Toggle Management Tool</h2><p id="d0878712-740f-4bfa-8ef0-59788194d869" class="">
+</p><p id="f8329605-a442-4403-b45c-a48f0c1fa251" class="">Having a solid, <a href="https://hackernoon.com/artifactory-a-great-devops-tool-that-will-help-you-release-at-the-speed-of-light-b61l3wy8">easy-to-use platform</a> helps to safely test features in production. You may think you are better off with a simple page of on-and-off checkboxes. But it gets trickier with the increasing number of features with a variety of statuses. Feature toggle management tools, on the other hand, account for better command of the application when you scale it.</p><p id="7c7d90fb-a528-492e-b3a6-f92496bea407" class="">
+</p><p id="46ed6aa1-7366-4e91-bb59-c65729c9b189" class="">LaunchDarkly is your <strong>go-to management tool</strong> that goes even beyond feature flagging. Along with ease of management and increased development rate, LaunchDarkly uses a <strong>real-time streaming connection</strong> to ensure fast and secure delivery.</p><h2 id="88d43768-8ff5-4424-a0e8-29cf080df75d" class="">Use Feature Toggles For Experimenting</h2><figure id="fab9ded4-b34c-4361-8c64-59836922d2a1" class="image"><a href="https://media.giphy.com/media/SRMRwuEfe6tdfT6NpE/giphy-downsized.gif"><img style="width:240px" src="https://media.giphy.com/media/SRMRwuEfe6tdfT6NpE/giphy-downsized.gif"/></a></figure><p id="1d9ff814-3b94-448c-8417-487b8e5c0de8" class=""><a href="https://giphy.com/gifs/justviralnet-funny-mood-new-year-SRMRwuEfe6tdfT6NpE">https://giphy.com/gifs/justviralnet-funny-mood-new-year-SRMRwuEfe6tdfT6NpE</a></p><p id="71d7453a-76bd-478b-9c94-ce077da3aee0" class="">Finally, feature switches empower software engineers with tools to roll out new features to particular audiences. Thus, instead of reading the tea leaves, you can just show the new functionality to the users and gauge their reaction.</p><p id="ff4fa968-3fe8-4237-9bf4-5b9d487ee146" class="">
+</p><p id="c8333dc2-3280-49bb-88dc-f62cd140caeb" class="">Imagine integrating a “get started” CTA button with different graphics, button styles, and font to see which one generates more clicks. Feature flags let you demonstrate the new functions to a narrow target audience and fetch valuable insights. You can then use those insights to course-correct the <a href="https://hackernoon.com/search?query=software+development">development</a> and fine-tune the feature to users&#x27; preferences. That’s how <a href="https://hackernoon.com/search?query=faagm">giant companies</a> test the waters before rolling out a new update.</p><p id="aa9fd989-ecf7-48b1-8267-0459afaa1d48" class="">
+</p><p id="253e6e28-a3b7-493e-850b-7d84f4c359ba" class=""><em>Summing up</em>, feature toggle is a powerful technique that makes development faster and safer. Also, it’s your workaround way to deploy a new feature into production without turning it on until you’re ready. Make sure to use it wisely and implement the time-tested practices mentioned above.</p><figure id="c44910ac-089a-4452-80a1-b71ce8cccb5e" class="image"><a href="https://media.giphy.com/media/j5ncTQKEIROne/giphy.gif"><img style="width:336px" src="https://media.giphy.com/media/j5ncTQKEIROne/giphy.gif"/></a></figure><p id="5ac1d6c3-68d6-4300-a2c9-a3689ccac3e7" class=""><a href="https://giphy.com/gifs/go-home-j5ncTQKEIROne">https://giphy.com/gifs/go-home-j5ncTQKEIROne</a></p></div></article></body></html>
