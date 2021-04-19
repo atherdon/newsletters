@@ -33,3 +33,5 @@ Explore later:
 - https://us16.campaign-archive.com/home/?u=d6caaf0de87e558b1b36ec59f&id=8393ff9db6
 
 - https://mailchi.mp/technologyreview/sqxnt0dbcd-796310?e=%5bUNIQID
+
+- https://www.linkedin.com/pulse/weekly-recap-jason-calacanis/
