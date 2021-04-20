@@ -1,5 +1,3 @@
-# Couchbase 2
-
 # Database Security: Lessons to Ward Off Cats
 
 The year 2020 brought with it some unusual and extremely stressful situations — distance from loved ones, global supply chain shortages, attempts to explain the *Tiger King* to your friends — but it also acted as an important reminder. That we should *not* forget the value of [**cybersecurity**](https://hackernoon.com/6-things-to-know-if-you-want-to-become-a-cybersecurity-expert-7o6335e9).
