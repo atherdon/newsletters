@@ -24,6 +24,14 @@ layout
 
 - https://www.wsj.com/newsletters?sub=55
 
+https://www.nytimes.com/newsletters
+
+https://www.starterstory.com/create-citations-references-bibliographies
+
+https://www.starterstory.com/matthew-rideout
+
+https://www.starterstory.com/tools/emailoctopus
+
 everybody beating for this term: https://www.google.com/search?q=tech+newsletter&rlz=1C1GCEA_enUA901UA901&oq=tech+newsletter&aqs=chrome..69i57j69i64l2.2918j0j4&sourceid=chrome&ie=UTF-8
 
 
