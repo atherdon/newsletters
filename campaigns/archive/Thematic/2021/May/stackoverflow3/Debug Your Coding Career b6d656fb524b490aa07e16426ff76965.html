@@ -1,0 +1,640 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Debug Your Coding Career</title><style>
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.highlight-default {
+}
+.highlight-gray {
+	color: rgb(155,154,151);
+}
+.highlight-brown {
+	color: rgb(100,71,58);
+}
+.highlight-orange {
+	color: rgb(217,115,13);
+}
+.highlight-yellow {
+	color: rgb(223,171,1);
+}
+.highlight-teal {
+	color: rgb(15,123,108);
+}
+.highlight-blue {
+	color: rgb(11,110,153);
+}
+.highlight-purple {
+	color: rgb(105,64,165);
+}
+.highlight-pink {
+	color: rgb(173,26,114);
+}
+.highlight-red {
+	color: rgb(224,62,62);
+}
+.highlight-gray_background {
+	background: rgb(235,236,237);
+}
+.highlight-brown_background {
+	background: rgb(233,229,227);
+}
+.highlight-orange_background {
+	background: rgb(250,235,221);
+}
+.highlight-yellow_background {
+	background: rgb(251,243,219);
+}
+.highlight-teal_background {
+	background: rgb(221,237,234);
+}
+.highlight-blue_background {
+	background: rgb(221,235,241);
+}
+.highlight-purple_background {
+	background: rgb(234,228,242);
+}
+.highlight-pink_background {
+	background: rgb(244,223,235);
+}
+.highlight-red_background {
+	background: rgb(251,228,228);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(55, 53, 47, 0.6);
+	fill: rgba(55, 53, 47, 0.6);
+}
+.block-color-brown {
+	color: rgb(100,71,58);
+	fill: rgb(100,71,58);
+}
+.block-color-orange {
+	color: rgb(217,115,13);
+	fill: rgb(217,115,13);
+}
+.block-color-yellow {
+	color: rgb(223,171,1);
+	fill: rgb(223,171,1);
+}
+.block-color-teal {
+	color: rgb(15,123,108);
+	fill: rgb(15,123,108);
+}
+.block-color-blue {
+	color: rgb(11,110,153);
+	fill: rgb(11,110,153);
+}
+.block-color-purple {
+	color: rgb(105,64,165);
+	fill: rgb(105,64,165);
+}
+.block-color-pink {
+	color: rgb(173,26,114);
+	fill: rgb(173,26,114);
+}
+.block-color-red {
+	color: rgb(224,62,62);
+	fill: rgb(224,62,62);
+}
+.block-color-gray_background {
+	background: rgb(235,236,237);
+}
+.block-color-brown_background {
+	background: rgb(233,229,227);
+}
+.block-color-orange_background {
+	background: rgb(250,235,221);
+}
+.block-color-yellow_background {
+	background: rgb(251,243,219);
+}
+.block-color-teal_background {
+	background: rgb(221,237,234);
+}
+.block-color-blue_background {
+	background: rgb(221,235,241);
+}
+.block-color-purple_background {
+	background: rgb(234,228,242);
+}
+.block-color-pink_background {
+	background: rgb(244,223,235);
+}
+.block-color-red_background {
+	background: rgb(251,228,228);
+}
+.select-value-color-default { background-color: rgba(206,205,202,0.5); }
+.select-value-color-gray { background-color: rgba(155,154,151, 0.4); }
+.select-value-color-brown { background-color: rgba(140,46,0,0.2); }
+.select-value-color-orange { background-color: rgba(245,93,0,0.2); }
+.select-value-color-yellow { background-color: rgba(233,168,0,0.2); }
+.select-value-color-green { background-color: rgba(0,135,107,0.2); }
+.select-value-color-blue { background-color: rgba(0,120,223,0.2); }
+.select-value-color-purple { background-color: rgba(103,36,222,0.2); }
+.select-value-color-pink { background-color: rgba(221,0,129,0.2); }
+.select-value-color-red { background-color: rgba(255,0,26,0.2); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="b6d656fb-524b-490a-a07e-16426ff76965" class="page sans"><header><h1 class="page-title">Debug Your Coding Career</h1></header><div class="page-body"><p id="9043e5fa-4ec0-451b-839f-497af2440463" class=""><em>Coders are gonna code</em><em>. N</em><em>ewbies are gonna noob.</em></p><p id="c1253e13-c468-4edb-ae61-27e2261adeb9" class="">We&#x27;ve all been there: Embracing our <a href="https://hackernoon.com/how-to-choose-between-a-career-in-frontend-vs-backend-u44q33dw"><strong>career journey</strong></a> as newly-minted specialists.</p><p id="7fc966db-9ee2-432f-a70a-e3a731a69c84" class="">Thinking that we know it all—sometimes skipping the research and planning stages of a project due to excitement. Often afraid to raise questions to avoid looking silly.</p><p id="90c6eabb-9b8d-43fc-a585-f13788018334" class="">
+</p><figure id="41d46c83-876a-45cb-be79-9c46adf530f5"><div class="source"><a href="https://giphy.com/gifs/coding-5ntdy5Ban1dIY">https://giphy.com/gifs/coding-5ntdy5Ban1dIY</a></div></figure><p id="f33d6b80-40ea-4756-9c8d-b3637165a8bb" class=""><a href="https://giphy.com/gifs/coding-5ntdy5Ban1dIY">https://giphy.com/gifs/coding-5ntdy5Ban1dIY</a></p><p id="3ec34d20-4fd6-4a8b-a51a-271a5724b5ac" class="">
+</p><p id="1f4a215f-0cb1-4b8d-9740-9e4281625f9b" class="">Climbing up the company ladder is filled with embarrassing moments. Sadly, the nuanced mishaps of other people are seldom discussed in introductory seminars.</p><p id="87659468-3571-4d98-8a00-934eeed86816" class="">Which is why we created a guide from the experiences of the developers that we have heard about. Below are some of the most popular career mistakes that can slow your career growth.</p><h1 id="8e4e8df8-7ca2-492e-97a9-b5217228dafd" class=""><strong>Sticking with One Company for too Long</strong></h1><p id="36895f15-649d-4bb3-b57e-419fa22f2423" class="">
+</p><p id="33743393-78c8-4861-b6b3-b1aa9fbc1b75" class="">There’s a fine line between establishing tenure to show that you’re not a job hopper and settling way too deep into your comfort zone.</p><p id="dfc195a0-6819-46b4-a25e-1caa2462539f" class=""><a href="https://hackernoon.com/i-got-a-job-as-a-developer-at-16-and-you-can-too-xg2q31ls">Developers</a> who have built their careers at one company may find themselves unmotivated to achieve more. The longer you stay a &#x27;one-trick-pony,&#x27; the more your skills and pay may hibernate, potentially rendering your job experience bleak.</p><p id="fdc46029-7ade-4c4d-baf9-9702ab8687e0" class="">
+</p><figure id="70b831c3-9c69-48f1-a4bb-c91cb844ea1b"><div class="source"><a href="https://giphy.com/gifs/tech-quick-troubleshooting-PnpkimJ5mrZRe">https://giphy.com/gifs/tech-quick-troubleshooting-PnpkimJ5mrZRe</a></div></figure><p id="89a2e105-b0d3-460b-a999-bf04a7b2d28d" class=""><a href="https://giphy.com/gifs/tech-quick-troubleshooting-PnpkimJ5mrZRe">https://giphy.com/gifs/tech-quick-troubleshooting-PnpkimJ5mrZRe</a></p><h1 id="55603f77-d0b0-460a-a27c-d6434feec90f" class="">Having too Many Job Changes</h1><p id="f230924c-eb3c-45b1-afa3-141b563c05f6" class="">If you have many non-contract, full-time jobs that last a few months, it&#x27;s also a warning signal –regardless of why you left.</p><p id="158409b9-bc98-49c1-be3a-3910b9cc3c6f" class="">Although perceptions of job-hopping are shifting, employers still frown on developers who are constantly switching companies.</p><p id="97c0591f-6660-4193-9b2a-71c9deb67155" class="">The reason for that is that it takes time to become more knowledgeable and acquainted with the business and the <a href="https://hackernoon.com/getting-familiar-with-a-new-codebase-szg23y8m"><strong>codebase</strong></a>. Apart from that, you need far more than a couple of months to dig deeper into the end-user needs that your <a href="https://hackernoon.com/how-to-evaluate-software-code-quality-and-why-it-is-important-ldn3whh"><strong>software</strong></a> addresses.</p><p id="84cfc3cb-ff76-4dc3-bd0e-8b5cff2c1519" class="">
+</p><figure id="dc056737-8b98-4045-ba9e-2363d89de5ed"><div class="source"><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW</a></div></figure><p id="ea9bcab0-6c23-40d2-8106-50dc45811f55" class=""><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW</a></p><h1 id="e6e2cb6f-3dcd-44e6-967e-50c0cd4a0e2d" class="">Focusing on a Single Technology</h1><p id="b05506ae-59d7-4a6b-b10c-e2713e80428b" class="">Being a master of one <a href="https://hackernoon.com/a-web-stack-is-like-a-pile-of-books-5w2l35to"><strong>stack</strong></a> may make you irreplaceable to your current employer.  But should you remain permanently loyal until <a href="https://hackernoon.com/the-future-of-innovation-how-will-entrepreneurs-adapt-to-this-decade-78fq3477"><strong>innovation</strong></a> renders your skills moot? <em>Debatable.</em></p><p id="43b702b6-49ab-48c1-af82-9bcc864d844e" class="">We’re not implying that you should keep chasing newer technologies with no ROI.</p><p id="38a594cb-4767-4f91-8d8b-0294d3d694b3" class="">The truth is that you won’t find any modern <a href="https://hackernoon.com/an-innovative-way-to-price-your-software-development-work-4l1e33ps"><strong>software development</strong></a> role which calls for only one technology for the length of your career.</p><p id="16cfe82b-1fce-4b59-85f1-1c257821b6a9" class="">However, pressing on with one stack can be limiting if you want to step into <em>the corporate environment.</em></p><p id="4f2256f0-0a09-42a8-9ca4-fca2ba7b883c" class="">
+</p><figure id="316f413c-67a7-47c1-8beb-96327fa38fc5"><div class="source"><a href="https://giphy.com/gifs/mrw-computer-NAcNfRrU6f2bC">https://giphy.com/gifs/mrw-computer-NAcNfRrU6f2bC</a></div></figure><p id="3764742a-c1c4-45c4-bbc7-5cc7512ca071" class=""><a href="https://giphy.com/gifs/mrw-computer-NAcNfRrU6f2bC">https://giphy.com/gifs/mrw-computer-NAcNfRrU6f2bC</a></p><h1 id="37464703-f037-40e1-9eff-6e9df3f4fdc7" class="">Underestimating the Role of Soft Skills</h1><p id="00c4f805-bd20-4ee7-81f9-d045094f66f7" class="">Being excellent at <a href="https://hackernoon.com/things-you-need-to-learn-before-you-start-writing-code-2rm33jc"><strong>writing code</strong></a> is not enough to claim that great, high-paying job you desire.</p><p id="70659991-cbc6-41e0-816c-c85d168c9e20" class="">Even though getting a hold of <a href="https://hackernoon.com/mind-mapping-creative-thinking-and-the-augmented-reality-ar-technologies-driving-them-5j2h3zau">the </a><a href="https://hackernoon.com/mind-mapping-creative-thinking-and-the-augmented-reality-ar-technologies-driving-them-5j2h3zau"><strong>latest technologies</strong></a> is of crucial value in this business, soft skills are equally important for a developer.</p><p id="de192442-c4bd-4ac9-8811-3c65cc27a825" class="">What’s the point in your excellent command of <a href="https://hackernoon.com/java-vs-php-what-to-choose-in-2021-6t1133px"><strong>Java</strong></a> or <a href="https://hackernoon.com/a-guide-to-improving-your-python-performance-speed-th2835dj"><strong>Python</strong></a> if you lack <a href="https://hackernoon.com/17-skills-improve-managerial-communication-in-the-workplace-4c2e35le"><strong>communication</strong></a> abilities and struggle to showcase your value to the company? After all, you’ll have to gather requirements for the software you are creating.</p><p id="82101374-9dc0-45bc-b273-7f7b43e9b686" class="">
+</p><figure id="096b389d-1535-4184-a6a3-61c02686e8ad"><div class="source"><a href="https://giphy.com/gifs/dog-computer-wpoLqr5FT1sY0/">https://giphy.com/gifs/dog-computer-wpoLqr5FT1sY0/</a></div></figure><p id="54afb437-9b1d-4185-a985-03ac2f630c41" class=""><a href="https://giphy.com/gifs/dog-computer-wpoLqr5FT1sY0/">https://giphy.com/gifs/dog-computer-wpoLqr5FT1sY0/</a></p><p id="45b495d1-4d46-4191-bee4-f4c6f4b1a880" class="">
+</p><p id="54235a60-e48b-4c0c-88d2-8a0c205c11ce" class="">The good news is that soft skills are not innate abilities. Therefore, you can whip your communication, leadership, or time management abilities into shape with due diligence.</p><h1 id="62ff2a57-8a0e-4098-829f-6ea779357b69" class="">On the Road to Success</h1><p id="59a01d09-7e46-4e4d-8b26-1fe210e8eca0" class="">The tech industry is forever crying out for talent and so it may seem that your dream employer is around every <a href="https://hackernoon.com/the-problem-with-centralized-internet-qy1r35q0"><strong>Internet</strong></a> corner.</p><p id="fbb46100-19c2-49c4-898a-98bdadb6429c" class="">But the talent shortage doesn’t mean there aren’t a great number of bright minds vying for their career. Therefore, living, eating, and breathing <a href="https://hackernoon.com/writing-proper-code-is-vital-heres-why-cst3ti5"><strong>code</strong></a> is <em>no longer your lucky break.</em></p><p id="ebe8e350-746a-4e85-8ac7-d80c9316472e" class="">
+</p><figure id="bda836ed-3ae7-4004-8371-5ae26b1e5614" class="image"><a href="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif"><img style="width:528px" src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif"/></a></figure><p id="5f8de6b6-2b7f-4bf5-acb9-455b089d1df2" class=""><a href="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif">https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif</a></p><p id="c00cd3b6-e723-46be-9b33-464d2d8cb5da" class="">
+</p><p id="31b79b2f-8ff8-404e-8351-2c16930f28ab" class="">There is so much room for you to grow and <a href="https://hackernoon.com/the-path-of-a-self-taught-developer-zj1p3z07"><strong>hone up your skills</strong></a> when you’re a software engineer, so grab the chance and never stop learning.</p><p id="f8bebb9d-a052-4f81-a297-e4ebe0da9d24" class="">
+</p><p id="46400d26-b3f5-4bde-ad4f-b016df5e6f93" class=""><em>Join us today to thank our newsletter sponsor, </em><a href="https://bit.ly/3dSBjSe"><em>Stack Overflow</em></a><em>.</em> <a href="https://bit.ly/3dSBjSe"><em>Stack Overflow knows developers</em></a><em>. If you’ve ever learned to code, you have probably used SO’s public learning platform for sharing knowledge, collaboration, and career-building.  Stack Overflow for Teams, Stack Overflow Advertising, Stack Overflow for Talent and Jobs all help to assist developers in their daily business and personal lives. The core SaaS collaboration product is helping thousands of companies around the world progress into a more digital sphere by embracing remote work, all while addressing continuity challenges.</em></p><p id="49e5c724-4f69-4701-987a-0da8965b4e3e" class="">
+</p><figure id="3438106a-96bb-4cf3-b770-e8022db13406" class="image"><a href="https://media.giphy.com/media/JPrUspKjz0Sn5zXDqv/giphy-downsized.gif"><img style="width:288px" src="https://media.giphy.com/media/JPrUspKjz0Sn5zXDqv/giphy-downsized.gif"/></a></figure><p id="7be32774-76bd-4214-987b-950aec1b079f" class=""><a href="https://media.giphy.com/media/JPrUspKjz0Sn5zXDqv/giphy-downsized.gif">https://media.giphy.com/media/JPrUspKjz0Sn5zXDqv/giphy-downsized.gif</a></p><p id="8312ee85-0174-4f68-af31-7bd3042439a6" class="">***</p><p id="9ed24cb6-6645-4320-9351-d1df10098bee" class=""><a href="https://hackernoon.com/signup"><span style="border-bottom:0.05em solid"><strong>Got a tech story to share with our readers?</strong></span></a> Everything you&#x27;ve ever wanted to know about how to get published on Hacker Noon -<a href="https://www.publish.hackernoon.com/"><span style="border-bottom:0.05em solid"><strong> get it here</strong></span></a></p><p id="586c2bb9-86bc-4a87-b07d-6c6ae91b27df" class="">
+</p></div></article></body></html>
