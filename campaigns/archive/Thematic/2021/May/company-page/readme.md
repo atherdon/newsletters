@@ -1,14 +1,15 @@
 # 913 Tech Company News Pages on Hacker Noon
-Hacker Noon is proud to release Tech Company News Page. As the lead developer on this project, I gathered and integrated some valuable information about each of the 913 companies, utilizing Algolia and 3rd-party APIs like Bing News and BigPicture.io. The company news page is built with Next.js which was the best choice due to its static generation and caching capabilities. Adding Tech Company News Pages to Hacker Noon will add value to our visitors by providing them the most recent information about their favorite companies and brands. It will also add value to companies and brands by enabling them to enhance their brand awareness and provide the most accurate information about their brands.
+Hacker Noon is proud to release Tech Company News Page. As the [lead developer on this project](https://hackernoon.com/u/massif), I gathered and integrated some valuable information about each of the 913 companies, utilizing Algolia and 3rd-party APIs like Bing News and BigPicture.io. The company news page is built with [Next.js](https://hackernoon.com/search?query=nextjs) which was the best choice due to its static generation and caching capabilities. Adding [Tech Company News Pages](https://hackernoon.com/companies) to Hacker Noon will add value to our visitors by providing them the most recent information about their favorite companies and brands. It will also add value to companies and brands by enabling them to enhance their brand awareness and provide the most accurate information about their brands.
 
 We now have 913 Tech Company News Pages on Hacker Noon (also check out the first 22 tech company news pages). We want to grow it to tens of thousands more to cover as many businesses as we can. We hope you like them. If you'd like to have us create your company's tech company news page, edit an existing company news page, or publish your company statements with Hacker Noon, please fill out our brief tech company news page form.
 
-Below you can find a complete list of all companies that have their news pages in HackerNoon, sorted alphabetically, with their founding date, employee count and Alexa ranking. Click through to check out the live dynamic page.
+![xxx](https://hackernoon.com/images/PBoEycZ0BNQiPjcUPomiTNAZVoP2-ndk35x0.png]
+https://hackernoon.com/companies
+
+Below you can find a "mostly complete list" of all companies that have their news pages in HackerNoon, sorted alphabetically, with their founding date, employee count and Alexa ranking. Click through to check out the live dynamic page.
 Special thanks to Bing News and BigPicture.io APIs for providing us with some of the information about each company.
 
 Disclaimer: The information about each company is taken from 3rd party APIs which are responsible for keeping them up-to-date. If you noticed any information that is out-of-date, please contact us and we would love to update it.
-
-
 
 **[2Checkout Company News Page](https://hackernoon.com/company/2checkout)**:
 Founded in 2000, 2Checkout has 84 employees and is ranked 11641st at Alexa global ranking.
@@ -39,9 +40,6 @@ Founded in 1994, Amazon has 798000 employees and is ranked 12th at Alexa global 
 
 **[American Airlines Group Company News Page](https://hackernoon.com/company/americanairlinesgroup)**:
 Founded in 1930, American Airlines Group has 107400 employees and is ranked 1006th at Alexa global ranking.
-
-**[American Electric Power Company News Page](https://hackernoon.com/company/americanelectricpower)**:
-Founded in 1906, American Electric Power has 17408 employees and is ranked 115831st at Alexa global ranking.
 
 **[American Express Company News Page](https://hackernoon.com/company/americanexpress)**:
 Founded in 1850, American Express has 64000 employees and is ranked 331st at Alexa global ranking.
@@ -91,9 +89,6 @@ Founded in 2002, Ciklum has 2040 employees and is ranked 474286th at Alexa globa
 **[Cisco Systems Company News Page](https://hackernoon.com/company/ciscosystems)**:
 Founded in 1984, Cisco Systems has 10K+ employees and is ranked 50107th at Alexa global ranking.
 
-**[Citigroup Company News Page](https://hackernoon.com/company/citigroup)**:
-Founded in 1812, Citigroup has 204000 employees and is ranked 22302nd at Alexa global ranking.
-
 **[Coca-Cola Company News Page](https://hackernoon.com/company/coca-cola)**:
 Founded in 1892, Coca-Cola has 86200 employees and is ranked 36271st at Alexa global ranking.
 
@@ -103,20 +98,11 @@ Founded in 1806, Colgate-Palmolive has 10K+ employees and is ranked 340240th at 
 **[Comcast Company News Page](https://hackernoon.com/company/comcast)**:
 Founded in 1963, Comcast has 190000 employees and is ranked 7684th at Alexa global ranking.
 
-**[Costco Wholesale Company News Page](https://hackernoon.com/company/costcowholesale)**:
-Founded in 1983, Costco Wholesale has 149000 employees and is ranked 683rd at Alexa global ranking.
-
 **[Credit Karma Company News Page](https://hackernoon.com/company/creditkarma)**:
 Founded in 2007, Credit Karma has 457 employees and is ranked 854th at Alexa global ranking.
 
-**[DAILY MAIL & GENERAL TRUST PLC Company News Page](https://hackernoon.com/company/dailymailgeneraltrustplc)**:
-Founded in 1922, DAILY MAIL & GENERAL TRUST PLC has 5950 employees and is ranked 1053959th at Alexa global ranking.
-
 **[Dell Technologies Company News Page](https://hackernoon.com/company/delltechnologies)**:
 Founded in 2016, Dell Technologies has 7501 employees and is ranked 109963rd at Alexa global ranking.
-
-**[Eastman Chemical Company News Page](https://hackernoon.com/company/eastmanchemical)**:
-Founded in 1920, Eastman Chemical has 14500 employees and is ranked 179616th at Alexa global ranking.
 
 **[eBay Company News Page](https://hackernoon.com/company/ebay)**:
 Founded in 1995, eBay has 21 employees and is ranked 40th at Alexa global ranking.
@@ -124,17 +110,11 @@ Founded in 1995, eBay has 21 employees and is ranked 40th at Alexa global rankin
 **[Enigma.io Company News Page](https://hackernoon.com/company/enigmaio)**:
 Founded in 2011, Enigma.io has 126 employees and is ranked 8549047th at Alexa global ranking.
 
-**[Energy Transfer Company News Page](https://hackernoon.com/company/energytransfer)**:
-Founded in 1989, Energy Transfer has 6 employees and is ranked 319119th at Alexa global ranking.
-
 **[Engadget Company News Page](https://hackernoon.com/company/engadget)**:
 Founded in 2004, Engadget has 104 employees and is ranked 637th at Alexa global ranking.
 
 **[Expedia Group Company News Page](https://hackernoon.com/company/expediagroup)**:
 Founded in 1996, Expedia Group has 25400 employees and is ranked 187660th at Alexa global ranking.
-
-**[Exxon Mobil Company News Page](https://hackernoon.com/company/exxonmobil)**:
-Founded in 1999, Exxon Mobil has 74900 employees and is ranked 30282nd at Alexa global ranking.
 
 **[Facebook Company News Page](https://hackernoon.com/company/facebook)**:
 Founded in 2004, Facebook has 10K+ employees and is ranked 3rd at Alexa global ranking.
@@ -157,17 +137,8 @@ Founded in 1935, Fujitsu has 129071 employees and is ranked 6602nd at Alexa glob
 **[Gap Company News Page](https://hackernoon.com/company/gap)**:
 Founded in 1969, Gap has 129000 employees and is ranked 63482nd at Alexa global ranking.
 
-**[General Motors Company News Page](https://hackernoon.com/company/generalmotors)**:
-Founded in 1908, General Motors has 164000 employees and is ranked 11488th at Alexa global ranking.
-
-**[Genuine Parts Company News Page](https://hackernoon.com/company/genuineparts)**:
-Founded in 1928, Genuine Parts has 55000 employees and is ranked 200704th at Alexa global ranking.
-
 **[Google Company News Page](https://hackernoon.com/company/google)**:
 Founded in 1998, Google has 10K+ employees and is ranked 1st at Alexa global ranking.
-
-**[Guardian Life Ins. Co. of America Company News Page](https://hackernoon.com/company/guardianlifeinscoofamerica)**:
-Founded in 1860, Guardian Life Ins. Co. of America has 7501 employees and is ranked 135392nd at Alexa global ranking.
 
 **[Harley-Davidson Company News Page](https://hackernoon.com/company/harley-davidson)**:
 Founded in 1903, Harley-Davidson has 5600 employees and is ranked 12851st at Alexa global ranking.
@@ -181,14 +152,8 @@ Founded in 1901, Houston Chronicle has 31 employees and is ranked 849th at Alexa
 **[HP Company News Page](https://hackernoon.com/company/hp)**:
 Founded in 1977, HP has 10K+ employees and is ranked 326th at Alexa global ranking.
 
-**[Humana Company News Page](https://hackernoon.com/company/humana)**:
-Founded in 1961, Humana has 46000 employees and is ranked 22510th at Alexa global ranking.
-
 **[IBM Company News Page](https://hackernoon.com/company/ibm)**:
 Founded in 1911, IBM has 352600 employees and is ranked 641st at Alexa global ranking.
-
-**[Icahn Enterprises Company News Page](https://hackernoon.com/company/icahnenterprises)**:
-Founded in 1987, Icahn Enterprises has 28033 employees and is ranked 1718474th at Alexa global ranking.
 
 **[Import.io Company News Page](https://hackernoon.com/company/importio)**:
 Founded in 2012, Import.io has 126 employees and is ranked 54346th at Alexa global ranking.
@@ -255,9 +220,6 @@ Founded in 1939, Northrop Grumman has 90000 employees and is ranked 53469th at A
 
 **[NVIDIA Company News Page](https://hackernoon.com/company/nvidia)**:
 Founded in 1993, NVIDIA has 13775 employees and is ranked 958th at Alexa global ranking.
-
-**[NVIDIA CORPORATION Company News Page](https://hackernoon.com/company/nvidiacorporation)**:
-Founded in 1993, NVIDIA CORPORATION has 18100 employees and is ranked 75200th at Alexa global ranking.
 
 **[Oracle Company News Page](https://hackernoon.com/company/oracle)**:
 Founded in 1977, Oracle has 135000 employees and is ranked 375th at Alexa global ranking.
@@ -384,3 +346,5 @@ Founded in 1889, Wall Street Journal has 3001 employees and is ranked 617th at A
 
 **[Walt Disney Company News Page](https://hackernoon.com/company/waltdisney)**:
 Founded in 1923, Walt Disney has 223000 employees and is ranked 51984th at Alexa global ranking.
+
+![xxx](https://media.giphy.com/media/uQ3HwGzcuJGnWqgu7c/giphy-downsized.gif)
