@@ -3,7 +3,7 @@ Hacker Noon is proud to release Tech Company News Page. As the [lead developer o
 
 We now have 913 Tech Company News Pages on Hacker Noon (also check out the first 22 tech company news pages). We want to grow it to tens of thousands more to cover as many businesses as we can. We hope you like them. If you'd like to have us create your company's tech company news page, edit an existing company news page, or publish your company statements with Hacker Noon, please fill out our brief tech company news page form.
 
-![https://hackernoon.com/images/PBoEycZ0BNQiPjcUPomiTNAZVoP2-ndk35x0.png]
+![xxx](https://hackernoon.com/images/PBoEycZ0BNQiPjcUPomiTNAZVoP2-ndk35x0.png]
 https://hackernoon.com/companies
 
 Below you can find a "mostly complete list" of all companies that have their news pages in HackerNoon, sorted alphabetically, with their founding date, employee count and Alexa ranking. Click through to check out the live dynamic page.
