@@ -40,3 +40,4 @@ And Happy Birthday to [David Smooke](https://hackernoon.com/u/David)
 If you add "Hackernoon Contributor" to your Linkedin page - he will be very happy ;)
 
 [NEW IMAGE UPLOADED]
+https://www.google.com/
