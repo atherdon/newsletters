@@ -1,7 +1,3 @@
-# content
-
-[https://hackernoon.com/this-week-on-planet-internet-big-dictator-energy-nn943437](https://hackernoon.com/this-week-on-planet-internet-big-dictator-energy-nn943437)
-
 # This Week on Planet Internet: Big Dictator Energy
 
 ![https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-4g2134hs.jpeg](https://hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-4g2134hs.jpeg)
@@ -37,3 +33,10 @@ ou can also watch the recording on [Hacker Noon's Youtube channe](https://youtu.
 Stay Tuned!
 
 You can read podcast transcript here: [https://hackernoon.com/this-week-on-planet-internet-big-dictator-energy-nn943437](https://hackernoon.com/this-week-on-planet-internet-big-dictator-energy-nn943437)
+
+***
+
+And Happy Birthday to [David Smooke](https://hackernoon.com/u/David)
+If you add "Hackernoon Contributor" to your Linkedin page - he will be very happy ;)
+
+[NEW IMAGE UPLOADED]
