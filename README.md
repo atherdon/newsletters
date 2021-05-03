@@ -43,3 +43,6 @@ Explore later:
 - https://mailchi.mp/technologyreview/sqxnt0dbcd-796310?e=%5bUNIQID
 
 - https://www.linkedin.com/pulse/weekly-recap-jason-calacanis/
+
+
+- https://www.smartrmail.com/blog/email-marketing-frequency-best-practices-2019
