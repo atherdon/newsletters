@@ -33,6 +33,7 @@ module.exports = {
                     "thematic/2021/thematic-january",
                     "thematic/2021/thematic-february",
                     "thematic/2021/thematic-march",
+                    "thematic/2021/thematic-april",
                 ]
             }
         ],
