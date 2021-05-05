@@ -1,0 +1,635 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>DevOps: Anger Management 101</title><style>
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.highlight-default {
+}
+.highlight-gray {
+	color: rgb(155,154,151);
+}
+.highlight-brown {
+	color: rgb(100,71,58);
+}
+.highlight-orange {
+	color: rgb(217,115,13);
+}
+.highlight-yellow {
+	color: rgb(223,171,1);
+}
+.highlight-teal {
+	color: rgb(15,123,108);
+}
+.highlight-blue {
+	color: rgb(11,110,153);
+}
+.highlight-purple {
+	color: rgb(105,64,165);
+}
+.highlight-pink {
+	color: rgb(173,26,114);
+}
+.highlight-red {
+	color: rgb(224,62,62);
+}
+.highlight-gray_background {
+	background: rgb(235,236,237);
+}
+.highlight-brown_background {
+	background: rgb(233,229,227);
+}
+.highlight-orange_background {
+	background: rgb(250,235,221);
+}
+.highlight-yellow_background {
+	background: rgb(251,243,219);
+}
+.highlight-teal_background {
+	background: rgb(221,237,234);
+}
+.highlight-blue_background {
+	background: rgb(221,235,241);
+}
+.highlight-purple_background {
+	background: rgb(234,228,242);
+}
+.highlight-pink_background {
+	background: rgb(244,223,235);
+}
+.highlight-red_background {
+	background: rgb(251,228,228);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(55, 53, 47, 0.6);
+	fill: rgba(55, 53, 47, 0.6);
+}
+.block-color-brown {
+	color: rgb(100,71,58);
+	fill: rgb(100,71,58);
+}
+.block-color-orange {
+	color: rgb(217,115,13);
+	fill: rgb(217,115,13);
+}
+.block-color-yellow {
+	color: rgb(223,171,1);
+	fill: rgb(223,171,1);
+}
+.block-color-teal {
+	color: rgb(15,123,108);
+	fill: rgb(15,123,108);
+}
+.block-color-blue {
+	color: rgb(11,110,153);
+	fill: rgb(11,110,153);
+}
+.block-color-purple {
+	color: rgb(105,64,165);
+	fill: rgb(105,64,165);
+}
+.block-color-pink {
+	color: rgb(173,26,114);
+	fill: rgb(173,26,114);
+}
+.block-color-red {
+	color: rgb(224,62,62);
+	fill: rgb(224,62,62);
+}
+.block-color-gray_background {
+	background: rgb(235,236,237);
+}
+.block-color-brown_background {
+	background: rgb(233,229,227);
+}
+.block-color-orange_background {
+	background: rgb(250,235,221);
+}
+.block-color-yellow_background {
+	background: rgb(251,243,219);
+}
+.block-color-teal_background {
+	background: rgb(221,237,234);
+}
+.block-color-blue_background {
+	background: rgb(221,235,241);
+}
+.block-color-purple_background {
+	background: rgb(234,228,242);
+}
+.block-color-pink_background {
+	background: rgb(244,223,235);
+}
+.block-color-red_background {
+	background: rgb(251,228,228);
+}
+.select-value-color-default { background-color: rgba(206,205,202,0.5); }
+.select-value-color-gray { background-color: rgba(155,154,151, 0.4); }
+.select-value-color-brown { background-color: rgba(140,46,0,0.2); }
+.select-value-color-orange { background-color: rgba(245,93,0,0.2); }
+.select-value-color-yellow { background-color: rgba(233,168,0,0.2); }
+.select-value-color-green { background-color: rgba(0,135,107,0.2); }
+.select-value-color-blue { background-color: rgba(0,120,223,0.2); }
+.select-value-color-purple { background-color: rgba(103,36,222,0.2); }
+.select-value-color-pink { background-color: rgba(221,0,129,0.2); }
+.select-value-color-red { background-color: rgba(255,0,26,0.2); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="7497b943-1a42-4c71-b5b2-e7d4a034800d" class="page sans"><header><h1 class="page-title">DevOps: Anger Management 101</h1></header><div class="page-body"><figure id="0d5e9d2c-0950-45b5-8b9a-2b3d30678b8f" class="image"><a href="https://media.giphy.com/media/87b6lrxvf4uJIL1zl3/giphy.gif"><img style="width:384px" src="https://media.giphy.com/media/87b6lrxvf4uJIL1zl3/giphy.gif"/></a></figure><p id="0d0b0a2e-bdd9-49a1-b4f7-8d6dd7bb66ba" class=""><a href="https://media.giphy.com/media/87b6lrxvf4uJIL1zl3/giphy.gif">https://media.giphy.com/media/87b6lrxvf4uJIL1zl3/giphy.gif</a></p><p id="8d670eac-5632-4bc4-a60f-0187ae5022a9" class="">
+</p><p id="7df568e3-864b-4c82-9ab0-c899c24a0208" class="">So far, we have heard of <strong><a href="https://hackernoon.com/continuous-integration-best-practices-to-follow-mf3c3v2j">Continuous Integration</a></strong><strong>, </strong><strong><a href="https://hackernoon.com/the-importance-of-a-continuous-delivery-culture-6d3b3w0j">Continuous Delivery</a></strong>— even<strong> </strong><strong><a href="https://hackernoon.com/craft-culture-by-celebrating-deployments-pp153y7i">Continuous Deployment</a></strong><strong>.</strong> These processes are steering DevOps forward in a blaze of glory.</p><p id="76a0dd9a-e9d3-4b00-86b2-979b6a8dd254" class="">
+</p><p id="1db2cc40-62b4-46ca-bc39-983cdfe51eb2" class="">However, this industry’s future requires solutions that will make the deployment process even more progressive.</p><h2 id="b8b4a9f7-a41e-4f4c-b644-fe4b9bb8934c" class="">Progressive Delivery</h2><p id="71ff9678-ffef-4538-a8b2-5b225e125adc" class="">For those ‘<em>outside the loop,&#x27;</em> progressive delivery allows you to ship <strong><a href="https://hackernoon.com/how-to-release-your-software-without-losing-your-hair-feature-flags-technique-2b9r3y4m">feature flags</a></strong> in an “off” mode. This way, you can gradually release parts of a new software update, having full control of when to stop or continue.</p><p id="cb9e208b-de8a-475c-8e5c-0366f901fa75" class="">This approach provides an effective and fast way to exert more delicate control over delivery. Also, progressive delivery makes the rollout of new functionality and testing in a production environment attainable <strong>without disrupting the whole system</strong>.</p><p id="424dc119-3b81-4b5c-a2b0-6ebb3e43b695" class="">
+</p><figure id="bac01088-b050-4735-bb05-4fedf4888f3c" class="image"><a href="https://media.giphy.com/media/l2Sq5GffrCyUMEXjW/giphy.gif"><img style="width:288px" src="https://media.giphy.com/media/l2Sq5GffrCyUMEXjW/giphy.gif"/></a></figure><p id="db578329-0381-44da-b9e1-5b3bc0a2bf70" class=""><a href="https://media.giphy.com/media/l2Sq5GffrCyUMEXjW/giphy.gif">https://media.giphy.com/media/l2Sq5GffrCyUMEXjW/giphy.gif</a></p><h2 id="9112b584-380f-4b2c-900a-748d49a71cb9" class="">Progressive Delivery in Development</h2><p id="26cfca0d-0a74-4bc0-afc0-a1700701d304" class="">The progressive delivery exercise can’t be tested on a whim. It comes complete with a set of practices fit for an application development environment. Below are the major pillars of progressive delivery.</p><h3 id="fc028054-b503-4fea-ac4d-a381821c9f60" class="">Canary in the Coal Mine</h3><p id="ce93a577-a75f-49e1-bf09-45daa4bd04f7" class="">You didn’t think we’re talking about caged birds here, did you? This is just an origin phrase for canary testing.</p><p id="eb14ce04-0a5d-4b2d-9b35-da6e28397321" class="">Unlike the gruesome mining tradition, canary testing helps developers <strong>quickly detect and resolve any issue</strong> with new software <em><strong>before</strong></em> it degrades the user experience.</p><p id="868b7618-26cc-4ce1-8aaa-c55b6f676747" class="">Once a new release is ready, it gets deployed to one of the <em>two identical environments</em>. The main purpose is to route a small percentage of users to this canary release. This way, <em>only a small number of users get impacted if any bug is rolled out.</em></p><p id="f46fdc9d-0570-4925-a656-1a9105bd9bd2" class="">
+</p><figure id="550a1f79-a3c5-45a6-b29c-ef123af2e372" class="image"><a href="https://media.giphy.com/media/3o6MbbHWIbZvWrEygE/giphy.gif"><img style="width:336px" src="https://media.giphy.com/media/3o6MbbHWIbZvWrEygE/giphy.gif"/></a></figure><p id="531a88fc-0e48-4c7c-8602-324edb081846" class="">
+</p><h3 id="2690d180-57f6-459a-860f-850b2449edf9" class="">Blue-Green Deployment</h3><p id="f49598ad-206b-49d5-8993-b329c1e83b9c" class="">In the DevOps universe, <strong><a href="https://hackernoon.com/serverless-stack-ci-cd-blue-green-deployments-a6de63142094">blue-green deployment</a></strong> is a magic technique that helps release bug-free software while decreasing application downtime and rolling out updates as needed.</p><p id="beec5a4e-9ee7-4c89-b1c6-80b0e2a3643f" class="">It is done by transferring user traffic from an old app version to an almost identical new release in <em>two production environments.</em></p><h3 id="e5b5783a-cfbb-43b8-9ffe-745883061a7f" class="">A/B Testing</h3><p id="6e11c6a9-2fad-4c34-80e3-989028813c1f" class="">With <a href="https://hackernoon.com/ai-as-complement-to-a-b-test-design-e8f4b5e28d92">split testing</a>, we can put ourselves in charge and make decisions based on accurate data about how users actually behave when they interact with your product.</p><p id="90db7736-0684-4d07-86df-3a0e74630fcd" class="">Essentially, it’s about running a simultaneous experiment between two or more variants of a page to see which scores higher.</p><p id="045caaae-5c65-49fb-b35c-d94f6955139c" class="">Other building blocks of progressive delivery include the famous <em>feature flagging technique, the power of observability, and the art of chaos engineering</em>. These joined forces pave the way for pushing changes to a product iteratively, introducing progressive and controlled delivery.</p><h2 id="cbb23cb9-8a9c-433f-a4c1-87a60b2b8a10" class="">The Future of Software Development?</h2><p id="b2fb8709-8706-4daf-b7fa-dc0b8ed03f5b" class="">In general, Progressive Delivery can be coined as a practice bridging the gap between user’s and developer’s experience. It comes in as the next step after the CI/CD methodology, as a modified version of continuous delivery.</p><p id="fd9bb41e-7510-48b3-980d-152cc582696c" class=""><strong><a href="https://hackernoon.com/are-you-crazy-to-usability-test-in-production-heres-how-to-do-it-6b171283d640">Feature toggles</a></strong> are already setting the stage for innovative <strong><a href="https://hackernoon.com/how-ai-powered-software-development-is-influencing-pet-tech-8s2d33bv">software development</a></strong> and delivery practices with supreme support and control. It seems like the bright future of controlled delivery is just around the corner.</p><p id="ebf87fb8-57ea-4e82-a5ae-d27c4aca9035" class="">
+</p><figure id="dc66ded5-f5c0-4210-9f0d-be7c5652f53c" class="image"><a href="https://media.giphy.com/media/3owvKdSecsPWrDDjIQ/giphy.gif"><img style="width:336px" src="https://media.giphy.com/media/3owvKdSecsPWrDDjIQ/giphy.gif"/></a></figure><p id="e7b75148-474a-407c-becb-1fd7f4ddb04c" class="">
+</p><p id="60aebe48-5fa7-4233-96e2-0c6d5d991cb8" class="">
+</p><p id="bc4b16ac-a179-4b71-b549-e2672db71531" class=""><em>Join us today to thank our newsletter sponsor, LaunchDarkly. LaunchDarkly is the #1 platform for managing Feature Flags. Feature Flagging is an industry best practice that allows for the faster and smarter deployment of code. This makes life easier — and less frustrating —for both an application’s users and developers. With the ability to strategically control the internal process of releases, your team can be confident with deploying new features.</em></p><p id="c5c311ee-c3aa-4959-9973-af9aa6f08a84" class="">***</p><p id="8fa2f309-ffef-4b20-b70a-d93f77083795" class=""><a href="https://hackernoon.com/signup"><span style="border-bottom:0.05em solid"><strong>Got a tech story to share with our readers?</strong></span></a> Everything you&#x27;ve ever wanted to know about how to get published on Hacker Noon -<a href="https://www.publish.hackernoon.com/"><span style="border-bottom:0.05em solid"><strong> get it here</strong></span></a></p></div></article></body></html>
