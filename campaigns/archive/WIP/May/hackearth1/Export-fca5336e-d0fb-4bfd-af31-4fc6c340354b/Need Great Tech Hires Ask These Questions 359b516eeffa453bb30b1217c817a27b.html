@@ -1,0 +1,638 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Need Great Tech Hires? Ask These Questions</title><style>
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.highlight-default {
+}
+.highlight-gray {
+	color: rgb(155,154,151);
+}
+.highlight-brown {
+	color: rgb(100,71,58);
+}
+.highlight-orange {
+	color: rgb(217,115,13);
+}
+.highlight-yellow {
+	color: rgb(223,171,1);
+}
+.highlight-teal {
+	color: rgb(15,123,108);
+}
+.highlight-blue {
+	color: rgb(11,110,153);
+}
+.highlight-purple {
+	color: rgb(105,64,165);
+}
+.highlight-pink {
+	color: rgb(173,26,114);
+}
+.highlight-red {
+	color: rgb(224,62,62);
+}
+.highlight-gray_background {
+	background: rgb(235,236,237);
+}
+.highlight-brown_background {
+	background: rgb(233,229,227);
+}
+.highlight-orange_background {
+	background: rgb(250,235,221);
+}
+.highlight-yellow_background {
+	background: rgb(251,243,219);
+}
+.highlight-teal_background {
+	background: rgb(221,237,234);
+}
+.highlight-blue_background {
+	background: rgb(221,235,241);
+}
+.highlight-purple_background {
+	background: rgb(234,228,242);
+}
+.highlight-pink_background {
+	background: rgb(244,223,235);
+}
+.highlight-red_background {
+	background: rgb(251,228,228);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(55, 53, 47, 0.6);
+	fill: rgba(55, 53, 47, 0.6);
+}
+.block-color-brown {
+	color: rgb(100,71,58);
+	fill: rgb(100,71,58);
+}
+.block-color-orange {
+	color: rgb(217,115,13);
+	fill: rgb(217,115,13);
+}
+.block-color-yellow {
+	color: rgb(223,171,1);
+	fill: rgb(223,171,1);
+}
+.block-color-teal {
+	color: rgb(15,123,108);
+	fill: rgb(15,123,108);
+}
+.block-color-blue {
+	color: rgb(11,110,153);
+	fill: rgb(11,110,153);
+}
+.block-color-purple {
+	color: rgb(105,64,165);
+	fill: rgb(105,64,165);
+}
+.block-color-pink {
+	color: rgb(173,26,114);
+	fill: rgb(173,26,114);
+}
+.block-color-red {
+	color: rgb(224,62,62);
+	fill: rgb(224,62,62);
+}
+.block-color-gray_background {
+	background: rgb(235,236,237);
+}
+.block-color-brown_background {
+	background: rgb(233,229,227);
+}
+.block-color-orange_background {
+	background: rgb(250,235,221);
+}
+.block-color-yellow_background {
+	background: rgb(251,243,219);
+}
+.block-color-teal_background {
+	background: rgb(221,237,234);
+}
+.block-color-blue_background {
+	background: rgb(221,235,241);
+}
+.block-color-purple_background {
+	background: rgb(234,228,242);
+}
+.block-color-pink_background {
+	background: rgb(244,223,235);
+}
+.block-color-red_background {
+	background: rgb(251,228,228);
+}
+.select-value-color-default { background-color: rgba(206,205,202,0.5); }
+.select-value-color-gray { background-color: rgba(155,154,151, 0.4); }
+.select-value-color-brown { background-color: rgba(140,46,0,0.2); }
+.select-value-color-orange { background-color: rgba(245,93,0,0.2); }
+.select-value-color-yellow { background-color: rgba(233,168,0,0.2); }
+.select-value-color-green { background-color: rgba(0,135,107,0.2); }
+.select-value-color-blue { background-color: rgba(0,120,223,0.2); }
+.select-value-color-purple { background-color: rgba(103,36,222,0.2); }
+.select-value-color-pink { background-color: rgba(221,0,129,0.2); }
+.select-value-color-red { background-color: rgba(255,0,26,0.2); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="359b516e-effa-453b-b30b-1217c817a27b" class="page sans"><header><h1 class="page-title">Need Great Tech Hires? Ask These Questions</h1></header><div class="page-body"><figure id="82843896-844b-40ca-b11d-c610e3cedea3" class="image"><a href="https://media.giphy.com/media/h5hamoGRs06pW/giphy.gif"><img style="width:336px" src="https://media.giphy.com/media/h5hamoGRs06pW/giphy.gif"/></a></figure><p id="3b04e4ed-e2ad-4f89-8be4-3d4a30b5aa71" class=""><a href="https://media.giphy.com/media/h5hamoGRs06pW/giphy.gif">https://media.giphy.com/media/h5hamoGRs06pW/giphy.gif</a></p><p id="dea918e8-a1a0-46b1-8cf9-33e833949c3f" class="">
+</p><p id="28677c73-197f-4d16-b752-12aa85250ae2" class="">Would Julius Caesar make a great software engineer? It’s theoretically possible.</p><p id="c8cd39a3-e9ad-4468-999c-d452eb1ba879" class="">He was a successful general, which allowed him to transform Rome from a republic to an empire. So we can assume that Caesar wouldn’t have had any problems with either leadership skills or creativity. <em>However</em>, the <a href="https://hackernoon.com/implementing-typestate-pattern-in-python-4u3d34pi"><span style="border-bottom:0.05em solid"><strong>high-level technical know-how</strong></span></a> probably wouldn’t have been his forte and that&#x27;s a <strong>huge error</strong>.</p><p id="b7374057-f6a1-4030-8be8-6e2f333729ef" class="">
+</p><p id="42648706-9773-4815-a7fe-9c152115a873" class="">Modern interviewers prefer to grill candidates assessing a diverse set of skills – soft and strategic. The thing is that those elusive questions on their own won’t help them land the right candidate for the <a href="https://hackernoon.com/the-tech-industry-is-a-balancing-act-between-two-value-systems-cash-and-humanity-2d24367q"><span style="border-bottom:0.05em solid"><strong>tech industry</strong></span></a>.</p><p id="8e03670c-52c9-4cae-9015-82bb9bbd5713" class="">
+</p><p id="149353f7-b637-4c4a-bc08-b467129c73d1" class="">There are heaps of guides about how to ace the interview as an interviewee, but few dwell on the <em>other line of questioning</em> in the interviewing process. Let us share our take on how to conduct <a href="https://hackernoon.com/5-lessons-learned-from-hiring-engineers-heres-what-talent-managers-are-doing-wrong-ep1u33u9"><span style="border-bottom:0.05em solid"><strong>tech interviews</strong></span></a>.</p><h2 id="468e2bee-a30a-4d0e-b526-f8cb36a2f8b9" class=""><strong>Conduct Fewer Interviews</strong></h2><p id="a5766be0-fae9-49cf-8b06-4aaeb12beabd" class="">
+</p><p id="34a90b1e-9bfe-491a-b346-da94896037d2" class="">This may sound counterproductive, but more interviews do not lead to more hires. In reality, there is an inverse relationship between the two.</p><p id="3e051218-5a42-49f8-825b-c709abd9ed19" class="">
+</p><p id="92fc71a0-9d10-4510-aa3e-e9f4ee89db37" class="">The limited number of potential candidates allows you to focus on viable interviewees and not to fritter away time on come-and-go applicants. Therefore, it’s essential to preselect candidates before an onsite interview by making use of <a href="https://hackernoon.com/understand-data-analytics-framework-using-an-example-from-general-electric-company-2ya53579"><span style="border-bottom:0.05em solid"><strong>data</strong></span></a> and <a href="https://hackernoon.com/the-future-of-business-process-automation-u34o34n9"><span style="border-bottom:0.05em solid"><strong>automation</strong></span></a>.</p><h2 id="1c3610be-ceb5-486f-bd67-96651d1aae47" class=""><strong>Ask Questions Based on Reality</strong></h2><p id="70f9a000-6c12-4f3a-a1e5-b6cfbde92741" class="">
+</p><p id="851bbe17-58ab-4962-914a-801d53fd95b9" class="">You can unfold the job audition with basic questions to look into the personality and general qualifications. But don’t forget to test the candidate’s ability in an environment similar to the one they&#x27;d be working in.</p><p id="196df214-ee90-42fb-86d8-3e94f74019a5" class="">
+</p><p id="2bb59696-9d51-4534-a0ab-baee441adaae" class="">Focus on more relevant skills that make the difference for their day-to-day job. This might include small challenges like practicing <a href="https://hackernoon.com/what-is-sql-and-where-is-it-used-0c19355b"><span style="border-bottom:0.05em solid"><strong>SQL</strong></span></a> join queries on dummy tables or writing some kind of query. Keep it succinct and to the point.</p><p id="2d045e6c-5fb7-4d1f-97aa-c73b29153216" class="">
+</p><figure id="74c7c6cc-b7f5-45c2-8b4b-2e539518287e" class="image"><a href="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"><img style="width:288px" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"/></a></figure><p id="47055574-f265-4ab6-a115-c8e7760364da" class=""><a href="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif">https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif</a></p><p id="b5f9282a-8adf-43f4-81b1-46f6d9ce771d" class="">
+</p><h2 id="58be170f-44ef-4fb6-8cd7-c6763d08c025" class=""><strong>Stay with Formula</strong></h2><p id="f4d4f5c1-183c-4dc7-8d39-bde459a92b83" class="">It’s super important to keep the whole interviewing process standardized. If you’re bombarding all developers with different questions and tasks, there’s no way you’ll get a fair comparison. We all know that falling back on biases doesn’t bode well for business.</p><p id="c66226d8-5136-4a37-9be2-a721b93fafcc" class="">To avoid straying away from the formula,  craft a unified set of technical questions and a test. If you have some difficulty developing those on your own, make use of tech comforts like <a href="https://www.hackerearth.com/recruit/facecode/"><span style="border-bottom:0.05em solid"><em><strong>Facecode</strong></em></span></a><a href="https://www.hackerearth.com/recruit/facecode/"><span style="border-bottom:0.05em solid"><strong>.</strong></span></a> This platform offers a ready-made set of 300+ questions and a real-time code editor. You’ll thank us later.</p><figure id="b9f60720-b924-42f0-95a3-023507893ac7" class="image"><a href="https://media.giphy.com/media/ne3xrYlWtQFtC/giphy.gif"><img style="width:480px" src="https://media.giphy.com/media/ne3xrYlWtQFtC/giphy.gif"/></a></figure><p id="6925369f-6fdf-4ffd-b9e6-12cf32731f6d" class=""><a href="https://media.giphy.com/media/ne3xrYlWtQFtC/giphy.gif">https://media.giphy.com/media/ne3xrYlWtQFtC/giphy.gif</a></p><h2 id="3f10b648-1688-4e62-8b46-c437306a4e09" class=""><strong>Sell the Job</strong></h2><p id="933926a9-528d-41d7-bd8e-25c71edd0a30" class="">Surprise – an interview is a two-way street. There was never a story of more woe than an ideal candidate getting away.</p><p id="ef1b9310-7fd6-4ba7-8b7d-7acd34c3adc9" class="">In this case, you should act like a salesman advertising your company&#x27;s advantages. Benefits, compensation, culture, type of work, amount of work, and even location can all be the decisive factors that will tip the scales in your favor.</p><h2 id="fcb5700b-705f-4dab-a304-ee91a29d8320" class=""><strong>Google Docs for Interview Happiness?</strong></h2><p id="c8f45c54-09d0-417d-8472-2931ef9ed660" class=""><em>Doubtful.</em></p><p id="664721b8-b142-47d5-8ef2-c96f1c3bd7e4" class="">Although using Google Docs is a common practice to assess technical abilities remotely, this approach reduces employer brand and frustrates candidates.</p><p id="b386700d-ae44-422e-adbd-a20d86a5c761" class="">Instead of sending a link to a document, conduct the interview on a <strong>real-time code editor</strong>. This will add to the attractiveness of your company.</p><h2 id="fa181f80-a84d-4b7f-8da2-222110316e6f" class=""><strong>Tools for Successful Hiring</strong></h2><p id="a3930ea1-db66-4a8b-ad1e-1cea9015565f" class="">Let’s say you’re an interviewer. Your interview is about to begin but then you realize that the interviewing equipment is missing or Google Drive and Docs are down.</p><p id="0151f637-3e7f-4145-ab69-b3e7b9439ecf" class="">To avoid such mishaps, use a well-rounded interview tool. Not only does it make the whole process easier and hassle-free, but it also helps with well-informed hiring decisions.</p><h2 id="7ff1d7f3-2b6d-4143-afe7-b199b95af509" class=""><strong>Choose </strong><a href="https://hackernoon.com/interview-with-the-ai-hyr2gme"><span style="border-bottom:0.05em solid"><strong>Interview AI</strong></span></a></h2><p id="f93ca482-876e-4dfd-b408-dad8f16097d2" class="">The technical interview is different from any other job interview. It is a rigorous process that determines the candidate’s programming skills, high-level thinking, and personality.</p><p id="8c142fd3-6e64-496b-af1b-9b97873204f1" class="">To hire the best people and ease the strain, you might need a powerful interviewing solution. Let tech test tech.</p><p id="830bd1a3-7208-4b73-bfe9-9375f637af76" class="">
+</p><figure id="942ce8e4-ffb4-48f8-9d5a-2cad7931272d" class="image"><a href="https://media.giphy.com/media/NTjtzGol8B5WuYUfwP/giphy.gif"><img style="width:480px" src="https://media.giphy.com/media/NTjtzGol8B5WuYUfwP/giphy.gif"/></a></figure><p id="396ab4ef-0753-48c9-9bb9-3493f75520b3" class=""><a href="https://media.giphy.com/media/NTjtzGol8B5WuYUfwP/giphy.gif">https://media.giphy.com/media/NTjtzGol8B5WuYUfwP/giphy.gif</a></p><p id="31a8b600-7c86-45e2-8f98-cfd670c85d32" class="">
+</p><p id="5bae84a2-3ac0-4bc6-9120-e18074a36e8c" class=""><em>Join us today to thank our newsletter sponsor, HackerEarth. HackerEarth matches great developers with world-class companies. HackerEarth provides software solutions such as coding assessment testing, video interviewing — as well as candidate accumulation services through contests, and coding classes— so that organizations can meet their tech-hire needs efficiently.  Conduct your tech interviews in the best way with HackerEarth in order to find the right tech talent for your company.</em></p><p id="96d26df6-a2f4-4be1-8940-1b6e0832fb18" class="">***</p><p id="edfeb600-7fe3-437b-b086-81c30d41e17a" class=""><a href="https://hackernoon.com/signup"><span style="border-bottom:0.05em solid"><strong>Got a tech story to share with our readers?</strong></span></a> Everything you&#x27;ve ever wanted to know about how to get published on Hacker Noon -<a href="https://www.publish.hackernoon.com/"><span style="border-bottom:0.05em solid"><strong> get it here</strong></span></a></p></div></article></body></html>
