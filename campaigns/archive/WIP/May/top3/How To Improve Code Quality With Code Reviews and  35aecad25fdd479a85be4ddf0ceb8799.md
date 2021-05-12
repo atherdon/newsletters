@@ -1,6 +1,3 @@
-# How To Improve Code Quality With Code Reviews and Refactoring
-
-[https://hackernoon.com/how-to-improve-code-quality-with-code-reviews-and-refactoring-bc5135mp](https://hackernoon.com/how-to-improve-code-quality-with-code-reviews-and-refactoring-bc5135mp)
 
 # How To Improve Code Quality With Code Reviews and Refactoring
 
@@ -18,12 +15,12 @@ Code quality refers to the attributes and characteristics of your code. These ma
 
 **Markers of good code:**
 
-- Clean, Consistent, Functional, or Useful—the code should do what it says it will do
-- Easy to understand for users, not just its author
-- Efficient—good code is succinct
-- Testable—good code should be tested to be free of bugs or defects
-- Easy to maintain Easy to build upon, reuse or replicate in the future
-- Well documented—well written and adheres to agreed-upon standards or a style guide
+* Clean, Consistent, Functional, or Useful—the code should do what it says it will do
+* Easy to understand for users, not just its author
+* Efficient—good code is succinct
+* Testable—good code should be tested to be free of bugs or defects
+* Easy to maintain Easy to build upon, reuse or replicate in the future
+* Well documented—well written and adheres to agreed-upon standards or a style guide
 
 ![How%20To%20Improve%20Code%20Quality%20With%20Code%20Reviews%20and%20%2035aecad25fdd479a85be4ddf0ceb8799/Untitled%201.png](How%20To%20Improve%20Code%20Quality%20With%20Code%20Reviews%20and%20%2035aecad25fdd479a85be4ddf0ceb8799/Untitled%201.png)
 
@@ -39,14 +36,14 @@ Notably, all of these markers may mean different things to different people or t
 
 Find more similar stories: 
 
-- **[#programming](https://hackernoon.com/tagged/programming)**
-- **[#code-quality](https://hackernoon.com/tagged/code-quality)**
-- **[#software-engineering](https://hackernoon.com/tagged/software-engineering)**
-- **[#technical-debt](https://hackernoon.com/tagged/technical-debt)**
-- **[#refactoring](https://hackernoon.com/tagged/refactoring)**
-- **[#legacy-code](https://hackernoon.com/tagged/legacy-code)**
-- **[#software-development](https://hackernoon.com/tagged/software-development)**
-- **[#developer-tools](https://hackernoon.com/tagged/developer-tools)**
+* **[#programming](https://hackernoon.com/tagged/programming)**
+* **[#code-quality](https://hackernoon.com/tagged/code-quality)**
+* **[#software-engineering](https://hackernoon.com/tagged/software-engineering)**
+* **[#technical-debt](https://hackernoon.com/tagged/technical-debt)**
+* **[#refactoring](https://hackernoon.com/tagged/refactoring)**
+* **[#legacy-code](https://hackernoon.com/tagged/legacy-code)**
+* **[#software-development](https://hackernoon.com/tagged/software-development)**
+* **[#developer-tools](https://hackernoon.com/tagged/developer-tools)**
 
 ## **Ready to Claim Your Domain on Hacker Noon?**
 
