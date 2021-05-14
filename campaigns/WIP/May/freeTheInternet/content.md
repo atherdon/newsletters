@@ -1,27 +1,10 @@
-<!-- Output copied to clipboard! -->
 
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
+# How to Remove Paywalled Stories From Google Search Results
 
-Conversion time: 0.372 seconds.
+![xxx](https://hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-1h3936nh.jpeg)
+http://freeinternetplugin.com/?ref=hackernoon.com
 
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Fri May 14 2021 06:13:01 GMT-0700 (PDT)
-* Source doc: Free Internet Plugin Press Release
------>
-
-
-HackerNoon Launches The Free Internet Plugin, an Open Source Project to Remove Paywalls From Google Search
+### HackerNoon Launches The Free Internet Plugin, an Open Source Project to Remove Paywalls From Google Search
 
 _This Google Chrome Extension is now available and looking for open source contributors to help build a free and open internet. _
 
@@ -39,6 +22,3 @@ According to [How I Hacked My Brain To Trigger My Most Productive Coding Stint E
 
 A free Internet is a better Internet. The Free Internet Plugin removes known paywalls from your search results.  It’s open sourced on HackerNoon’s Github.  
 
-[About Hacker Noon](about.hackernoon.com)
-
-How hackers start their afternoons. Hacker Noon is built for technologists to read, write, and publish. We are an open and international community of 15k+ contributing writers publishing stories and expertise for 3M+ curious and insightful monthly readers. Founded in 2016, Hacker Noon is an independent technology publishing platform run by David Smooke and Linh Dao Smooke. “Write anywhere, [publish on HackerNoon.](publish.hackernoon.com)
