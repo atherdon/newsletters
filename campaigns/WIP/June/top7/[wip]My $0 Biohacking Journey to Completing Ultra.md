@@ -1,6 +1,3 @@
-# [wip]My $0 Biohacking Journey to Completing Ultra-Marathons
-
-[https://hackernoon.com/my-dollar0-biohacking-journey-to-completing-ultra-marathons-8i2o34ka](https://hackernoon.com/my-dollar0-biohacking-journey-to-completing-ultra-marathons-8i2o34ka)
 
 # My $0 Biohacking Journey to Completing Ultra-Marathons
 
