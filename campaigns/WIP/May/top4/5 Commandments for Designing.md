@@ -1,6 +1,3 @@
-# 5 Commandments for Designing Award-Winning Hardware Products
-
-[https://hackernoon.com/5-commandments-for-designing-award-winning-hardware-products-coem34jm](https://hackernoon.com/5-commandments-for-designing-award-winning-hardware-products-coem34jm)
 
 # 5 Commandments for Designing Award-Winning Hardware Products
 
