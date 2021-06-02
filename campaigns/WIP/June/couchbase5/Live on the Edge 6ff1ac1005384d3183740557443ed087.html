@@ -1,0 +1,635 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Live on the Edge</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.highlight-default {
+}
+.highlight-gray {
+	color: rgb(155,154,151);
+}
+.highlight-brown {
+	color: rgb(100,71,58);
+}
+.highlight-orange {
+	color: rgb(217,115,13);
+}
+.highlight-yellow {
+	color: rgb(223,171,1);
+}
+.highlight-teal {
+	color: rgb(15,123,108);
+}
+.highlight-blue {
+	color: rgb(11,110,153);
+}
+.highlight-purple {
+	color: rgb(105,64,165);
+}
+.highlight-pink {
+	color: rgb(173,26,114);
+}
+.highlight-red {
+	color: rgb(224,62,62);
+}
+.highlight-gray_background {
+	background: rgb(235,236,237);
+}
+.highlight-brown_background {
+	background: rgb(233,229,227);
+}
+.highlight-orange_background {
+	background: rgb(250,235,221);
+}
+.highlight-yellow_background {
+	background: rgb(251,243,219);
+}
+.highlight-teal_background {
+	background: rgb(221,237,234);
+}
+.highlight-blue_background {
+	background: rgb(221,235,241);
+}
+.highlight-purple_background {
+	background: rgb(234,228,242);
+}
+.highlight-pink_background {
+	background: rgb(244,223,235);
+}
+.highlight-red_background {
+	background: rgb(251,228,228);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(55, 53, 47, 0.6);
+	fill: rgba(55, 53, 47, 0.6);
+}
+.block-color-brown {
+	color: rgb(100,71,58);
+	fill: rgb(100,71,58);
+}
+.block-color-orange {
+	color: rgb(217,115,13);
+	fill: rgb(217,115,13);
+}
+.block-color-yellow {
+	color: rgb(223,171,1);
+	fill: rgb(223,171,1);
+}
+.block-color-teal {
+	color: rgb(15,123,108);
+	fill: rgb(15,123,108);
+}
+.block-color-blue {
+	color: rgb(11,110,153);
+	fill: rgb(11,110,153);
+}
+.block-color-purple {
+	color: rgb(105,64,165);
+	fill: rgb(105,64,165);
+}
+.block-color-pink {
+	color: rgb(173,26,114);
+	fill: rgb(173,26,114);
+}
+.block-color-red {
+	color: rgb(224,62,62);
+	fill: rgb(224,62,62);
+}
+.block-color-gray_background {
+	background: rgb(235,236,237);
+}
+.block-color-brown_background {
+	background: rgb(233,229,227);
+}
+.block-color-orange_background {
+	background: rgb(250,235,221);
+}
+.block-color-yellow_background {
+	background: rgb(251,243,219);
+}
+.block-color-teal_background {
+	background: rgb(221,237,234);
+}
+.block-color-blue_background {
+	background: rgb(221,235,241);
+}
+.block-color-purple_background {
+	background: rgb(234,228,242);
+}
+.block-color-pink_background {
+	background: rgb(244,223,235);
+}
+.block-color-red_background {
+	background: rgb(251,228,228);
+}
+.select-value-color-default { background-color: rgba(206,205,202,0.5); }
+.select-value-color-gray { background-color: rgba(155,154,151, 0.4); }
+.select-value-color-brown { background-color: rgba(140,46,0,0.2); }
+.select-value-color-orange { background-color: rgba(245,93,0,0.2); }
+.select-value-color-yellow { background-color: rgba(233,168,0,0.2); }
+.select-value-color-green { background-color: rgba(0,135,107,0.2); }
+.select-value-color-blue { background-color: rgba(0,120,223,0.2); }
+.select-value-color-purple { background-color: rgba(103,36,222,0.2); }
+.select-value-color-pink { background-color: rgba(221,0,129,0.2); }
+.select-value-color-red { background-color: rgba(255,0,26,0.2); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="6ff1ac10-0538-4d31-8374-0557443ed087" class="page sans"><header><h1 class="page-title">Live on the Edge</h1></header><div class="page-body"><p id="2a93aaa3-83b1-489a-a2f4-35efe789f68a" class="">&#x27;Edge&#x27; is a buzzword.</p><p id="91be1bac-8848-47db-955f-f357631d2882" class="">You’ll probably see it flashing like a neon sign in every corner of the Internet.</p><p id="8d4cc8e2-8a13-4ca2-9249-be123494f8eb" class="">But this time, its irritating omnipresence is justified, because we are discussing the value of<a href="https://hackernoon.com/how-iot-and-edge-computing-influence-various-industries-kp193442"> </a><a href="https://hackernoon.com/how-iot-and-edge-computing-influence-various-industries-kp193442"><strong>edge computing</strong></a>.</p><p id="20e074ed-ae0b-46a0-af5e-7347b4bf9d79" class="">This new kid on the block has already gained the perception of being the cause of faster, cheaper, and more reliable <strong><a href="https://hackernoon.com/ingestion-and-processing-of-data-for-big-data-and-iot-solutions-659431e37b52">data processing.</a></strong></p><p id="c6d38b30-0d42-40cf-b1c9-6b18eebfca1b" class="">
+</p><figure id="b4a40a8f-521f-4d04-a366-e2fd5b137d6c" class="image"><a href="https://media.giphy.com/media/Tfj2jvOFJEFHKj9p9o/giphy.gif"><img style="width:336px" src="https://media.giphy.com/media/Tfj2jvOFJEFHKj9p9o/giphy.gif"/></a></figure><p id="66de8af1-c08b-4d70-8178-f1437a213f60" class=""><a href="https://media.giphy.com/media/Tfj2jvOFJEFHKj9p9o/giphy.gif">https://media.giphy.com/media/Tfj2jvOFJEFHKj9p9o/giphy.gif</a></p><p id="abb9f759-86ce-4584-acf1-ea983b326ca3" class="">
+</p><h2 id="f1d1e5d8-aa05-4cea-a0f9-916c08ad1a0a" class=""><strong>So, who’s on the Edge?</strong></h2><p id="d7f20d0b-5614-4bc1-abb4-d48eac7ee892" class="">It seems like only yesterday cloud computing entered the mainstream. Even before we consumed YouTube videos, <a href="https://hackernoon.com/tagged/hackernoon-podcast"><strong>podcasts</strong></a>, and articles on that topic, a new player had stepped onto the court.</p><p id="72d92d61-07c9-4f7b-9b83-66beff5ec0c4" class="">
+</p><figure id="f7c20b14-3832-452b-91c3-3144bb16313e" class="image"><a href="https://media.giphy.com/media/1uLQUtPLbJMQ0/giphy.gif"><img style="width:288px" src="https://media.giphy.com/media/1uLQUtPLbJMQ0/giphy.gif"/></a></figure><p id="1882549c-7e6e-4db7-9004-dc329b6305a6" class=""><a href="https://media.giphy.com/media/1uLQUtPLbJMQ0/giphy.gif">https://media.giphy.com/media/1uLQUtPLbJMQ0/giphy.gif</a></p><p id="2a8ab257-e4cd-4ae3-8d6c-7438fd297176" class="">Edge computing may appear avant-garde or revolutionary, but in fact, you must have seen it at least once in your life. Its principle is seen across modern devices and point-to-point computing technologies, including smartphones, tablets, sensors,<a href="https://hackernoon.com/the-rise-of-robots-insights-into-the-global-robotics-market-374g3u2q"> </a><a href="https://hackernoon.com/the-rise-of-robots-insights-into-the-global-robotics-market-374g3u2q"><strong>robotics</strong></a>, and automated lines.</p><p id="4cb550ac-693a-4649-b852-6bb35aa08c94" class="">In simple words, edge computing increases the efficiency of a <a href="https://hackernoon.com/cloud-computing-explained-what-is-serverless-sql-and-why-should-you-care-5y3t33z5"><strong>distributed computing</strong></a><strong> </strong>framework. Its primary goal is to bring data and computing closer to the applications that consume it - all that thanks to co-located servers.</p><h2 id="7f422bb2-7a9a-4544-b59c-3be040f858fd" class="">Why Step Closer to the Edge?</h2><p id="35f4df49-5b15-48df-9bac-e07c44cdc16e" class="">Data is the lifeblood of any application and any business venture. Sometimes fast data processing is a luxury. Other times, fast data processing is a factor in decision-making for businesses and customers alike.</p><p id="75af9909-3c7f-46d9-9ebe-c143de163210" class="">By relocating data processing functions closer to the network edge, you’ll get your share of key-value points. In most cases, these refer to supreme reliability and resilience.</p><p id="6d2565ed-d923-4680-b0e5-e7f49bd1f193" class="">It also means that you can increase the guarantees of business uptime by providing uninterrupted access to data, regardless of the Internet.</p><p id="c8d038fb-02cb-43b5-b667-90a8c86dd982" class="">Furthermore, being able to withstand those inevitable connection issues can help you ensure better application performance and provide a better <a href="https://hackernoon.com/improving-user-experience-and-growing-leads-by-building-forms-properly-tmw3482"><strong>user experience</strong></a><strong>.</strong></p><h2 id="f2dcdd2c-2f86-4260-85b9-1992b01e247d" class="">The Key is Connectivity</h2><p id="71b2a2eb-fa9f-49a6-a8cd-afe21b97d3da" class="">Remember the famous 2-hour register outage at Target in 2019? The downtime of their system resulted in a $50 million hit and customer backlash - all because of the register glitch.</p><p id="3480ed30-6a44-4d7e-a8eb-888de3c31fe2" class="">If it were present, edge computing may have helped to avoid this situation, due to having embedded storage directly on applicable devices. It can also move data prep and processing storage closer to the applications thus, leveraging tiered edge data centers.</p><p id="652a067c-8ef4-4417-8688-99afb412096a" class="">Tiering is what insulates applications from central and regional data center outages. With each tier—leveraging successively— there becomes more local connectivity. It synchronizes data within and across the tiers, or as conductivity permits.</p><p id="d4e1be31-9e76-4ff2-afaf-8e00ab55b616" class="">Imagine if all of the stores at Target had a <a href="https://hackernoon.com/the-day-your-laptop-became-a-micro-datacenter-97ba62c9e862"><strong>micro data center</strong></a><strong> </strong>running in each store. They could have easily avoided the complete shutdown and continued to process certain transactions despite the main data center outage.</p><h2 id="c73f1670-596d-4374-b871-e78054e452d3" class=""><strong>The Next Big Thing?</strong></h2><p id="02562bd9-218a-4b74-ba83-c4244c19e0b7" class="">Often touted as the ‘third act of the Internet,’ edge computing is also being hailed as a “gold rush” break for fledgling and existing ecosystem enthusiasts. The speed and flexibility afforded by its architecture to<a href="https://hackernoon.com/managing-complex-data-structures-in-nodejs-17b571c0ba04"> </a><a href="https://hackernoon.com/managing-complex-data-structures-in-nodejs-17b571c0ba04"><strong>managing data</strong></a> creates an exciting range of possibilities for companies.</p><p id="ebb4da64-584a-4c6b-9226-d0050cbfad7f" class="">Implementing it can put enterprises on the cutting edge. Moreover, implementing the right choice of the database can drive down the costs of being on the cutting edge.</p><p id="fd2c724f-73c3-4362-b123-fda461f4246a" class="">
+</p><figure id="5d894dc4-a4a6-4203-99d9-5bc719e713e2" class="image"><a href="https://media.giphy.com/media/4bDXKRN2arfPy/giphy.gif"><img style="width:240px" src="https://media.giphy.com/media/4bDXKRN2arfPy/giphy.gif"/></a></figure><p id="2c082bbd-e3e0-4503-8452-2616addfb73d" class=""><a href="https://media.giphy.com/media/4bDXKRN2arfPy/giphy.gif">https://media.giphy.com/media/4bDXKRN2arfPy/giphy.gif</a></p><p id="9693da00-44ed-476d-9f44-0e49b3df2008" class="">
+</p><p id="f51bf90d-154b-4012-9b93-f550bd08dd62" class=""><em>Join us today to thank our newsletter sponsor, Couchbase. In an increasingly virtual world, companies need to be able to scale fast while using the technologies best-suited for their needs. Couchbase empowers developers to build responsive and flexible cloud, mobile, and edge computing applications that scale effortlessly. Couchbase is an award-winning, distributed cloud database that offers reliable services critical for business applications.</em></p><p id="693f1b39-37be-4af2-8e0c-2ea50d927d0b" class="">
+</p><p id="9ce9c542-9b10-454a-b5a8-b066bfe00f66" class="">***</p><p id="defdca7f-b74f-4fbd-be19-d23aa98dbaeb" class=""><a href="https://hackernoon.com/signup"><strong>Got a tech story to share with our readers?</strong></a><strong> </strong>Everything you&#x27;ve ever wanted to know about how to get published on Hacker Noon - <span style="border-bottom:0.05em solid">G</span><span style="border-bottom:0.05em solid"><a href="https://www.publish.hackernoon.com/"><strong>et it here</strong></a></span><span style="border-bottom:0.05em solid"><strong>.</strong></span></p><p id="bc4eaddc-af74-4569-b61f-498e36ad2b12" class="">
+</p></div></article></body></html>
