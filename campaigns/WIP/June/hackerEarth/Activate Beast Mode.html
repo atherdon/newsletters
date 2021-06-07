@@ -1,0 +1,634 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Activate: Beast Mode </title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.highlight-default {
+}
+.highlight-gray {
+	color: rgb(155,154,151);
+}
+.highlight-brown {
+	color: rgb(100,71,58);
+}
+.highlight-orange {
+	color: rgb(217,115,13);
+}
+.highlight-yellow {
+	color: rgb(223,171,1);
+}
+.highlight-teal {
+	color: rgb(15,123,108);
+}
+.highlight-blue {
+	color: rgb(11,110,153);
+}
+.highlight-purple {
+	color: rgb(105,64,165);
+}
+.highlight-pink {
+	color: rgb(173,26,114);
+}
+.highlight-red {
+	color: rgb(224,62,62);
+}
+.highlight-gray_background {
+	background: rgb(235,236,237);
+}
+.highlight-brown_background {
+	background: rgb(233,229,227);
+}
+.highlight-orange_background {
+	background: rgb(250,235,221);
+}
+.highlight-yellow_background {
+	background: rgb(251,243,219);
+}
+.highlight-teal_background {
+	background: rgb(221,237,234);
+}
+.highlight-blue_background {
+	background: rgb(221,235,241);
+}
+.highlight-purple_background {
+	background: rgb(234,228,242);
+}
+.highlight-pink_background {
+	background: rgb(244,223,235);
+}
+.highlight-red_background {
+	background: rgb(251,228,228);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(55, 53, 47, 0.6);
+	fill: rgba(55, 53, 47, 0.6);
+}
+.block-color-brown {
+	color: rgb(100,71,58);
+	fill: rgb(100,71,58);
+}
+.block-color-orange {
+	color: rgb(217,115,13);
+	fill: rgb(217,115,13);
+}
+.block-color-yellow {
+	color: rgb(223,171,1);
+	fill: rgb(223,171,1);
+}
+.block-color-teal {
+	color: rgb(15,123,108);
+	fill: rgb(15,123,108);
+}
+.block-color-blue {
+	color: rgb(11,110,153);
+	fill: rgb(11,110,153);
+}
+.block-color-purple {
+	color: rgb(105,64,165);
+	fill: rgb(105,64,165);
+}
+.block-color-pink {
+	color: rgb(173,26,114);
+	fill: rgb(173,26,114);
+}
+.block-color-red {
+	color: rgb(224,62,62);
+	fill: rgb(224,62,62);
+}
+.block-color-gray_background {
+	background: rgb(235,236,237);
+}
+.block-color-brown_background {
+	background: rgb(233,229,227);
+}
+.block-color-orange_background {
+	background: rgb(250,235,221);
+}
+.block-color-yellow_background {
+	background: rgb(251,243,219);
+}
+.block-color-teal_background {
+	background: rgb(221,237,234);
+}
+.block-color-blue_background {
+	background: rgb(221,235,241);
+}
+.block-color-purple_background {
+	background: rgb(234,228,242);
+}
+.block-color-pink_background {
+	background: rgb(244,223,235);
+}
+.block-color-red_background {
+	background: rgb(251,228,228);
+}
+.select-value-color-default { background-color: rgba(206,205,202,0.5); }
+.select-value-color-gray { background-color: rgba(155,154,151, 0.4); }
+.select-value-color-brown { background-color: rgba(140,46,0,0.2); }
+.select-value-color-orange { background-color: rgba(245,93,0,0.2); }
+.select-value-color-yellow { background-color: rgba(233,168,0,0.2); }
+.select-value-color-green { background-color: rgba(0,135,107,0.2); }
+.select-value-color-blue { background-color: rgba(0,120,223,0.2); }
+.select-value-color-purple { background-color: rgba(103,36,222,0.2); }
+.select-value-color-pink { background-color: rgba(221,0,129,0.2); }
+.select-value-color-red { background-color: rgba(255,0,26,0.2); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="f349c78b-3ef3-452c-9b84-1a466ec16e7d" class="page sans"><header><h1 class="page-title">Activate: Beast Mode </h1></header><div class="page-body"><figure id="230c1bb3-fb28-451b-8ca6-743ed9c92310" class="image"><a href="https://media.giphy.com/media/9zKB9ynAsiE3S/giphy.gif"><img style="width:336px" src="https://media.giphy.com/media/9zKB9ynAsiE3S/giphy.gif"/></a></figure><p id="a9ca7e88-c868-40e9-bfd0-e7c757dd252d" class=""><a href="https://media.giphy.com/media/9zKB9ynAsiE3S/giphy.gif">https://media.giphy.com/media/9zKB9ynAsiE3S/giphy.gif</a></p><p id="8631c730-29f8-4618-977b-7db2b37c30da" class="">
+</p><p id="dea6d29e-85f6-42c5-806d-625cf1ee9e0a" class="">There’s an astronomical difference between simply <em>writing code</em> and being a great developer. Anyone can pick up the basics of<a href="https://hackernoon.com/learn-functional-python-in-10-minutes-to-2d1651dece6f"> </a><a href="https://hackernoon.com/learn-functional-python-in-10-minutes-to-2d1651dece6f"><strong>syntax</strong></a> and formatting.</p><p id="fc849642-ee8b-4be9-a80d-f95157cd94ec" class="">But what actually takes someone from being simply ‘capable’ to being ‘great’?</p><p id="aba0ed91-c753-40ee-b109-c0a27c0daaa5" class=""><strong>The ability to learn.</strong></p><p id="5604d7ca-f8ed-4924-b17b-c3e0fc7850ab" class="">The secret sauce to a developer’s excellence can be found in the ability to harness an effective learning process, thus, moving past being a shell of static, safe mediocrity.</p><p id="06238881-d7b8-4bcd-b796-b663f17b6a94" class="">Learning through more systematic resources like books, courses, and tutorials can help you unfold your coding journey and pick up the basics <em>no problem</em>.</p><p id="61453c69-837f-4145-bc07-dac5aae3f81a" class="">However, just like making a complex cooking recipe, becoming a better<a href="https://hackernoon.com/what-developers-should-expect-from-working-in-a-startup-4w1j33mb"> </a><a href="https://hackernoon.com/what-developers-should-expect-from-working-in-a-startup-4w1j33mb"><strong>developer</strong></a> means that you need to diversify the techniques that you use and make sure to alternate between various learning resources.</p><p id="0aac59d0-0828-4c14-b1f9-ed210eb92974" class="">With that said, below are our tidbits of wisdom to propel you forwards to a brighter coding future.</p><h2 id="214ebe1c-da2c-4bed-b6cb-e009775f66c3" class=""><strong>Be Teachable</strong></h2><p id="b77ad9be-c37e-46e7-8352-9f3ad29edda1" class="">Too many<a href="https://hackernoon.com/taking-on-computer-science-kik3tc6"> </a><a href="https://hackernoon.com/taking-on-computer-science-kik3tc6"><strong>computer science</strong></a> graduates exude the “I know everything” bravado. Let&#x27;s get it straight: you don’t. And that’s okay. Your curiosity and self-doubt can sometimes program you into the mood for breaking new grounds.</p><h2 id="a95c469c-2c3d-4a62-9e37-ba4d5f964f3f" class=""><strong>Don’t Spread Yourself too Thin</strong></h2><p id="737fa37f-41ff-4ac1-9b68-8310353c8619" class="">Don’t get overwhelmed with the media headlines that declare a new movement with every new function or technology.</p><p id="de1045a6-511d-4752-89fb-d1dec6ee6458" class="">You won’t see most new frameworks or features catching fire, hence, there’s no real need to learn all of them all at once. We recommend focusing your energy on the following three pillars:</p><p id="4c86f65c-d137-4c1a-ad9e-634134d27e43" class="">● 	Living and breathing the basics of the<a href="https://hackernoon.com/psa-selecting-your-tech-stack-is-not-the-most-important-part-g7he33yz"> </a><a href="https://hackernoon.com/psa-selecting-your-tech-stack-is-not-the-most-important-part-g7he33yz"><strong>tech stack</strong></a> you use;</p><p id="949decef-38fe-4dd7-9308-878381a39ded" class="">● 	Being familiar with the latest version of your go-to stack;</p><p id="b66c4a68-90a3-49db-8cfa-f1aedfd5873b" class="">● 	Being well versed in technology that is secured by market titans.</p><p id="c101939f-3935-42a1-bc2d-afd05da11f25" class="">
+</p><figure id="368160a3-28f1-4ceb-8137-816dbf8b7ddc" class="image"><a href="https://media.giphy.com/media/7NUR5Qvr93ed8T2dsG/giphy.gif"><img style="width:336px" src="https://media.giphy.com/media/7NUR5Qvr93ed8T2dsG/giphy.gif"/></a></figure><p id="153096fc-7fd7-43bf-9d43-c6451efbb802" class=""><a href="https://media.giphy.com/media/7NUR5Qvr93ed8T2dsG/giphy.gif">https://media.giphy.com/media/7NUR5Qvr93ed8T2dsG/giphy.gif</a></p><p id="51b31806-f587-4bad-bf48-ce9daf67a9fa" class="">In case you have a hard time understanding the fundamentals, create a list of go-to topics that is easy to maneuver and access.</p><p id="4cf2a2f2-00b0-40f4-8622-3b896fd27466" class=""><strong>CodeMonk,</strong> for example, will help your bright mind get the hang of the<a href="https://hackernoon.com/the-abcs-of-javascript-apply-bind-and-call-up4c33ld"> </a><a href="https://hackernoon.com/the-abcs-of-javascript-apply-bind-and-call-up4c33ld"><strong>programming ABCs</strong></a>.</p><h2 id="0fee8d54-ea4e-4132-b32b-adf9c3eddb86" class=""><strong>Your Work is Never Done</strong></h2><p id="1268ea95-570c-4648-8ba7-77bc5f17c1f7" class="">We’re fully aware that your main objective is to write high-quality code that meets the specs.</p><p id="f5eb9d62-4f35-42de-9199-ed0b97a80781" class="">However, making the code work is actually just your starting point. Granted, that’s what makes a huge difference between an average performance and an outstanding performance. However, now that you acknowledge that your code works, make it even better.</p><p id="2e0f074a-06b9-4b69-961a-1661cab62ca2" class="">It’s useful to accept the fact that you’ll have to iterate your creation. Only then will you be able to distill even the smallest pieces of the problem and brew up a robust solution.</p><h2 id="b2b1cd06-98f1-4364-822a-58e196ffc9fb" class=""><strong>Read Lots of Code, Write Lots of Code, Repeat</strong></h2><p id="8002f152-0ec9-4c2d-86bc-375857dbb842" class="">In your daily work, learning to read code will turn out to be more important than writing it. That’s because a big part of your tasks still boils down to debugging and cleaning up other people&#x27;s coding attempts or performing code reviews.</p><p id="b072e833-b3d0-4df4-93be-3c4e1bb92c75" class="">
+</p><figure id="0eba3465-1974-4ea0-a398-03543437fec0" class="image"><a href="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"><img style="width:384px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/></a></figure><p id="26301ae9-96f2-422e-b274-c51663a72ae1" class=""><a href="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif</a></p><p id="d4c24a32-d774-4528-aa58-e205e37c37fc" class="">Tech reading skills can narrow the learning curve and help your literacy of the programming languages.</p><p id="19f99272-9569-4883-a70b-5f301bca53a1" class="">Whether it’s writing large programs, supportable code, or<a href="https://hackernoon.com/3-tier-software-architecture-tutorial-for-non-developers-re1233f0"> </a><a href="https://hackernoon.com/3-tier-software-architecture-tutorial-for-non-developers-re1233f0"><strong>software architecture</strong></a>, you’ll perform more confidently with some code-reading skills under your belt.</p><p id="117e3497-e206-4556-a3b2-b56562d5ed1b" class="">Ergo, once you’ve found a great project (preferably, an open-source one), sink your teeth into it.</p><p id="c0774284-a8c5-49f7-8b3f-995bfa5cc5c9" class="">You should be thinking about things like: What type of architecture does this project leverage? Why did they opt for a particular pattern?</p><h2 id="58d85e00-9790-495d-a2e0-f4ee9bb9e678" class=""><strong>Keep Calm, and Carry on Coding</strong></h2><p id="539c898d-3a1e-443d-a679-8928c0788b4b" class="">Your code will never seem perfect - <em>just deal with it</em>. There will always be some parts of it that just don&#x27;t seem good enough. That being said, that’s another differentiator between great and mediocre programmers – the great ones are always moving forward.</p><p id="38a4495e-5e1d-4fd2-bbea-6019b0426c11" class="">So, to all the coders out there: Keep calm, and carry on coding. You’ll pick up your greatness down the road. Just embarking on the coding journey is extremely admirable!</p><p id="22bb95a9-0dff-4ab1-959a-e1b77e796e84" class="">
+</p><figure id="6a2ce047-3e98-4eca-a3f5-6def0f571171" class="image"><a href="https://media.giphy.com/media/l0IsIbqihITrv41UY/giphy.gif"><img style="width:336px" src="https://media.giphy.com/media/l0IsIbqihITrv41UY/giphy.gif"/></a></figure><p id="4f79e86d-e971-4941-b12d-2c9abc9186a4" class=""><a href="https://media.giphy.com/media/l0IsIbqihITrv41UY/giphy.gif">https://media.giphy.com/media/l0IsIbqihITrv41UY/giphy.gif</a></p><p id="eb2f34e3-e434-4348-ba19-da38584abd73" class="">
+</p><p id="3517c565-5c8a-4efa-ae56-507b881caf4f" class=""><em>Join us today to thank our newsletter sponsor, HackerEarth. HackerEarth matches great developers with world-class companies so that organizations can meet their tech-hire needs efficiently. HackerEarth includes candidate accumulation processes such as hosting contests and coding practice sessions so that candidates are at their beast mode and ready to wow your company.  To find the right tech talent for your company, visit the HackerEarth platform.</em></p><p id="f2af1221-9141-4b0c-8b2e-66d375655442" class="">***</p><p id="c86d27c5-2842-46b1-9195-bb6f3df0d3d6" class=""><a href="https://hackernoon.com/signup"><strong>Got a tech story to share with our readers?</strong></a> Everything you&#x27;ve ever wanted to know about how to get published on Hacker Noon -<a href="https://www.publish.hackernoon.com/"><strong> get it here</strong></a><strong>.</strong></p><p id="af8c4f87-eff9-46bd-98ef-07de98621dfe" class="">
+</p></div></article></body></html>
