@@ -1,0 +1,637 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Ghost in Your Machine</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.highlight-default {
+}
+.highlight-gray {
+	color: rgb(155,154,151);
+}
+.highlight-brown {
+	color: rgb(100,71,58);
+}
+.highlight-orange {
+	color: rgb(217,115,13);
+}
+.highlight-yellow {
+	color: rgb(223,171,1);
+}
+.highlight-teal {
+	color: rgb(15,123,108);
+}
+.highlight-blue {
+	color: rgb(11,110,153);
+}
+.highlight-purple {
+	color: rgb(105,64,165);
+}
+.highlight-pink {
+	color: rgb(173,26,114);
+}
+.highlight-red {
+	color: rgb(224,62,62);
+}
+.highlight-gray_background {
+	background: rgb(235,236,237);
+}
+.highlight-brown_background {
+	background: rgb(233,229,227);
+}
+.highlight-orange_background {
+	background: rgb(250,235,221);
+}
+.highlight-yellow_background {
+	background: rgb(251,243,219);
+}
+.highlight-teal_background {
+	background: rgb(221,237,234);
+}
+.highlight-blue_background {
+	background: rgb(221,235,241);
+}
+.highlight-purple_background {
+	background: rgb(234,228,242);
+}
+.highlight-pink_background {
+	background: rgb(244,223,235);
+}
+.highlight-red_background {
+	background: rgb(251,228,228);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(55, 53, 47, 0.6);
+	fill: rgba(55, 53, 47, 0.6);
+}
+.block-color-brown {
+	color: rgb(100,71,58);
+	fill: rgb(100,71,58);
+}
+.block-color-orange {
+	color: rgb(217,115,13);
+	fill: rgb(217,115,13);
+}
+.block-color-yellow {
+	color: rgb(223,171,1);
+	fill: rgb(223,171,1);
+}
+.block-color-teal {
+	color: rgb(15,123,108);
+	fill: rgb(15,123,108);
+}
+.block-color-blue {
+	color: rgb(11,110,153);
+	fill: rgb(11,110,153);
+}
+.block-color-purple {
+	color: rgb(105,64,165);
+	fill: rgb(105,64,165);
+}
+.block-color-pink {
+	color: rgb(173,26,114);
+	fill: rgb(173,26,114);
+}
+.block-color-red {
+	color: rgb(224,62,62);
+	fill: rgb(224,62,62);
+}
+.block-color-gray_background {
+	background: rgb(235,236,237);
+}
+.block-color-brown_background {
+	background: rgb(233,229,227);
+}
+.block-color-orange_background {
+	background: rgb(250,235,221);
+}
+.block-color-yellow_background {
+	background: rgb(251,243,219);
+}
+.block-color-teal_background {
+	background: rgb(221,237,234);
+}
+.block-color-blue_background {
+	background: rgb(221,235,241);
+}
+.block-color-purple_background {
+	background: rgb(234,228,242);
+}
+.block-color-pink_background {
+	background: rgb(244,223,235);
+}
+.block-color-red_background {
+	background: rgb(251,228,228);
+}
+.select-value-color-default { background-color: rgba(206,205,202,0.5); }
+.select-value-color-gray { background-color: rgba(155,154,151, 0.4); }
+.select-value-color-brown { background-color: rgba(140,46,0,0.2); }
+.select-value-color-orange { background-color: rgba(245,93,0,0.2); }
+.select-value-color-yellow { background-color: rgba(233,168,0,0.2); }
+.select-value-color-green { background-color: rgba(0,135,107,0.2); }
+.select-value-color-blue { background-color: rgba(0,120,223,0.2); }
+.select-value-color-purple { background-color: rgba(103,36,222,0.2); }
+.select-value-color-pink { background-color: rgba(221,0,129,0.2); }
+.select-value-color-red { background-color: rgba(255,0,26,0.2); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="a5682c4f-f48e-45bc-be19-196ab1b9e6f5" class="page sans"><header><h1 class="page-title">Ghost in Your Machine</h1></header><div class="page-body"><h2 id="caa3ac1c-f6d8-4e22-a530-d29b84f0118b" class=""><mark class="highlight-yellow_background">Preview text:</mark>	   It’s time to break free</h2><p id="f5357cf9-2b06-4ef4-9dd0-4ec15e8042a2" class="">
+</p><p id="b59a1cd0-115a-4057-8693-3dd716c80fdb" class="">What’s more frightening than Halloween? It’s definitely: Data migration.</p><p id="de953885-eacd-4a03-acf7-f6d6aca244e4" class=""><a href="https://hackernoon.com/migration-makes-my-skin-crawl-from-sql-to-nosql-ic7835kh"><strong>Data migration</strong></a> processes can be terrifying, and rightfully so.</p><p id="db896e6b-542c-428e-93e6-08ea1930d891" class="">Whether you’re a company owner, manager, or developer, moving from an<strong><a href="https://hackernoon.com/what-is-sql-and-where-is-it-used-0c19355b"> SQL</a></strong><strong> </strong>database to a<a href="https://hackernoon.com/the-pros-and-cons-of-nosql-391l3268"> </a><a href="https://hackernoon.com/the-pros-and-cons-of-nosql-391l3268"><strong>NoSQL</strong></a> database (or vice versa) is quite the undertaking.</p><p id="d016461b-cbf0-4fbf-a1b5-321d78be2e89" class="">That being considered, modern technology is dictating its terms. Thus, the fear of data migration is simply not a good enough reason for holding on to something which you’ve outgrown.</p><p id="f3244653-0a2f-45ec-b21f-d2b4d0d6734d" class="">
+</p><figure id="04bcbd89-bf24-4697-ba97-282dc87d26b8" class="image"><a href="https://media.giphy.com/media/RokPlX3C71piryApkp/giphy.gif"><img style="width:336px" src="https://media.giphy.com/media/RokPlX3C71piryApkp/giphy.gif"/></a></figure><p id="89371357-0a87-4e91-851e-afe8fa72bbe9" class=""><a href="https://media.giphy.com/media/RokPlX3C71piryApkp/giphy.gif">https://media.giphy.com/media/RokPlX3C71piryApkp/giphy.gif</a></p><h2 id="0b76ec5a-7ddd-4d38-9719-2a3fe878c02f" class=""><strong>Is Ditching SQL for NoSQL Worth it?</strong></h2><p id="da4c3456-d88e-400c-a540-4ac5b550f222" class="">Usually, you don’t decide to dump your<a href="https://hackernoon.com/tutorial-top-5-ways-to-query-your-relational-database-in-javascript-part-2-sa293u0y"> </a><strong><a href="https://hackernoon.com/tutorial-top-5-ways-to-query-your-relational-database-in-javascript-part-2-sa293u0y">relational DB</a></strong><strong> </strong>in the spur of the moment. In most cases, your application and use cases naturally bring you to this point.</p><p id="42c335e8-c1fe-4dfa-9fc0-6119b65e272a" class="">The need for greater flexibility — both in the scaling model and the data model— usually serves as motivation for this changeover.</p><p id="e889a8e8-b2a6-4183-b92f-fda07992f849" class="">Therefore, it’s not a matter of worthiness, it’s more about keeping up with current needs.</p><h2 id="b464a7dd-8f4c-4685-bab7-4730daa522f8" class=""><strong>RDBMS are not Enough</strong></h2><p id="29718085-42b8-48b1-83b6-04c3ae123301" class="">Typical web apps are built on a three-tier architecture that includes<strong><a href="https://hackernoon.com/the-essential-architectures-for-every-data-scientist-and-big-data-engineer-f21u3e5c"> data</a></strong>, logic, and presentation.</p><p id="ebe45a18-0326-4acb-8ad4-f48604797710" class="">If you want to scale the application, you simply add commodity<strong><a href="https://hackernoon.com/-721832n9"> web servers</a></strong> to support more users. However, that’s where there is a catch.</p><p id="9029e753-86b5-4690-88c2-bc5152006c47" class="">Relational databases don’t have a<strong><a href="https://hackernoon.com/should-you-be-using-nosql-q11i3y58"> </a></strong><strong><a href="https://hackernoon.com/should-you-be-using-nosql-q11i3y58"><em>flexible data model</em></a></strong><strong>.</strong> This means that you won’t get away with using commodity hardware in your scaling initiative<strong>.</strong></p><p id="3c757d79-6736-4702-81ad-382c956a0b84" class="">Instead, you’ll have to draw on immensely complex, big servers that guzzle up monstrous fees. Seems pretty bleak. Doesn’t it?</p><h2 id="fa12a128-c578-4994-8ca0-bce96ece2853" class=""><strong>It’s Time</strong></h2><p id="1ff37c3e-5fbc-4310-875e-59ec37b8197e" class="">Below is some literature for how you decide on whether to free yourself from the shackles (or not):</p><p id="1515403a-480b-41c2-9d1e-8c51ea2032a1" class=""><strong>1.</strong>    <strong> Identify the key requirements for your application:</strong></p><p id="1d532990-3a51-4a06-a3de-7036b972f627" class=""><em>You will hit the jackpot with your NoSQL transitioning when:</em></p><p id="7f93f169-8a53-462a-8fbe-6886b6b6e04e" class="">A.   You need rapid<a href="https://hackernoon.com/top-open-source-ios-libraries-to-know-about-for-app-development-4e3b334p"><strong> app development</strong></a><strong> </strong>due to the shifting market or data needs.</p><p id="2dbd4515-c773-45a1-8a4f-08f1d179c00f" class="">B.   You need scalability under notable user demand.</p><p id="514bae2a-5de4-46cd-83b1-a39313582e1e" class="">C.   You need constant performance with low response time and high throughput.</p><p id="f83a75e7-c9df-41bc-b0a5-1d5051c67230" class="">D.   You need operational reliability to handle failures.</p><p id="a686c8ff-b95c-4b7d-8ea8-105802ca8e3d" class="">
+</p><figure id="0487aab0-1c2a-4155-877b-19a2ed8c4967" class="image"><a href="https://media.giphy.com/media/l2JdY5cEtlOdiRh3G/giphy.gif"><img style="width:336px" src="https://media.giphy.com/media/l2JdY5cEtlOdiRh3G/giphy.gif"/></a></figure><p id="c3566eda-b64d-4b51-9442-b718dc2d1c8a" class=""><a href="https://media.giphy.com/media/l2JdY5cEtlOdiRh3G/giphy.gif">https://media.giphy.com/media/l2JdY5cEtlOdiRh3G/giphy.gif</a></p><p id="33de0d43-7b9e-410f-86d9-f0ef441dd8fc" class="">
+</p><p id="f588972f-d1d1-44e2-9377-6589979eab0f" class=""><strong>2.</strong>    <strong> Study the various types of NoSQL offerings:</strong></p><p id="82241167-023e-4b07-83d0-d20d25670b02" class="">Document databases are not created equal.</p><p id="9ff1cc4d-ba2d-4afd-84ef-1e1cbac286a5" class="">In some cases, Couchbase might be the database you use to build responsive and flexible cloud, mobile, and<a href="https://hackernoon.com/the-promise-of-edge-computing-856n3yi9"> </a><a href="https://hackernoon.com/the-promise-of-edge-computing-856n3yi9"><strong>edge computing</strong></a> applications that scale with ease.</p><p id="171bd6cf-6598-40a5-815d-524ced193ea8" class="">
+</p><p id="3718f68a-0b5b-4a2d-b621-1a85f1d65917" class=""><strong>3.</strong><strong>    </strong><strong> Make the tough call:</strong></p><p id="c7f9a3a2-581c-4bc8-81b1-8604f01da2d6" class="">The main difficulty is in understanding the vastness of NoSQL databases.</p><p id="03d9b0dc-ffae-42e2-a415-4d07af07ba8f" class="">While each record in a SQL database complies with a<a href="https://hackernoon.com/relational-databases-designing-schema-writing-a-query-8e714fce689d"> </a><a href="https://hackernoon.com/relational-databases-designing-schema-writing-a-query-8e714fce689d"><strong>schema</strong></a>, NoSQL DBs can have each document be composed with a unique structure.</p><p id="72e457d7-1bb7-4857-8e2c-520b89cfd783" class="">Don’t worry, you don’t need any extra management tools to handle those changes to document schemas.</p><p id="924114f7-36e6-4a34-84c7-71463e5ff832" class="">Besides, some NoSQL databases have added <em>more structural features</em> to bring the familiar tables and schema format to a NoSQL database.</p><p id="1548bd70-2767-46b6-908a-7f4ee33d8f66" class="">
+</p><p id="4e083cdc-a4ee-4e5a-8cda-e356fc66373d" class=""><strong>Translation difficulties may include</strong>:</p><p id="4c5a91d4-25e8-4057-8545-902631a812a4" class="">●     Denormalization (repetition of data is acceptable in NoSQL).</p><p id="e4cd24c0-2841-4c14-93ac-623983ec72b2" class="">●     Sacrificing<a href="https://hackernoon.com/implementing-a-distributed-multi-document-acid-transactions-in-couchbase-a-how-to-guide-pt1y33jy"> </a><a href="https://hackernoon.com/implementing-a-distributed-multi-document-acid-transactions-in-couchbase-a-how-to-guide-pt1y33jy"><strong>ACID</strong></a> to achieve scalability.</p><p id="2a76c7af-89c9-48a8-83c4-30d98e6bfa08" class="">●   No relationship between the tables (although some of the NoSQL DBs allow relationships between entities).</p><p id="165897ba-5fda-4fc6-9035-ec685a1a2430" class="">There are a lot of different ways to ETL aka transform data from a SQL database to a NoSQL database, hence you’ll face some dilemmas when deciding on data import as well.</p><h2 id="955efd68-d310-4963-9e1b-3ffd3baf558d" class=""><strong>Don’t Leave me</strong></h2><p id="387729ff-b599-43cb-9625-c62fbf4e1ef0" class="">With all that <em>rambling on</em> about how difficult it is to migrate your data, consider one important point.</p><p id="6ca14cfd-2d6b-4ed3-bd8a-56d32026b605" class="">There may be many situations where you want to leave behind your SQL server and go to a new one. </p><p id="0104a25a-5f01-4599-a4a6-9e5e36e86141" class="">However, there are still lots of use cases where a migration doesn&#x27;t mean you abandon the old database. You can use multiple database systems to separate data belonging to different applications.</p><p id="80183a06-8f4c-4cc2-82ca-4605f1b8e6fb" class="">Migration is not the only option. You can abandon one or the other, or build a bridge between the two.</p><p id="20411686-d432-4d18-91b8-24a92f780082" class="">This is the part when you break free (from the dilemma).</p><p id="d5a83d99-038c-427a-ac5b-b16f52d5cc7d" class="">
+</p><figure id="b94c022a-b77d-4167-a700-8c2e5acec7fc" class="image"><a href="https://media.giphy.com/media/6pFZbo0YRP27e/giphy.gif"><img style="width:336px" src="https://media.giphy.com/media/6pFZbo0YRP27e/giphy.gif"/></a></figure><p id="7fa51040-e2a9-4279-abc3-bb9e6ffc5185" class=""><a href="https://media.giphy.com/media/6pFZbo0YRP27e/giphy.gif">https://media.giphy.com/media/6pFZbo0YRP27e/giphy.gif</a></p><p id="6f4c866e-fa2e-446d-b44b-7f8cbdcf661c" class="">
+</p><p id="056282c7-61fe-4829-9487-106b1a184447" class=""><em>Join us today to thank our newsletter sponsor, Couchbase. In an increasingly virtual world, companies operating on cloud services need to be able to scale fast without any hiccups. If you are considering moving your distributed and elastic data sets over to a NoSQL database, Couchbase has the right environment for you.  Couchbase is the architect’s choice for NoSQL. Couchbase is an award-winning, distributed cloud database that offers reliable services critical for business applications.</em></p><p id="9e4409ea-4674-46b7-8e2e-f552aaa4c24f" class="">***</p><p id="3af07baf-05d9-405c-b376-e9932112c2d4" class=""><a href="https://hackernoon.com/signup"><strong>Got a tech story to share with our readers?</strong></a> Everything you&#x27;ve ever wanted to know about how to get published on <em>Hacker Noon</em> -<a href="https://www.publish.hackernoon.com/"><strong> get it here</strong></a></p><p id="6cd19a44-af69-4519-a8fe-a19a6a6a036a" class="">
+</p></div></article></body></html>
